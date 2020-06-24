@@ -5,6 +5,8 @@ tags: markdown
 
 Hello world
 
+[[creativity]]
+
 This is intended as a quick reference and showcase. 
 
 **Table of Contents**
