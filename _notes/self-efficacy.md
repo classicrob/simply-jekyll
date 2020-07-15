@@ -1,3 +1,6 @@
+---
+title: self-efficacy
+---
 Self-efficacy is the belief that you are capable of doing some action, otherwise phrased in here as [[The user believes that they are capable of performing actions within the app]].
 
 Self-efficacy is associated with (Bandura, 1998):

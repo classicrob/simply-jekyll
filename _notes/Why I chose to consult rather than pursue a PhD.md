@@ -1,3 +1,6 @@
+---
+title: Why I chose to consult rather than pursue a PhD
+---
 Index pages:: [[Career decisions]]
 
 Behavioral science is a deep passion of mine. Upon graduation, I didn't want to stop studying it. A question arose from many (myself included), "Why not go get a PhD?" There were many reasons, but this thought experiment was the main one.

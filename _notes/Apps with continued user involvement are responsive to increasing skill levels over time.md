@@ -1,3 +1,6 @@
+---
+title: Apps with continued user involvement are responsive to increasing skill levels over time
+---
 Near the beginning of a person's personal productivity journey, they may be fine with using Apple Reminders as their form of task manager. Eventually, [[User skill level increases over time]], so they may want to sort tasks into projects. Apple Reminders can handle that, so the user remains satisfied. 
 
 Eventually, they read Getting Things Done and realize that the Lists within Apple Reminders just won't do the trick. According to the principles of [[Difficulty Matching]], this is the point where they could get bored with their status quo. They might migrate over to something like Todoist, which is flexible and can handle those workflows.

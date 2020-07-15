@@ -1,3 +1,6 @@
+---
+title: The most successful app adoptions come from a project
+---
 #stub
 
 [[New users do not yet have the vocabulary to understand the app]]. A big mistake that many people make when they try out a new app is that they’ll try to understand features in a very abstract sense. **They will try to understand what it is without knowing what it is for.** When people make this mistake, [[Adoption]] goes down. Projects allow the app to [[Speak to the user with a shared vocabulary]]. 

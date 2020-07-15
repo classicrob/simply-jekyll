@@ -1,3 +1,6 @@
+---
+title: The user believes that the app will help them achieve a goal that they actually have
+---
 #stub
 
 This is just good product design and user research. Learn about the user’s goals and how committed they are to achieving them and the product with that in mind.
