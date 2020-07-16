@@ -1,16 +1,4 @@
 <!-- Parse internal links, external links, transclusions etc and manipuate the content to reflect it accordingly -->
-{%- if page.content-type == "post" -%}
-<ul class="tags">
-    {%- if page.status != nil and page.status != empty -%}
-    <li><a href="javascript:void(0)" class="tag"><b>Status:</b> <i>{{page.status | capitalize}}</i></a></li>
-    {%- endif -%}
-    <li><a href="/dates/#{{ page.date | date: '%d-%B-%Y' }}" class="tag">{{ page.date | date: '%B-%d-%Y' }}</a></li>
-    <!-- Loop through page categories and print them in tags -->
-    {%- for tag in page.tags -%}
-        <li><a href="/tags/#{{ tag }}" class="tag">{{ tag }}</a></li>
-    {%- endfor -%}
-</ul>
-{%- endif -%}
 <div class="content">
     {%- assign content_array = content | split:'[[' -%}
     {%- assign external_link_delimiter = '::' -%}
@@ -47,16 +35,11 @@
     {%- for title in internal_link_array -%}
         {%- assign url = internal_url_array[forloop.index0] -%}
         {%- if url == nil -%}
-            {%- assign link_text = '<a style="background-color:#ffffc4;" href="' | append: 'javascript:void(0)' | append: '">' | append: title | append: '</a>' -%}
+            {%- assign link_text = '<a class="stale-link" href="' | append: 'javascript:void(0)' | append: '">' | append: title | append: '</a>' -%}
         {%- elsif url == empty -%}
-            {%- assign link_text = '<a style="background-color:#ffffc4;" href="' | append: 'javascript:void(0)' | append: '">' | append: title | append: '</a>' -%}
+            {%- assign link_text = '<a class="stale-link" href="' | append: 'javascript:void(0)' | append: '">' | append: title | append: '</a>' -%}
         {%- else -%}
-            {%- assign post = site.notes | where: 'title',title -%}
-            {%- if post[0].title == nil -%}
-            {%- assign post = site.posts | where: 'title',title -%}
-            {%- endif -%}
-            {%- assign excerpt = post[0].content | markdownify | strip_html | truncate: 500 | newline_to_br -%}
-            {%- assign link_text = '<span class="tooltip"><a href="' | append: url | append: '">' | append: title | append: '</a><span class="right bottom"><span class="tooltip-title">' | append: title | append: '</span><br/><span class="tooltip-excerpt">' | append: excerpt | append: '</span><i></i></span></span>' -%}
+            {%- assign link_text = '<a href="' | append: url | append: '">' | append: title | append: '</a>' -%}
         {%- endif -%}
         {%- assign bracket_link = '[[' | append: title | append: ']]' -%}
         {%- assign replaced_content = replaced_content | replace: bracket_link,link_text -%}
@@ -80,7 +63,7 @@
         {%- elsif url contains "github.com" or url contains "github.io" -%}
             {%- assign link_text = '<a href="' | append: url | append: '">' | append: title | append: '<sup ><i class="fa fa-github"></i></sup></a>' -%}
         {%- elsif url == "highlight" -%}
-            {%- assign link_text = '<span style="background-color: #DAEDFF; color: #555;">' | append: title | append: '</span>' -%}
+            {%- assign link_text = '<span style="font-family: inherit; font-weight: inherit; font-style: inherit; font-size: inherit; background-color: #DAEDFF;">' | append: title | append: '</span>' -%}
         {%- elsif url == "wrap" -%}
             {%- assign link_text = '<div class="boxit">' | append: title | append: '</div>' -%}
         {%- elsif url == "img" -%}
@@ -125,8 +108,10 @@
                 {%- assign link_text = link_text | append: '<li>' | append: list_items | append: '</li>' -%}
             {%- endfor -%}
             {%- assign link_text = link_text | append: '</ul>' -%}
+        {%- elsif url contains "raghuveer.net" or url contains "localhost" or url contains "127.0.0.1" -%}
+        {%- assign link_text = '<a href="' | append: url | append: '">' | append: title | append: '</a>' -%}      
         {%- else -%}
-        {%- assign link_text = '<a href="' | append: url | append: '">' | append: title | append: '</a>' -%}
+        {%- assign link_text = '<a href="' | append: url | append: '">' | append: title | append: '<sup><i style="font-size: 8px;" class="fa fa-external-link"></i></sup></a>' -%}
         {%- endif -%}
         {%- assign bracket_link = '[[' | append: title | append: external_link_delimiter | append: url | append: ']]' -%}
         {%- assign replaced_content = replaced_content | replace: bracket_link,link_text -%}
