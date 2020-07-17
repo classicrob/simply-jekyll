@@ -8,6 +8,8 @@ copyright_name: Rob Haisfield
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://robhaisfield.com" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
+google_analytics: UA-172451684-1
+
 
 # Build settings
 theme: null
