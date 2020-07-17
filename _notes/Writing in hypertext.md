@@ -10,3 +10,5 @@ Most ideas relate to many ideas, and expressing that through linear blog posts w
 Another thing that I love about writing in hypertext is that I can express my thinking in a way that is simultaneously more in depth and more concise. If you have already read a page and internalized its core idea, than all you need to do is see the title of that page to bring to mind the entire argument. At the same time, if something doesn't make sense, you can explore its context by navigating to the ideas that it is built on. 
 
 With hypertext writing, I'm designing this for curiosity.
+
+Yes, I understand the irony that this page is not densely linked elsewhere. Hypertext is a tool for me to express my thoughts moreso than something I try to spend too much time thinking about.
