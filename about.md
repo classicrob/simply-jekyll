@@ -5,7 +5,7 @@ layout: post
 permalink: /about/
 ---
 
-I'm Rob Haisfield, CEO of [[Behavioral Product Strategy]] and [[Gamification]] consultancy [[Influence Insights]]. I'm also a behavioral product strategist at startup studio [[Spark Wave]], where I do the same thing as I do in my consulting except I do it for portfolio companies.
+I'm Rob Haisfield, CEO of [[Behavioral Product Strategy]] and [[Gamification]] consultancy [Influence Insights](https://www.influenceinsights.io/). I'm also a behavioral product strategist at startup studio [Spark Wave](https://www.sparkwave.tech/), where I do the same thing as I do in my consulting except I do it for portfolio companies.
 
 Generally speaking, this means that I read a lot of behavioral science papers, I play a lot of video games, and I think about how the principles of each apply to the way that the apps functions. This is all with the aim of enabling users to better accomplish their goals. I begin to discuss ideas related to this in my pages on [[User Involvement]] and [[Behavioral Product Strategy]].
 

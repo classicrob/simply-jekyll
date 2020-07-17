@@ -1,5 +1,5 @@
 ---
-title: User involvement
+title: User Involvement
 ---
 **definition:** User involvement is defined by the behaviors that the user needs to do in order to make the product valuable to themselves. With high quality user involvement, people are using your product when their lives call for it and in a way that allows the product to fulfill its promise to the user.
 
