@@ -372,6 +372,11 @@ hr {
     text-decoration: underline;
 }
 
+.link-to-notes i {
+    font-size: 16.5px;
+    color: var(--primary-text-color);
+}
+
 .link-to-notes a, .link-to-notes svg {
     vertical-align: middle;
     display: inline-block;

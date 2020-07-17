@@ -22,15 +22,27 @@
             <div class="userdesc">
                 <p class="title-sans">{{site.user_description}}</p>
             </div> 
-            {%- if site.social != empty and site.social != nil and site.social != "" -%}
             <div class="link-to-notes">
                 <svg height="16" width="15" viewBox="0 0 24 24" class="anchor-link">
                     <path d="M11.96 14.945c-.067 0-.136-.01-.203-.027-1.13-.318-2.097-.986-2.795-1.932-.832-1.125-1.176-2.508-.968-3.893s.942-2.605 2.068-3.438l3.53-2.608c2.322-1.716 5.61-1.224 7.33 1.1.83 1.127 1.175 2.51.967 3.895s-.943 2.605-2.07 3.438l-1.48 1.094c-.333.246-.804.175-1.05-.158-.246-.334-.176-.804.158-1.05l1.48-1.095c.803-.592 1.327-1.463 1.476-2.45.148-.988-.098-1.975-.69-2.778-1.225-1.656-3.572-2.01-5.23-.784l-3.53 2.608c-.802.593-1.326 1.464-1.475 2.45-.15.99.097 1.975.69 2.778.498.675 1.187 1.15 1.992 1.377.4.114.633.528.52.928-.092.33-.394.547-.722.547z" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
                     <path d="M7.27 22.054c-1.61 0-3.197-.735-4.225-2.125-.832-1.127-1.176-2.51-.968-3.894s.943-2.605 2.07-3.438l1.478-1.094c.334-.245.805-.175 1.05.158s.177.804-.157 1.05l-1.48 1.095c-.803.593-1.326 1.464-1.475 2.45-.148.99.097 1.975.69 2.778 1.225 1.657 3.57 2.01 5.23.785l3.528-2.608c1.658-1.225 2.01-3.57.785-5.23-.498-.674-1.187-1.15-1.992-1.376-.4-.113-.633-.527-.52-.927.112-.4.528-.63.926-.522 1.13.318 2.096.986 2.794 1.932 1.717 2.324 1.224 5.612-1.1 7.33l-3.53 2.608c-.933.693-2.023 1.026-3.105 1.026z" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
-                </svg>
-                <a href="{{site.social}}">{{site.social}}</a>
+                </svg>&nbsp;
+                {%- if site.personal_site_url != empty and site.personal_site_url != nil and site.personal_site_url != "" -%}
+                <a href="{{site.personal_site_url}}">{{site.personal_site_name}}</a>&nbsp;&nbsp;&nbsp;
+                {%- endif -%}
+                {%- if site.twitter != empty and site.twitter != nil and site.twitter != "" -%}
+                <a href="{{site.twitter}}"><i class="fa fa-twitter"></i></a>&nbsp;&nbsp;&nbsp;
+                {%- endif -%}
+                {%- if site.linkedin != empty and site.linkedin != nil and site.linkedin != "" -%}
+                <a href="{{site.linkedin}}"><i class="fa fa-linkedin"></i></a>&nbsp;&nbsp;&nbsp;
+                {%- endif -%}
+                {%- if site.github != empty and site.github != nil and site.github != "" -%}
+                <a href="{{site.github}}"><i class="fa fa-github"></i></a>&nbsp;&nbsp;&nbsp;
+                {%- endif -%}
+                {%- if site.emailid != empty and site.emailid != nil and site.emailid != "" -%}
+                <a href="mailto:{{site.emailid}}"><i class="fa fa-envelope"></i></a>
+                {%- endif -%}
             </div>
-            {%- endif -%}
         </div>
     </div>
     <div class="avatar disable-select" title="click me to know more">
@@ -48,8 +60,19 @@
                 <p class="home-p">About</p>  
             </a>
         </div>
+        <div class="categories">
+            <a style="text-decoration: none;" href="/tags">
+            <svg class="icon-category" width="18" height="19" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4 9.5H20"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M4 15.5H20"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M10 3.5L8 21.5"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M16 3.5L14 21.5"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>                               
+            <p class="categories-p">Tags</p>
+            </a>
+        </div>
         <div class="rss">
-            <a style="text-decoration: none;" href="/feed.xml">
+            <a style="text-decoration: none;" href="/notes/feed.xml">
                 <svg class="icon-rss" width="18" height="19" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M4 11.5C6.38695 11.5 8.67613 12.4482 10.364 14.136C12.0518 15.8239 13 18.1131 13 20.5"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                     <path d="M4 4.5C8.24346 4.5 12.3131 6.18571 15.3137 9.18629C18.3143 12.1869 20 16.2565 20 20.5"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>

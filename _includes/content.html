@@ -1,4 +1,17 @@
 <!-- Parse internal links, external links, transclusions etc and manipuate the content to reflect it accordingly -->
+{%- if page.content-type == "notes" -%}
+{%- if page.status != nil and page.status != empty and page.tags != empty and page.tags !=nil -%}
+<ul class="tags">
+    {%- if page.status != nil and page.status != empty -%}
+    <li><a href="javascript:void(0)" class="tag"><b>Status:</b> <i>{{page.status | capitalize}}</i></a></li>
+    {%- endif -%}
+    <!-- Loop through page categories and print them in tags -->
+    {%- for tag in page.tags -%}
+        <li><a href="/tags/#{{ tag }}" class="tag">{{ tag }}</a></li>
+    {%- endfor -%}
+</ul>
+{%- endif -%}
+{%- endif -%}
 <div class="content">
     {%- assign content_array = content | split:'[[' -%}
     {%- assign external_link_delimiter = '::' -%}
@@ -111,7 +124,7 @@
         {%- elsif url contains "raghuveer.net" or url contains "localhost" or url contains "127.0.0.1" -%}
         {%- assign link_text = '<a href="' | append: url | append: '">' | append: title | append: '</a>' -%}      
         {%- else -%}
-        {%- assign link_text = '<a href="' | append: url | append: '">' | append: title | append: '<sup><i style="font-size: 8px;" class="fa fa-external-link"></i></sup></a>' -%}
+        {%- assign link_text = '<a target="_blank" href="' | append: url | append: '">' | append: title | append: '<sup><i style="font-size: 8px;" class="fa fa-external-link"></i></sup></a>' -%}
         {%- endif -%}
         {%- assign bracket_link = '[[' | append: title | append: external_link_delimiter | append: url | append: ']]' -%}
         {%- assign replaced_content = replaced_content | replace: bracket_link,link_text -%}

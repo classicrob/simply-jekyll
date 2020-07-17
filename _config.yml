@@ -1,6 +1,6 @@
 title: Webs of Influence
 name: Rob Haisfield
-user_description: Behavioral product strategist and gamification designer. I read a lot of behavioral science papers, play a lot of video games, and apply what I learn to make products that people love. Contact me on Twitter (@RobertHaisfield), email (rob@influenceinsights.io), or my website ( https://www.influenceinsights.io/ ).
+user_description: Behavioral product strategist and gamification designer. 
 notes_url: "https://robhaisfield.com"
 profile_pic: /assets/img/profile.png
 favicon: /assets/img/favicon.png
@@ -9,6 +9,21 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://robhaisfield.com" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 google_analytics: UA-172451684-1
+
+
+# Social Media Links
+twitter: https://www.twitter.com/RobertHaisfield
+emailid: rob@influenceinsights.io
+personal_site_name: Influence Insights
+personal_site_url: https://www.influenceinsights.io/
+linkedin:
+github:
+
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: raghuveerdotnet  # Please correct this with your discus username
 
 
 # Build settings
@@ -34,17 +49,16 @@ collections:
       output: true
       permalink: /notes/:title
 
+feed:
+  collections:
+    notes:
+      path: "/notes/feed.xml"
+
 defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-      permalink: /posts/:title
-      content-type: post
   - scope:
       path: ""
       type: notes
     values:
       layout: post
       content-type: notes
+      comments: true
