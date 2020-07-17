@@ -1,9 +1,9 @@
 ---
-title: follow curiosity unconditionally
+title: Follow curiosity unconditionally
 ---
 Index pages:: [[Methods for learning and thinking]]
 
-This is one of the main benefits that I've found with my decision to consult (see: [[Why I chose to consult rather than get a PhD]]).
+This is one of the main benefits that I've found with my decision to consult (see: [[Why I chose to consult rather than pursue a PhD]]).
 
 If I furthered my career into academia, then I would be doing a ton of readings, but those readings would have largely come from the prescriptions of professors.
 
