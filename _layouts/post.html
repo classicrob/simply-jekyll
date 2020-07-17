@@ -3,6 +3,9 @@
 
 <!DOCTYPE html>
 <html lang="en">
+{% if jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
 <head>
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <meta content="Knowledge Continuum" property="og:site_name"/>
