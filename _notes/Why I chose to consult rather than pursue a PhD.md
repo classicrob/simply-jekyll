@@ -9,12 +9,14 @@ Behavioral science is a deep passion of mine. Upon graduation, I didn't want to 
 
 
 Before I started consulting, I formed this thought experiment: fast forwarding the 6 years it might take to get a PhD, in which situation would I learn more, have more of an impact, and become more credible? In the situation where I spend that time getting a PhD, or gaining clients?  I've worked with quite a few products at this point. How many will I have by the end of 2020?  2024?
+
 ### Impact:
 * Consulting is a clear winner here.
 	* Working on a PhD, I would basically be 6 years removed from real impact.  I might publish some work that gets widely accepted, but who would use it besides other researchers?
 		* Plus turns out I __could__ publish in journals anyway if I wanted to, I'd probably just need a co-author.
 	* Most of the impact that I would have would be indirect, through my students.
 	* In consulting, I'm working with products, which have a direct impact on all people who use them.
+
 ### Learning:
 * Here it’s less clear, but I’m still going to give the edge to consulting.
 	* With academia, I would have been reading a lot of papers and learning from professors, but it would have been a lot of theorizing on my own about how the world works given my understanding that comes from the literature.  I would have ended up siloed in some way, shape, or form.  I experienced some of that in the summer before I started taking clients.  The mental models that I was building needed to be tested on real products being built in order to make a difference.
@@ -23,6 +25,7 @@ Before I started consulting, I formed this thought experiment: fast forwarding t
 		* I’m working on a large variety of projects, so I [[Learn through going up and down the ladder of abstraction]] 
 		* My thinking is driven out of any box that would come with focusing on one thing for a while
 		* I'm allowed to go down research rabbit holes that I wouldn’t have otherwise engaged with, which is valuable because [[There is no curriculum of everything you should know]].
+
 ### Credibility
 * Credentials are simply a way of knowing that someone knows what they are doing when they themselves don't know the field. If I'm hiring a programmer and I don't know programming myself, I'm just looking for a signal that I can trust their expertise.
 * Given the choice between hiring someone who just got a PhD and someone with six years of consulting experience with products, the choice seems clearly in favor of the person with real experience.
