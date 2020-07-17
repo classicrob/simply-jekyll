@@ -1,6 +1,6 @@
 ---
+title: Fogg Behavior Model
 ---
-
 - author:: [[BJ Fogg]]
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRob-Haisfield-Thinking-in-Public%2FuCftDPW4O-.jpeg?alt=media&token=22676b8c-00e1-45ab-ba95-ba9eb1779991)
 - This model isn't based on experimental evidence, but is rather a bunch of formalized common-sense assumptions. Use it as a set of rules of thumb that are generally good to follow and don't pretend like it's all the psych you need to make a good product and you'll be fine.

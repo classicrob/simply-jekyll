@@ -1,6 +1,6 @@
 ---
+title: Habits are the wrong thing to focus on for most behaviorally designed applications
 ---
-
 #stub
 
 Many people read Hooked and think to themselves, “Aha! I have discovered the key to making great products! People just need to use it all of the time and respond instantly to our whistle!”

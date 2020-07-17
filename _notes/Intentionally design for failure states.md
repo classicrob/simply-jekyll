@@ -1,6 +1,6 @@
 ---
+title: Intentionally design for failure states
 ---
-
 #stub 
 
 A failure state is when users fail to reach their goal in some way. In goal achievement, failure states are inevitable, because a goal is by definition a discrepancy between your desired state of reality and your present state. If we didn't have failure states, the intention-behavior gap [[There tends to be a gap between what people intend to do and what they actually do::rmn]] would be a non-issue (rather than one of the hardest problems in the world to solve). Before people start using your app, they probably tried to do it unsuccessfully in some other way.

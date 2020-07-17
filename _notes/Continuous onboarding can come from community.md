@@ -1,6 +1,6 @@
 ---
+title: Continuous onboarding can come from community
 ---
-
 #stub
 *Coming at some point soon*
 

@@ -1,6 +1,6 @@
 ---
+title: The hard problem of onboarding horizontal products
 ---
-
 **In order to successfully onboard a horizontal product, we need to deliver an experience that is initially meaningful to groups of people who understand and care about different things.**
 
 [[There are individual differences between new users in their initial user goals]] and [[People start using an app with different prior skill levels]]. This makes it difficult to [[Speak to the user with a shared vocabulary]] because there is no single user group.
