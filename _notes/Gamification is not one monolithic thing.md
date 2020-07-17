@@ -5,8 +5,6 @@ When people think of gamification, they tend to think of points, badges, and lea
 
 However, gamification can be done without feeling like gamification, without points, without badges, without extrinsic rewards. This is because gamification is, in fact, a whole domain of study. It represents a deep interplay between behavioral/cognitive science, game design, human-computer interaction, and research methods.
 
-When people ask me if gamification is effective, I have the same reaction that I expect many would have from the questions "Is strategy effective?" or "Is design effective?" How you do it is deeply important.
-
 I bear the same shocked reaction when someone asks "is gamification effective?" that many people would have if you asked them, "is design effective?" Let me say it clearly: **Gamification is not one monolithic thing.** Instead, it represents a deep interplay between behavioral/cognitive science, game design, human-computer interaction, and research methods. [[Gamification is influencing user behavior through design decisions informed by principles of behavioral science and game design that increase voluntary usage::rsn]]
 
 Gamification as you've been seeing it for years isn't being inspired by games and behavioral science, but rather, by other gamification. As a result of this lazy gamification, we've ended up with a "Foursquare genre of gamification" that doesn't understand when it’s welcome and applies copy/paste solutions to problems and populations that they weren't meant to solve for.

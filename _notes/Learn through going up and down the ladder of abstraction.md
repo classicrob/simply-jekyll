@@ -11,4 +11,4 @@ These abstractions can be found by asking yourself, **"If I take out the specifi
 
 This has been incredibly beneficial for my workflow- I'll often start off a project by asking myself which lenses feel relevant. Then I don't need to just sit in front of a computer and say "Alright, it's time to be creative now." The lenses are designed to give me useful starting points.
 
-Roam can enable abstractions by allowing me to look at a page, ask if there's a more abstract principle, fill out that abstract principle, and drag in the relevant subject via block referencestabs daily notes, with my commentary on top of it to specify the specifics of the situation. To see a concrete example of this: https://roamresearch.com/#/app/Rob-Haisfield-Thinking-in-Public/page/R46bhsGeE 
+Roam can enable abstractions by allowing me to look at a page, ask if there's a more abstract principle, fill out that abstract principle, and drag in the relevant subject via block references, with my commentary on top of it to specify the specifics of the situation. To see a concrete example of this: https://roamresearch.com/#/app/Rob-Haisfield-Thinking-in-Public/page/R46bhsGeE 
