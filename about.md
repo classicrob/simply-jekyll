@@ -1,10 +1,9 @@
 ---
-layout: post
-title: About
-permalink: /about/
+title: About Me
 content-type: eg
+layout: post
+permalink: /about/
 ---
-#stub 
 
 I'm Rob Haisfield, CEO of [[Behavioral Product Strategy]] and [[Gamification]] consultancy [[Influence Insights]]. I'm also a behavioral product strategist at startup studio [[Spark Wave]], where I do the same thing as I do in my consulting except I do it for portfolio companies.
 

@@ -1,6 +1,6 @@
 ---
-title: The user believes that their actions in the app lead to goal achievement
 ---
+
 #stub 
 
 If people are going to do something effortful, they want to know that their effort is going towards their goal.

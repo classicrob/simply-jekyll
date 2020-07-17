@@ -1,6 +1,6 @@
 ---
-title: The user may have a lack of imagination as to what user goals they can accomplish
 ---
+
 [[The user believes that the app will help them achieve a goal that they actually have]], but [[New users do not yet have the vocabulary to understand the app]]. This means they'll often be painfully unaware of all of the goals that they are able to accomplish.
     
 The app must communicate clearly to the user how the app relates to goals that the user already has. This is part of why I recommend products [[Use a badging system as a method of actionable user research]], even if a badging system isn't ultimately implemented.

@@ -3,13 +3,10 @@
 
 <!DOCTYPE html>
 <html lang="en">
-    {% if jekyll.environment == 'production' %}
-    {% include analytics.html %}
-    {% endif %}
 <head>
     <meta content="width=device-width, initial-scale=1" name="viewport" />
-    <meta content="Thinking in Webs" property="og:site_name"/>
-    <meta content="A web of my thoughts on behavioral product strategy, gamification, learning, and other personally important thoughts" property="og:description">
+    <meta content="Knowledge Continuum" property="og:site_name"/>
+    <meta content="A non-linear thread of important ideas weaved together to explore and understand the fabric of knowledge." property="og:description">
     <meta content="{{ site.url }}/about/" property="article:author">
 
     {%- if page.title -%}
@@ -24,10 +21,11 @@
     <title>{{site.title}}</title>
 
     <link rel="canonical" href="{{site.url}}{{page.url}}"/>
-    <link rel="apple-touch-icon" href="{{site.profile_pic}}">
+    <link rel="apple-touch-icon" href="/assets/img/profile.png">
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
 
-    <link rel="icon" href="{{site.favicon}}" type="image/png" sizes="16x16"/>
+    <link rel="icon" href="/assets/img/profile.png" type="image/png" sizes="16x16"/>
     <link href="/assets/css/style.css" rel="stylesheet" media="all" class="default"/>
 
     <!--[if IE]>
@@ -58,7 +56,64 @@
         </div>
         <button class="scroll-to-top" id="scroll-to-top"><i class="fa fa-chevron-up"></i></button>
     </div>
-    <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+    <script>
+        window.MathJax = {
+  jax: ["input/TeX","output/CommonHTML"],
+  CommonHTML: { linebreaks: {automatic: true}},
+  SVG: { linebreaks: {automatic: true}},
+  "HTML-CSS": { linebreaks: {automatic: true}},
+  extensions: ["tex2jax.js", "asciimath2jax.js", "mml2jax.js", "MathMenu.js", "MathZoom.js"],
+  TeX: {
+    extensions: ["AMSmath.js", "AMSsymbols.js", "autoload-all.js"]
+  },
+  tex2jax: {
+    inlineMath: [
+      ['$', '$'],
+      ["\\(", "\\)"]
+    ],
+    processEscapes: true
+  },
+  AuthorInit: function() {MathJax.Hub.Register.MessageHook("End Process", function (message) {
+            var timeout = false, // holder for timeout id
+            delay = 250; // delay after event is "complete" to run callback
+            var reflowMath = function() {
+              var dispFormulas = document.getElementsByClassName("formula");
+              if (dispFormulas){
+              for (var i=0; i<dispFormulas.length; i++){
+                var dispFormula = dispFormulas[i];
+                var child = dispFormula.getElementsByClassName("MathJax_Preview")[0].nextSibling.firstChild;
+                var isMultiline = MathJax.Hub.getAllJax(dispFormula)[0].root.isMultiline;
+                if(dispFormula.offsetWidth < child.offsetWidth || isMultiline){
+                  MathJax.Hub.Queue(["Rerender", MathJax.Hub, dispFormula]);
+                }
+              }
+            }
+            };
+            window.addEventListener('resize', function() {
+                // clear the timeout
+              clearTimeout(timeout);
+              // start timing for event "completion"
+              timeout = setTimeout(reflowMath, delay);
+            });
+          });
+  }
+};
+
+(function(d, script) {
+  script = d.createElement('script');
+  script.type = 'text/javascript';
+  script.async = true;
+  script.onload = function() {
+    // remote script has loaded
+  };
+  script.src = 'https://cdn.mathjax.org/mathjax/latest/MathJax.js';
+  d.getElementsByTagName('head')[0].appendChild(script);
+}(document));
+    </script>
+    {%- if page.title contains "Creativity is a quality without a name" -%}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.0.0/p5.min.js"></script>
+	<script src="/assets/js/sketch.js"></script>
+    {%- endif -%}
     <script>
         document.getElementById("scroll-to-top").addEventListener("click", function() {
             window.scrollTo({top: 0, left: 0, behavior: 'smooth'});

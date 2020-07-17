@@ -1,6 +1,6 @@
 ---
-title: Expectancy Value Theory
 ---
+
 [[Products are fundamentally voluntary]], and Expectancy Value Theory gives us a way to understand which goals people will pursue and what makes them more likely to be successful. This theory is one of the most straightforward ways to [[Make an experience the user wants]].
 
 Translated into app terms:

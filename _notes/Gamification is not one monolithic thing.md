@@ -1,6 +1,6 @@
 ---
-title: Gamification is not one monolithic thing
 ---
+
 When people think of gamification, they tend to think of points, badges, and leaderboards. They make claims like "gamification is good for engagement” or “gamification should only come in at X stage." Academic researchers will research questions like “is gamification effective?” This is based on the assumption that gamification is a monolithic thing.  
 
 However, gamification can be done without feeling like gamification, without points, without badges, without extrinsic rewards. This is because gamification is, in fact, a whole domain of study. It represents a deep interplay between behavioral/cognitive science, game design, human-computer interaction, and research methods.

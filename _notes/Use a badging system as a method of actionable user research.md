@@ -1,6 +1,6 @@
 ---
-title: Use a badging system as a method of actionable user research
 ---
+
 If you have a high quality badging/achievements system, then that means you know what the user goals are, you can recognize when those goals are accomplished, and your app notices when the user behavior is bringing the user closer to accomplishing their goal.
 
 The three most important questions to ask of a badging system:

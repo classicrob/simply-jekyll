@@ -1,6 +1,6 @@
 ---
-title: Behavioral Product Strategy
 ---
+
 Behavioral Product Strategy is the art and science of understanding users better through the lenses of the behavioral sciences in order to make better product decisions. It can be ignored at your own risk, since [[Every app is designed for behavior change, intentionally or unintentionally]].
 
 Behavioral product strategy means making product decisions so that people use the product in the best ways possible to deliver meaningful value to the user and the company. [[I design for successful goal achievement and playstyles that are appropriate for the user]].

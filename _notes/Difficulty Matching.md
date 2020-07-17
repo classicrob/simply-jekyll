@@ -1,6 +1,6 @@
 ---
-title: Difficulty Matching
 ---
+
 ## The emotional experience of Flow
 
 A **flow state** is often characterized as optimal human experience.  It’s an experience where you are fully focused and energized in what you’re doing, often experiencing a high level of creativity and losing track of time.

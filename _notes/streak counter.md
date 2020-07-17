@@ -1,6 +1,6 @@
 ---
-title: streak counter
 ---
+
 A streak counter counts the number of days in a row that you do an activity.  If you miss a day, then your streak resets to 0.
 
 As a concept, a streak counter is an intervention for encouraging users to do a bare minimum amount of a repetitive activity each day (time unit). It does this by defining first what the bare minimum requirement of action is per day, and then it motivates users to maintain that through loss aversion and the endowment effect, which just means that people place value on what they own and want to avoid losing it. When the user builds up a streak, they build up a sense of ownership over said streak, making a 5-day streak less psychologically valuable than a 15-day streak which is less valuable than a 45-day streak. The user then continues that streak because they want to avoid losing that streak.

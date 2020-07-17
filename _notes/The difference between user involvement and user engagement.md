@@ -1,6 +1,6 @@
 ---
-title: The difference between user involvement and user engagement
 ---
+
 With high quality [[User Involvement]], people are using your product when their lives call for it and in a way that allows the product to fulfill its promise to the user. This is distinct from how high user engagement is generally conceptualized in product world, which is when people use your service as much as possible.
 
 Designing for engagement is unsustainable. It’s an outcome that is often at odds with what the user actually wants from the app, as is the case with much of social media. People are irrational, but they’re not stupid. They’ll stop using the app eventually.
