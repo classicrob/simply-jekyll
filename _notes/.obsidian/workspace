@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Behavioral Product Strategy.md",
+            "file": "Products are fundamentally voluntary.md",
             "mode": "source"
           }
         }
@@ -53,7 +53,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,9 +84,9 @@
   },
   "lastOpenFiles": [
     "Apps with continued user involvement are responsive to increasing skill levels over time.md",
+    "Products are fundamentally voluntary.md",
     "Behavioral Product Strategy.md",
     "Apps with continued user involvement accomplish multiple user goals.md",
-    "Apps with continued user involvement enable the user to accomplish multiple goals.md",
-    "Continuous onboarding can come from community.md"
+    "Apps with continued user involvement enable the user to accomplish multiple goals.md"
   ]
 }
