@@ -1,0 +1,78 @@
+{
+  "main": {
+    "id": "0348844056df6b31",
+    "type": "split",
+    "children": [
+      {
+        "id": "820dd778731ba230",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "If I read what everybody else is reading, then I’ll think like everybody else.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f62f08b349a05ada",
+    "type": "split",
+    "children": [
+      {
+        "id": "8316ccb112341d42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b4e0bfee6d18b4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3384d95559d14c17",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b4a22675225d2ddf",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5e39e38cd49708d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd42d07cb3e54005",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "If I read what everybody else is reading, then I’ll think like everybody else.md",
+    "Products are fundamentally voluntary.md"
+  ]
+}
