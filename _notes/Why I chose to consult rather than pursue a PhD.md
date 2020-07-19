@@ -32,6 +32,7 @@ Given the choice between hiring someone who just got a PhD and someone with six 
 If I got a PhD, my first year or so of consulting would have still had many of the same growing pains that I ended up having.
 
 I’m already gaining a lot of credibility from my work. I can only imagine it’ll go up from here, especially as I start uploading testimonials and case studies and publishing more content.
-[[In hindsight, my job as a consultant might have been a bit easier if I decided to at least do a one year masters program, and I would have learned a lot of interesting stuff too. That being said, it might have just been delaying anyway, and I think that I’m on a good path right now. No regrets there.::lmn]]
+
+In hindsight, my job as a consultant might have been a bit easier if I decided to at least do a one year masters program, and I would have learned a lot of interesting stuff too. That being said, it might have just been delaying anyway, and I think that I’m on a good path right now. No regrets there.
 
 The important thing for anyone to remember- you don't need to be in academia to pursue your academic interests. You can learn on your own. You can put yourself into contexts where your theorizing gets put to the test and end up with beliefs more aligned with reality. Your output becomes your credentials.
