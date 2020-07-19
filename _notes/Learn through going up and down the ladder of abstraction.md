@@ -7,7 +7,9 @@ Whenever I'm working on something concrete, I attempt to turn it into something 
 
 These abstractions can be found by asking yourself, **"If I take out the specific details of this situation, what is the structure of what I just did?"**
 
-**One way I go up and down the ladder of abstraction is by making lenses for myself.** Whenever I find (or come up with my own) frameworks, theories, or findings that I think are interesting, I turn them into "lenses." Each lens is a series of questions to ask myself in order to look at a problem through the lens of that concept. These get applied to many different projects and updated whenever they prove insufficient.  This is often true because whenever something sufficiently abstract is applied to a specific situation, there will be an imperfect fit. This is a feature, not a bug. In application and in advance, I attempt to find and note down cues that would signal to me that a framework should be used, or what some constraints of using that lens might be.
+**One way I go up and down the ladder of abstraction is by making lenses for myself.** Whenever I find (or come up with my own) frameworks, theories, or findings that I think are interesting, I turn them into "lenses." Each lens is a series of questions to ask myself in order to look at a problem through the lens of that concept.
+
+These are applied to many different projects and updated whenever they prove insufficient. Whenever something sufficiently abstract is applied to a specific situation, there will generally be an imperfect fit. This is a feature, not a bug, as it allows the opportunity to uncover a more nuanced understanding. In application and in advance, I attempt to find and note down cues that would signal to me that a framework should be used, or what some constraints of using that lens might be.
 
 This has been incredibly beneficial for my workflow- I'll often start off a project by asking myself which lenses feel relevant. Then I don't need to just sit in front of a computer and say "Alright, it's time to be creative now." The lenses are designed to give me useful starting points.
 

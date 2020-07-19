@@ -9,6 +9,6 @@
     "Command palette": true,
     "Markdown format importer": true,
     "Word count": true,
-    "Custom CSS": true
+    "Custom CSS": false
   }
 }
