@@ -34,13 +34,12 @@
                 }
               },
               {
-                "id": "324e3348502d2734",
+                "id": "e36f2abf567ede0d",
                 "type": "leaf",
-                "active": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Designing for user involvement creates a virtuous cycle of usage.md",
+                    "file": "Motivation Crowding Theory.md",
                     "mode": "source"
                   }
                 }
@@ -55,10 +54,11 @@
               {
                 "id": "cbc49362aaefe2d3",
                 "type": "leaf",
+                "active": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Self-Determination Theory.md",
+                    "file": "Designing for user involvement creates a virtuous cycle of usage.md",
                     "mode": "source"
                   }
                 }
@@ -137,9 +137,9 @@
   },
   "lastOpenFiles": [
     "Designing for user involvement creates a virtuous cycle of usage.md",
-    "Pasted image.png",
-    "Pasted image 1.png",
     "Motivation Crowding Theory.md",
-    "Adding extrinsic rewards may backfire if you're already intrinsically motivated.md"
+    "Self-Determination Theory.md",
+    "Adding extrinsic rewards may backfire if you're already intrinsically motivated.md",
+    "Pasted image 1.png"
   ]
 }
