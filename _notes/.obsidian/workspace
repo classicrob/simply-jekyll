@@ -15,7 +15,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gamification.md",
+                "file": "Use a badging system as a method of actionable user research.md",
                 "mode": "source"
               }
             }
@@ -71,11 +71,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 221,
+    "width": 348,
     "collapsed": true
   },
   "right": {
@@ -87,10 +87,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Gamification.md",
-    "Most gamification is crap.md",
-    "There could be many genres of gamification.md",
-    "Make an impact through portfolio effects.md",
-    "Game designers and behavioral scientists are asking many of the same questions.md"
+    "Use a badging system as a method of actionable user research.md",
+    "Self-Determination Theory.md",
+    "Regulatory Focus Theory.md",
+    "Motivation Crowding Theory.md",
+    "How to Search Google Scholar.md"
   ]
 }
