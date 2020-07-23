@@ -11,3 +11,6 @@ People move along the spectrum because of:
 	* External intervention changes their internal motivation (IM)
 * Change in perceived situation
 	* External intervention changes the personal category of IM
+
+For more of a review of the evidence, see the paper cited at the top, and look in google scholar for research that cites that study. [[How to Search Google Scholar]]
+

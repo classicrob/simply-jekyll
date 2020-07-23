@@ -11,4 +11,4 @@ This points towards the need for an intentional approach to individual differenc
 
 [[New users do not yet have the vocabulary to understand the app]], but as [[User skill level increases over time]], so does their vocabulary. They are able to conceptualize and express desires that they couldn’t express before, so [[User goals change over time]].
 
-This points towards the need for a [[continuous onboarding]] that progressively reveals information as the user develops so they are always becoming more effective users. 
+This points towards the need for a [[Continuous onboarding]] that progressively reveals information as the user develops so they are always becoming more effective users. 

@@ -12,6 +12,8 @@ As a concept, a streak counter is an intervention for encouraging users to do a 
 			
 Essentially, they're working to avoid some negative outcome, but once that negative outcome happens, what reason do you have to start again? They are only motivating while you have it, but when you lose it, people may be demotivated and fail to start again. All they had worked for was for nothing, and it may take them weeks to earn it back, making starting over feel tedious. This is a crappy failure state.
 
+I'll just go ahead and leave this quote here:
+
 <blockquote class="quoteback" darkmode="" data-title="Introducing%20the%20Whitest%20White%20Girl%20Problem%20I%E2%80%99ve%20Ever%20Had%2C%20ft.%20Headspace" data-author="@ToBeQuiteFrank" cite="https://indifferentignorance.com/2016/12/06/introducing-the-whitest-white-girl-problem-ive-ever-had-ft-headspace/">
 Yesterday I fell asleep before I finished the session or I left the app open or something, and this morning the counter had zipped back to 1. I was unreasonably upset&nbsp;about it. I felt like the previous 380-something days had been <em>for nothing</em>. I was useless. I should have found time in the day to do it instead of falling asleep partway through. <em>Why couldn’t I just have done better.</em>
 <footer>@ToBeQuiteFrank<cite> <a href="https://indifferentignorance.com/2016/12/06/introducing-the-whitest-white-girl-problem-ive-ever-had-ft-headspace/">https://indifferentignorance.com/2016/12/06/introducing-the-whitest-white-girl-problem-ive-ever-had-ft-headspace/</a></cite></footer>

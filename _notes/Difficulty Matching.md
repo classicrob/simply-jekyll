@@ -7,7 +7,7 @@ A **flow state** is often characterized as optimal human experience.  It’s an 
 
 ![](https://sites.tufts.edu/kprattfoodemotions/files/2018/10/Graph-of-Csikszentmihalyis-flow-state-when-a-persons-ability-to-execute-a-task.png)
 
-The general emotional experience that is being described here is that when a task is too challenging for a user’s current level of ability, they’ll get frustrated and give up. Alternatively, when the task is far too easy, they are likely to experience boredom. Both of these are potential [[Intentionally design for failure states]]s where the user may lose interest in the app. 
+The general emotional experience that is being described here is that when a task is too challenging for a user’s current level of ability, they’ll get frustrated and give up. Alternatively, when the task is far too easy, they are likely to experience boredom. Both of these are potential [[Intentionally design for failure states]] where the user may lose interest in the app. 
 
 **As a rule of thumb, I find it best to match the difficulty of the task with the skill level of the user.**
 
@@ -25,7 +25,7 @@ An alternative approach might be starting the user off with simple tasks and, ba
 
 ## Difficulty matching in continued user involvement (retention)
 
-[[Apps with continued user involvement are responsive to increasing skill levels over time]]
+[[Apps with continued user involvement are responsive to increasing skill levels over time]] because [[User skill level increases over time]].
 
 ## Difficulty matching in push notifications
 *My thoughts on this sort of mesh difficulty matching with the [[Fogg Behavior Model]].*

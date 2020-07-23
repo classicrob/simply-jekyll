@@ -1,5 +1,5 @@
 ---
-title: continuous onboarding
+title: Continuous onboarding
 ---
 **definition:** Continuous onboarding is an onboarding that never stops.  Users are constantly being shown how to be better at using the app in an attempt to increase [[User Involvement]].
 
