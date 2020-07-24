@@ -11,7 +11,6 @@
             "id": "008f5e9573400372",
             "type": "leaf",
             "dimension": 50,
-            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -24,6 +23,7 @@
             "id": "cc46b9a9737c5af2",
             "type": "leaf",
             "dimension": 50,
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -87,10 +87,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Game designers and behavioral scientists are asking many of the same questions.md",
     "Most gamification is crap.md",
     "Use a badging system as a method of actionable user research.md",
     "Self-Determination Theory.md",
-    "Regulatory Focus Theory.md",
-    "Motivation Crowding Theory.md"
+    "Regulatory Focus Theory.md"
   ]
 }

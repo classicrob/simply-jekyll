@@ -17,3 +17,5 @@ How do we design for [[Difficulty Matching]] so the users don't get bored or fru
 * *[[Continuous onboarding]]*
 
 How do we account for individual differences between users in skill level, goals, and playstyles so our target users gain value?
+
+[[Questions can be answered through methods beyond experimentation]]. If millions of good games exist that are attempting to answer similar questions to behavioral scientists through their design decisions, then that just means they are using different methods to learn about people than behavioral scientists.
