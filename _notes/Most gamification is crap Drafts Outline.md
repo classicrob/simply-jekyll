@@ -1,2 +1,2 @@
-[[Most gamification is crap]]
+[[Most gamification sucks]]
 

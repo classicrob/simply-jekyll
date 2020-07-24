@@ -1,5 +1,5 @@
 ---
-title: Most gamification is crap
+title: Most gamification sucks
 ---
 **[[Game designers have been designing for digital behavior change for longer than just about anyone]].** They design the environment that the users interact with and the rules through which all of the user's actions are interpreted. [[The goal of game design is to influence user behavior to create an intended experience]]. They are doing [[Behavioral Product Strategy]].
 
