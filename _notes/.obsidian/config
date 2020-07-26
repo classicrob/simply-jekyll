@@ -1,5 +1,5 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "pluginEnabledStatus": {
     "File explorer": true,
     "Search": true,
@@ -16,5 +16,6 @@
   "strictLineBreaks": false,
   "showLineNumber": true,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "byModifiedTime"
 }

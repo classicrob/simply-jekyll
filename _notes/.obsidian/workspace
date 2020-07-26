@@ -4,36 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "a01fa01f3cc43535",
+        "id": "86c58c026930dda3",
+        "type": "leaf",
+        "dimension": 47.24556489262371,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Design choices so the user reveals their preferences to the product.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "83045c9b71813a06",
         "type": "split",
+        "dimension": 52.66106442577031,
         "children": [
           {
-            "id": "008f5e9573400372",
+            "id": "cb1b4b06a688aeec",
             "type": "leaf",
-            "dimension": 50,
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Most gamification sucks.md",
+                "file": "Learn quickly and reference past knowledge to speed up the pace of decision making.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "cc46b9a9737c5af2",
+            "id": "d693fd1ec1c7770d",
             "type": "leaf",
-            "dimension": 50,
-            "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game designers and behavioral scientists are asking many of the same questions.md",
+                "file": "Product makers want principles that are generalizable to their own users.md",
                 "mode": "source"
               }
             }
           }
         ],
-        "direction": "vertical"
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -70,13 +81,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 348,
-    "collapsed": true
+    "width": 178
   },
   "right": {
     "id": "b4a22675225d2ddf",
@@ -87,10 +96,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Game designers and behavioral scientists are asking many of the same questions.md",
-    "Most gamification is crap.md",
-    "Use a badging system as a method of actionable user research.md",
-    "Self-Determination Theory.md",
-    "Regulatory Focus Theory.md"
+    "Learn quickly and reference past knowledge to speed up the pace of decision making.md",
+    "Design choices so the user reveals their preferences to the product.md",
+    "Design products to study its users in the relevant contexts.md",
+    "Product makers want principles that are generalizable to their own users.md",
+    "produc.md"
   ]
 }

@@ -1,0 +1,7 @@
+In a product environment, we are constantly being inundated with new decisions. We need to be able to make decisions effectively and efficiently under dynamic conditions.
+
+Well-made decisions require information. That information could come from new research or from work that has already been done. The more we can reference information that has already been collected and the less we rely on new research, the quicker we'll be able to make decisions. At that point, all we need to do is synthesize it into a new output.
+
+This is why [[Product makers want principles that are generalizable to their own users]]. Internal validity is far less important than external validity, and external validity only needs to extend as far as our own users. This opens up product makers to mixed methods approaches. Experiments are useful, but so are anthropological methods like participant observation and interviews for general impressions as well as machine learning approaches for segmentation of users. We should choose our methods wisely for the questions that we are trying to answer.
+
+I [[Design products to study its users in the relevant contexts]], and if metrics are designed well within the app, then the user can reveal to us what their goals are, their behavior as they are approaching the goals, whether they are successful or not, etc. We can [[Design choices so the user reveals their preferences to the product]].
