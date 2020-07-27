@@ -1,5 +1,6 @@
 ---
-title: Apps with continued user involvement are responsive to changing user goals over time
+title: Apps with continued user involvement respond to changing user goals over time
+tags: BehavioralProductStrategy Retention
 ---
 [[New users do not yet have the vocabulary to understand the app]], but as [[User skill level increases over time]], so does their vocabulary. They are able to conceptualize and express desires that they couldn’t express before, so [[User goals change over time]]. If the app can only handle the user's goals 2 weeks in but not 2 months in, then it can't expect the user's continued involvement.
 

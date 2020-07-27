@@ -1,5 +1,6 @@
 ---
 title: Goal Resonance
+tags: BehavioralProductStrategy
 ---
 When an app is goal resonant, it takes the users actions (the inputs) and amplifies/transforms them into goal achievement (the outputs). Apps that are goal resonant enable the user to bridge the [[Intention-Behavior Gap]]. It is important to [[Speak to the user with a shared vocabulary]] so they know that the app is goal resonant.
 

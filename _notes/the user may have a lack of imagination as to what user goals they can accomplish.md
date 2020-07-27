@@ -1,5 +1,6 @@
 ---
 title: The user may have a lack of imagination as to what user goals they can accomplish
+tags: BehavioralProductStrategy Retention Adoption
 ---
 [[The user believes that the app will help them achieve a goal that they actually have]], but [[New users do not yet have the vocabulary to understand the app]]. This means they'll often be painfully unaware of all of the goals that they are able to accomplish.
     

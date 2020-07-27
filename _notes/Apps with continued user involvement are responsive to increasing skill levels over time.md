@@ -1,5 +1,6 @@
 ---
 title: Apps with continued user involvement are responsive to increasing skill levels over time
+tags: BehavioralProductStrategy Retention
 ---
 Near the beginning of a person's personal productivity journey, they may be fine with using Apple Reminders as their form of task manager. Eventually, [[User skill level increases over time]], so they may want to sort tasks into projects. Apple Reminders can handle that, so the user remains satisfied. 
 

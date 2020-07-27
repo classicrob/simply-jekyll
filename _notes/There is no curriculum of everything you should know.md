@@ -1,5 +1,6 @@
 ---
 title: There is no curriculum of everything you should know
+tags: PersonalReflection
 ---
 People often ask me what they need to read in order to do [[Behavioral Product Strategy]]. My answer? **There is no curriculum of everything you should know.**
 

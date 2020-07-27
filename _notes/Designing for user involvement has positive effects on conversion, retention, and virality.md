@@ -1,5 +1,6 @@
 ---
 title: Designing for user involvement has positive effects on conversion, retention, and virality
+tags: BehavioralProductStrategy Adoption Retention Virality
 ---
 # Adoption
 ---
@@ -9,7 +10,7 @@ In these notes, I tend to use adoption, conversion, and onboarding not necessari
 
 # Retention
 ---
-User involvement and retention are so deeply intertwined that I think it’s best to reframe retention as “continued user involvement.” User involvement is incredibly goal oriented, so as [[User goals change over time]], [[Apps with continued user involvement are responsive to changing user goals over time]]. 
+User involvement and retention are so deeply intertwined that I think it’s best to reframe retention as “continued user involvement.” User involvement is incredibly goal oriented, so as [[User goals change over time]], [[Apps with continued user involvement respond to changing user goals over time]]. 
 
 # Virality
 ---

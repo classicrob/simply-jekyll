@@ -1,7 +1,7 @@
 ---
 title: If I read what everybody else is reading, then I’ll think like everybody else
+tags: PersonalReflection
 ---
-Index pages:: [[Methods for learning and thinking]]
 
 I remember being in conversation with a friend of mine who had just started working at a top behavioral economics consultancy right around the time when I started consulting independently.
 

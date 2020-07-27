@@ -1,5 +1,6 @@
 ---
 title: Lazy gamification
+tags: Gamification
 ---
 Lazy gamification is what happens when you slap a relatively homogenous configuration of points, badges, and leaderboards onto a heterogenous set of problems. This is done without thinking about where, why, and how those interventions work to influence user behavior given the parameters of the who the users are and important contextual factors.
 

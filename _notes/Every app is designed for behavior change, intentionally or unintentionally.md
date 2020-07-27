@@ -1,5 +1,6 @@
 ---
 title: Every app is designed for behavior change, intentionally or unintentionally
+tags: BehavioralProductStrategy
 ---
 As described in [[Kurt Lewin’s Equation]], people’s behavior is influenced by who they are and what their context is. While the user is paying attention, the app controls the user’s digital context. As such, app design exerts significant influence over user behavior.
 

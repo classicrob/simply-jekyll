@@ -1,5 +1,6 @@
 ---
 title: People start using an app with different prior skill levels
+tags: BehavioralProductStrategy Adoption
 ---
 One of the companies I work with, GuidedTrack, is a simplified programming language that allows subject matter experts to create web applications with no prior coding skill. However, if someone starts using it and they’ve already coded before in another language, then we can probably treat them differently in the onboarding. If we don’t, then they’ll likely get bored.
 

@@ -1,5 +1,6 @@
 ---
 title: The difference between user involvement and user engagement
+tags: BehavioralProductStrategy
 ---
 With high quality [[User Involvement]], people are using your product when their lives call for it and in a way that allows the product to fulfill its promise to the user. This is distinct from how high user engagement is generally conceptualized in product world, which is when people use your service as much as possible.
 

@@ -1,5 +1,6 @@
 ---
 title: Help the user to recognize situations for app usage
+tags: BehavioralProductStrategy Retention
 ---
 [[User goals change over time]] as [[User skill level increases over time]] so being aware of the features generally means you’ll be aware of when you should learn it to accomplish a new goal.
 

@@ -1,5 +1,6 @@
 ---
 title: Satisfy the social contract between the user and the app
+tags: BehavioralProductStrategy
 ---
 This is about optimizing for [[User Involvement]] within the context of what the app can do. [[Designing for user involvement creates a virtuous cycle of usage]].
 

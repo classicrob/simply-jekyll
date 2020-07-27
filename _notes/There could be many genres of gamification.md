@@ -1,8 +1,8 @@
 ---
 title: There could be many genres of gamification
+tags: Gamification
+status: inDevelopment
 ---
-#stub
-
 A genre of games is a set of games that deal with a common set of problems and attempt to deliver a similar experience using a range of common conventions.
 
 Let's go ahead and lump points, badges, and leaderboards together into the "Foursquare genre" of gamification. What might other genres of gamification in software products look like?

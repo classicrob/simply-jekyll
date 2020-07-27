@@ -1,5 +1,6 @@
 ---
 title: Game designers have been designing for digital behavior change for longer than just about anyone
+tags: Gamification BehavioralProductStrategy
 ---
 Games have long recognized the truth that comes from [[Kurt Lewin’s Equation]]:
 

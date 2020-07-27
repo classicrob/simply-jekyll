@@ -1,5 +1,6 @@
 ---
 title: Products are fundamentally voluntary
+tags: BehavioralProductStrategy Gamification
 ---
 People can always choose to use the product, use an alternative, or use nothing at all. In fact, not using your product is their default state of being, and you’re trying to get them to do something different in using your product. [[Adoption requires a baseline of user involvement in order to overcome inertia]].
 

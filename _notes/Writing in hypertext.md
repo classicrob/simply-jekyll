@@ -1,5 +1,6 @@
 ---
 title: Writing in hypertext
+tags: Meta
 ---
 Welcome. *I don't know what to call this, exactly.* A digital garden? A personal wiki? A nonlinear manifesto? Regardless, it's my public idea space. It is a deeply entangled web of ideas that I'm changing constantly. You'll take a different journey every time you're here, and pages that you've already read may take on new meaning when placed into new contexts.
 

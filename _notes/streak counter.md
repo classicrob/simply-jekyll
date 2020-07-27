@@ -1,5 +1,6 @@
 ---
 title: streak counter
+tags: Gamification
 ---
 A streak counter counts the number of days in a row that you do an activity.  If you miss a day, then your streak resets to 0.
 

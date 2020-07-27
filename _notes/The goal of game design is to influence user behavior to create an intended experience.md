@@ -1,5 +1,6 @@
 ---
 title: The goal of game design is to influence user behavior to create an intended experience
+tags: Gamification BehavioralProductStrategy
 ---
 #stub
 

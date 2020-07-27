@@ -1,5 +1,6 @@
 ---
 title: Most gamification sucks
+tags: Gamification BehavioralProductStrategy
 ---
 **[[Game designers have been designing for digital behavior change for longer than just about anyone]].** They design the environment that the users interact with and the rules through which all of the user's actions are interpreted. [[The goal of game design is to influence user behavior to create an intended experience]]. They are doing [[Behavioral Product Strategy]].
 
@@ -9,7 +10,7 @@ Given that, it astounds me that gamification is in the state that it is in. It's
 
 Gamification designers aren't asking the right questions, while [[Game designers and behavioral scientists are asking many of the same questions]]. **We should instead be asking ourselves "What can we take away from game design and behavioral science to influence user behavior so that we co-create an intended experience with the user?"** We don't have a choice whether we ask this question or not, because [[Every app is designed for behavior change, intentionally or unintentionally]].
 
-**Games have grown up since the 80s and 90s and birthed many distinct genres. Gamification never grew up.** It copied itself rather than drawing from game design and behavioral science. A relatively homogenous configuration of points, badges, and leaderboards have been slapped onto a heterogenous set of problems. **Gamification didn't adapt to its goals and challenges because the designers didn't understand the behavioral science of how and why it worked.** This is [[Lazy gamification]]. [[There could be many genres of gamification]], and yet most of what we have is just Foursquare over and over again.
+**Games have grown up since the 80s and 90s and birthed many distinct genres. Gamification never grew up.** It copied itself rather than drawing from game design and behavioral science. A relatively homogenous configuration of points, badges, and leaderboards have been slapped onto a heterogenous set of problems. **Gamification didn't adapt to its goals and challenges because the designers didn't understand the behavioral science of how and why it worked.** This is [[Lazy gamification]]. [[There could be many genres of gamification]], and yet most of what we have is just Foursquare over and over again. [[Gamification is not one monolithic thing]].
 
 I **love** video games. Not only are they enjoyable, but they're a form of research when you analyze them through behavioral science lenses.[[Take that, Dad. Who's wasting time now?::rmn]] When I started working in gamification, I was amazed at the possibility of behavioral science and game design learning from each other. What I found when I looked for examples was so thoroughly unimpressive that I saw that I knew immediately I would need to develop my own understanding of gamification. 
 

@@ -1,5 +1,6 @@
 ---
 title: I design for successful goal achievement and playstyles that are appropriate for the user
+tags: BehavioralProductStrategy
 ---
 A friend of mine named Javier Velasquez once told me: “Behavioral economics sets up a choice architecture so that people are most likely to pick one specific option. Game designers aim to give users meaningful choices where all of the options are equally valuable, they just represent different play styles that suit each player. There’s a balance there if you want to create engagement in product design.” [[When he drew this out in my tiny notebook at a conference I knew we were going to be friends::rsn]]
 

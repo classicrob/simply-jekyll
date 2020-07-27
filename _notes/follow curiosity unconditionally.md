@@ -1,5 +1,6 @@
 ---
 title: Follow curiosity unconditionally
+tags: PersonalReflection
 ---
 Index pages:: [[Methods for learning and thinking]]
 

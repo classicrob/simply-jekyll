@@ -1,5 +1,6 @@
 ---
 title: New users do not yet have the vocabulary to understand the app
+tags: BehavioralProductStrategy Adoption
 ---
 **Imagine that you are in a foreign country where you don't speak the language.** You're hungry and you need to ask someone on the street where to buy some food. You don’t have the words to say it, but you can probably rub your stomach and people will know where to point you.
 

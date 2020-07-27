@@ -1,5 +1,6 @@
 ---
 title: Adoption requires a baseline of user involvement in order to overcome inertia
+tags: Adoption BehavioralProductStrategy
 ---
 [[Products are fundamentally voluntary]] and your product takes effort to use. [[Speak to the user with a shared vocabulary]] so they are able to understand why you are worthwhile.
 

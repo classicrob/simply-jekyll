@@ -1,5 +1,6 @@
 ---
 title: The user should learn enough of the app’s functionality to accomplish a goal
+tags: BehavioralProductStrategy Adoption
 ---
 If you are able to accomplish one of your [[User Goal]]s within an app, then the app has done its first step towards gaining your [[Retention]]. One of the first steps to [[Satisfy the social contract between the user and the app]] is for the user to accomplish a goal.
 

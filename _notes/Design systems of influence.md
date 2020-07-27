@@ -1,6 +1,6 @@
 ---
 title: Design systems of influence
+tags: ComingSoon
 ---
-#stub 
 
 *Coming at some point*

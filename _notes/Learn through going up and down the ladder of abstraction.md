@@ -1,8 +1,7 @@
 ---
 title: Learn through going up and down the ladder of abstraction
+tags: PersonalReflection
 ---
-Index pages:: [[Methods for learning and thinking]]
-
 Whenever I'm working on something concrete, I attempt to turn it into something more abstract. Whenever the concrete task is abstracted, I search for more situations in which to apply the abstract principle concretely. I then adjust the mental model situationally, and ask if that requires my understanding of the abstract model to be adjusted as well. Repeat.
 
 These abstractions can be found by asking yourself, **"If I take out the specific details of this situation, what is the structure of what I just did?"**

@@ -1,9 +1,10 @@
 ---
 title: Kurt Lewin's Equation
+tags: BehavioralProductStrategy
 ---
-**definition:** Kurt Lewin’s equation, $B=f(P,E)$, states that a person’s behavior is a function of who they are as a person and the contextual factors of their environment.
+**definition:** Kurt Lewin’s equation, B=f(P,E), states that a person’s behavior is a function of who they are as a person and the contextual factors of their environment.
 
-**Kurt Lewin’s Equation is commonly misunderstood as saying** $B=P+E$. **This is lazy behavioral science.**
+**Kurt Lewin’s Equation is commonly misunderstood as saying B=P+E. This is lazy behavioral science.**
 
 The combination of the two factors is not a summation. Behavior is a function of the interplay between person-side factors and the contextual factors of their environment
 * Who the person is impacts how they respond to environmental factors and what environments they place themselves within.

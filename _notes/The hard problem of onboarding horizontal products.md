@@ -1,11 +1,12 @@
 ---
 title: The hard problem of onboarding horizontal products
+tags: BehavioralProductStrategy Adoption
 ---
 **In order to successfully onboard a horizontal product, we need to deliver an experience that is initially meaningful to groups of people who understand and care about different things.**
 
 [[There are individual differences between new users in their initial user goals]] and [[People start using an app with different prior skill levels]]. This makes it difficult to [[Speak to the user with a shared vocabulary]] because there is no single user group.
 
-This points towards the need for an intentional approach to individual differences.  [[I design for successful goal achievement and playstyles that are appropriate for the user]].
+This points towards the need for an intentional approach to individual differences. [[I design for successful goal achievement and playstyles that are appropriate for the user]].
 
 **In order to successfully onboard a horizontal product, we need to increase their skill over time to keep up with their changing goals.**
 
