@@ -11,25 +11,26 @@
           {
             "id": "86c58c026930dda3",
             "type": "leaf",
+            "dimension": 50,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "User skill level increases over time.md",
                 "mode": "source"
               }
-            },
-            "group": "40789e39c0c3fc92"
+            }
           },
           {
-            "id": "0891ae0c7425849c",
+            "id": "d277825260184999",
             "type": "leaf",
+            "dimension": 50,
             "state": {
-              "type": "backlink",
+              "type": "markdown",
               "state": {
-                "file": "User skill level increases over time.md"
+                "file": "Design products to study its users in the relevant contexts.md",
+                "mode": "source"
               }
-            },
-            "group": "40789e39c0c3fc92"
+            }
           }
         ],
         "direction": "horizontal"
@@ -53,7 +54,6 @@
           {
             "id": "e0f42645f3d37566",
             "type": "leaf",
-            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -95,6 +95,7 @@
           {
             "id": "d693fd1ec1c7770d",
             "type": "leaf",
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -141,7 +142,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -156,10 +158,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Product makers want principles that are generalizable to their own users.md",
+    "Learn quickly and reference past knowledge to speed up the pace of decision making.md",
+    "Apps with continued user involvement respond to changing user goals over time.md",
     "User Goal.md",
-    "User Involvement Loop.png",
-    "User skill level increases over time.md",
-    "Why I chose to consult rather than pursue a PhD.md",
-    "Writing in hypertext.md"
+    "Most gamification sucks.md"
   ]
 }
