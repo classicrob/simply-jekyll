@@ -2,7 +2,7 @@
 title: Behavioral Product Strategy
 tags: BehavioralProductStrategy EntryPoint
 ---
-Behavioral Product Strategy is making better product decisions through the lenses of user psychology and behavioral influence. It can be ignored at your own risk, since [[Every app is designed for behavior change, intentionally or unintentionally]].
+Behavioral Product Strategy is making better product decisions through the lenses of user psychology and behavioral influence. Ignore it at your own risk, since [[Every app is designed for behavior change, intentionally or unintentionally]].
 
 When executed well, people will use the product in the best ways possible to deliver meaningful value to themselves and to the company. For this reason, [[I design for successful goal achievement and playstyles that are appropriate for the user]].
 
