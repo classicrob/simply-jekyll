@@ -4,102 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "2f2c7bb3b5ff0ce1",
-        "type": "split",
-        "dimension": 29.345238095238095,
-        "children": [
-          {
-            "id": "86c58c026930dda3",
-            "type": "leaf",
-            "dimension": 50,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "User skill level increases over time.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "d277825260184999",
-            "type": "leaf",
-            "dimension": 50,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design products to study its users in the relevant contexts.md",
-                "mode": "source"
-              }
-            }
+        "id": "e0f42645f3d37566",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Behavioral Product Strategy Draft.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       },
       {
-        "id": "38f2496d7855d7b4",
-        "type": "split",
-        "dimension": 33.92857142857143,
-        "children": [
-          {
-            "id": "d88aa5c994c5cba3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Most gamification sucks.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "e0f42645f3d37566",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "User Goal.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "29654556ca978330",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apps with continued user involvement respond to changing user goals over time.md",
-                "mode": "source"
-              }
-            }
+        "id": "351049f938a7ddc5",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Behavioral Product Strategy.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       },
       {
-        "id": "83045c9b71813a06",
+        "id": "6cbc47a91d4e64dc",
         "type": "split",
-        "dimension": 36.72619047619048,
         "children": [
           {
-            "id": "cb1b4b06a688aeec",
+            "id": "c37496988cff6799",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn quickly and reference past knowledge to speed up the pace of decision making.md",
+                "file": "User Involvement.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "d693fd1ec1c7770d",
+            "id": "62d1c5aac5f2ed8f",
             "type": "leaf",
-            "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product makers want principles that are generalizable to their own users.md",
+                "file": "User Involvement draft.md",
                 "mode": "source"
               }
             }
@@ -147,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 247
   },
   "right": {
     "id": "b4a22675225d2ddf",
@@ -158,10 +106,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Product makers want principles that are generalizable to their own users.md",
-    "Learn quickly and reference past knowledge to speed up the pace of decision making.md",
-    "Apps with continued user involvement respond to changing user goals over time.md",
-    "User Goal.md",
-    "Most gamification sucks.md"
+    "Behavioral Product Strategy.md",
+    "Behavioral Product Strategy Draft.md",
+    "User Involvement draft.md",
+    "User Involvement.md",
+    "Every app is designed for behavior change, intentionally or unintentionally.md"
   ]
 }

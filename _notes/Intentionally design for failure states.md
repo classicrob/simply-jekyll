@@ -20,7 +20,7 @@ Many apps ignore failure states and have no plan for when they happen. However, 
 
 ### Failure Redemption in Hollow Knight
 
-In [[Hollow Knight]], they wanted to make a challenging game because they wanted players to feel the accomplishment of beating something that previously beat them. 
+In Hollow Knight, they wanted to make a challenging game because they wanted players to feel the accomplishment of beating something that previously beat them.
 
 So you’re exploring around this map, killing monsters, earning money. When you die, you lose all of your money, and go back to your last checkpoint.
 
