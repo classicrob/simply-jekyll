@@ -19,7 +19,6 @@
         "id": "c37496988cff6799",
         "type": "leaf",
         "dimension": 41.73758865248227,
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -36,6 +35,7 @@
           {
             "id": "351049f938a7ddc5",
             "type": "leaf",
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -109,10 +109,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Behavioral Product Strategy.md",
     "User Involvement.md",
     "Designing for user involvement has positive effects on conversion, retention, and virality.md",
     "Designing for user involvement creates a virtuous cycle of usage.md",
-    "Behavioral Product Strategy.md",
     "User Involvement draft.md"
   ]
 }
