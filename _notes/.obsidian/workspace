@@ -4,33 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "62d1c5aac5f2ed8f",
-        "type": "leaf",
-        "dimension": 41.73758865248227,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "User Involvement draft.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "c37496988cff6799",
-        "type": "leaf",
-        "dimension": 41.73758865248227,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "User Involvement.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "17bffac1bb8f41c2",
         "type": "split",
-        "dimension": 16.524822695035457,
         "children": [
           {
             "id": "351049f938a7ddc5",
@@ -39,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Behavioral Product Strategy.md",
+                "file": "User goals change over time.md",
                 "mode": "source"
               }
             }
@@ -94,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,10 +84,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Behavioral Product Strategy.md",
+    "User goals change over time.md",
+    "Apps with continued user involvement accomplish multiple user goals.md",
+    "The user should learn enough of the app’s functionality to accomplish a goal.md",
     "User Involvement.md",
-    "Designing for user involvement has positive effects on conversion, retention, and virality.md",
-    "Designing for user involvement creates a virtuous cycle of usage.md",
-    "User Involvement draft.md"
+    "Behavioral Product Strategy.md"
   ]
 }
