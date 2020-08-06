@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Designing for user involvement has positive effects on conversion, retention, and virality.md",
+            "file": "Behavioral Product Strategy.md",
             "mode": "source"
           }
         }
@@ -50,7 +50,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -65,10 +66,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Designing for user involvement has positive effects on conversion, retention, and virality.md",
-    "Untitled.md",
-    "User goals change over time.md",
-    "Apps with continued user involvement accomplish multiple user goals.md",
-    "The user should learn enough of the app’s functionality to accomplish a goal.md"
+    "Behavioral Product Strategy.md",
+    "Behavioral Product Strategy Draft.md",
+    "User Involvement.md",
+    "Roam.md",
+    "HEY.md"
   ]
 }

@@ -36,7 +36,7 @@ The success of the app in a user's life is defined by whether they are able to a
 
 Here's where behavioral science proves its worth for product decisions. By understanding users and their behavior through these lenses, we are able to better understand them
 
-According to [[Kurt Lewin’s Equation]], people's behavior is determined by the relationship between who they are and the context they are within. Through behavioral product strategy, we are able to:
+According to [[Lewin’s Equation]], people's behavior is determined by the relationship between who they are and the context they are within. Through behavioral product strategy, we are able to:
 * Shape the context of the app through its design to influence user behavior
 * Understand the context of the user's nature and life to better shape the app
 

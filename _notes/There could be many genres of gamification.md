@@ -11,4 +11,4 @@ We need more genres because most of the gamification we have is [[Lazy gamificat
 
 Over the course of my career, I hope to nurture the emergence of varied genres as I [[Make an impact through portfolio effects]]. I can't wait for the point where the genres and their boundary conditions are well enough understood that we can cross genre lines.
 
-*More coming at some point about other genres I'm working on and developing soon*
+*I’m still working on this one, leave a comment or send me a note on Twitter @RobertHaisfield if you want to see more on this page!*
