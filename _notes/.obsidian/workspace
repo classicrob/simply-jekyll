@@ -15,63 +15,11 @@
               {
                 "id": "df8062e42e14704b",
                 "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Gamification.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "271a0b8a48406c2d",
-                "type": "leaf",
                 "active": true,
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "Start Here.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "a0470968323ad530",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "How we can work together.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "99eee903de864889",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "About Me Draft.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "1965ab16aaf62ae2",
-            "type": "split",
-            "dimension": 22.40868706811451,
-            "children": [
-              {
-                "id": "5b1d64c74d6efc61",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Learn through going up and down the ladder of abstraction.md",
                     "mode": "source"
                   }
                 }
@@ -86,9 +34,32 @@
                     "mode": "source"
                   }
                 }
+              },
+              {
+                "id": "d9aa40a84cc7847d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "How we can work together.md",
+                    "mode": "source"
+                  }
+                }
               }
             ],
             "direction": "vertical"
+          },
+          {
+            "id": "5b1d64c74d6efc61",
+            "type": "leaf",
+            "dimension": 22.40868706811451,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learn through going up and down the ladder of abstraction.md",
+                "mode": "source"
+              }
+            }
           }
         ],
         "direction": "horizontal"
@@ -154,9 +125,9 @@
   },
   "lastOpenFiles": [
     "Start Here.md",
+    "Gamification.md",
+    "Lenses of behavioral science and game design principles.md",
     "How we can work together.md",
-    "About Me Draft.md",
-    "Designing for user involvement has positive effects on adoption, retention, and virality.md",
-    "Lenses of behavioral science and game design principles.md"
+    "Behavioral Product Strategy.md"
   ]
 }
