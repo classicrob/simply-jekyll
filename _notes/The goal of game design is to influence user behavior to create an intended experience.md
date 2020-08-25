@@ -2,8 +2,10 @@
 title: The goal of game design is to influence user behavior to create an intended experience
 tags: Gamification BehavioralProductStrategy
 ---
-[[See Mark Brown's brilliant video on protecting the player from themselves https://www.youtube.com/watch?v=7L8vAGGitr8::rmn]] Game designers recognize that they can't just design a game and expect the player to enjoy it. If you play Xcom in a risk-averse way, then you won't have as much fun as if you lean into risk and play aggressively. However, the rules of the game and its feedback systems shape the most likely playstyles.
+[[See Mark Brown's brilliant video on protecting the player from themselves https://www.youtube.com/watch?v=7L8vAGGitr8::rmn]] Game designers recognize that they can't just design a game and expect the player to enjoy it. [If you play Xcom in a risk-averse way](https://www.youtube.com/watch?v=7L8vAGGitr8), then you won't have as much fun as if you lean into risk and play aggressively. However, the rules of the game and its feedback systems shape the most likely playstyles.
 * *See: [[Progress monitoring and feedback systems]]*
+* *See [MDA: A Formal Approach to Game Design and Game Research](https://users.cs.northwestern.edu/~hunicke/MDA.pdf)*
+
 
 The game doesn't create the experience on its own. The way that people play the game shapes their experience, so the game shapes itself to shape the player's behavior.
 

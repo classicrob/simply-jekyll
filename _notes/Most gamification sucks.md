@@ -14,4 +14,4 @@ Gamification designers aren't asking the right questions, while [[Game designers
 
 **I love video games.** Not only are they enjoyable, but they're a form of research when you analyze them through behavioral science lenses.[[Take that, Dad. Who's wasting time now?::rmn]] When I started working in gamification, I was amazed at the possibility of behavioral science and game design learning from each other. What I found when I looked for examples was so thoroughly unimpressive that I knew immediately I would need to develop my own understanding of gamification. 
 
-[[There is no curriculum of everything you should know]] because gamification has been systematically misinterpreted and misapplied since its inception. I sought the areas where [[Game designers and behavioral scientists are asking many of the same questions]] and I focus on those.
+[[There is no curriculum that encompasses everything you should know]] because gamification has been systematically misinterpreted and misapplied since its inception. I sought the areas where [[Game designers and behavioral scientists are asking many of the same questions]] and I focus on those.

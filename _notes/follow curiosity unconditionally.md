@@ -14,5 +14,5 @@ When I follow my curiosity unconditionally, my assumptions are the following:
 * I don't know when it will be useful, but there's a good chance it will be someday.
 * If it's not useful on its own, there's a good chance it will be useful through the way that it paints my understanding of other things that I know.
 * If I learn out of a sense of curiosity, I'll put more work into learning than if I were learning out of a sense of obligation.
-* It's okay to just read what I want to read because [[There is no curriculum of everything you should know]]
+* It's okay to just read what I want to read because [[There is no curriculum that encompasses everything you should know]]
 - If I learn only what I feel obligated to learn, then that means I'll have learnt what everyone else has learnt. [[If I read what everybody else is reading, then I'll think like everybody else]], so I'd end up bored and blend in with the crowd.
