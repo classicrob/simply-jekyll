@@ -10,12 +10,11 @@
           {
             "id": "819d668b5034f49d",
             "type": "split",
-            "dimension": 77.5913129318855,
+            "dimension": 40.9969481180061,
             "children": [
               {
                 "id": "df8062e42e14704b",
                 "type": "leaf",
-                "active": true,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -52,7 +51,8 @@
           {
             "id": "5b1d64c74d6efc61",
             "type": "leaf",
-            "dimension": 22.40868706811451,
+            "dimension": 59.0030518819939,
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start Here.md"
+                "file": "Learn through going up and down the ladder of abstraction.md"
               }
             }
           }
@@ -124,10 +124,10 @@
     "width": 218
   },
   "lastOpenFiles": [
+    "Learn through going up and down the ladder of abstraction.md",
     "Start Here.md",
     "Gamification.md",
     "Lenses of behavioral science and game design principles.md",
-    "How we can work together.md",
-    "Behavioral Product Strategy.md"
+    "How we can work together.md"
   ]
 }
