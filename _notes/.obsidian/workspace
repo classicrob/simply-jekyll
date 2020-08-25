@@ -39,11 +39,10 @@
           {
             "id": "5b1d64c74d6efc61",
             "type": "leaf",
-            "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "There is no curriculum that encompasses everything you should know.md",
+                "file": "User Involvement.md",
                 "mode": "source"
               }
             }
@@ -51,10 +50,11 @@
           {
             "id": "d9aa40a84cc7847d",
             "type": "leaf",
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lewin’s Equation.md",
+                "file": "There is no curriculum that encompasses everything you should know.md",
                 "mode": "source"
               }
             }
@@ -122,10 +122,10 @@
     "width": 218
   },
   "lastOpenFiles": [
-    "There is no curriculum of everything you should know.md",
+    "There is no curriculum that encompasses everything you should know.md",
     "Lewin’s Equation.md",
-    "Game designers have been designing for digital behavior change for longer than just about anyone.md",
-    "The goal of game design is to influence user behavior to create an intended experience.md",
-    "Start Here.md"
+    "User Involvement.md",
+    "There is no curriculum of everything you should know.md",
+    "Game designers have been designing for digital behavior change for longer than just about anyone.md"
   ]
 }
