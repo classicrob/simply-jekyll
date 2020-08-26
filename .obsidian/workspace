@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_notes/The user believes that the app will help them achieve a goal that they actually have.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "_notes/The user believes that the app will help them achieve a goal that they actually have.md"
+              }
             }
           }
         ]
@@ -76,5 +81,8 @@
     "width": 300,
     "collapsed": true
   },
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "_notes/The user believes that the app will help them achieve a goal that they actually have.md",
+    "_notes/User Involvement.md"
+  ]
 }
