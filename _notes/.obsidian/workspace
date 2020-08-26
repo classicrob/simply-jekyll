@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "User Involvement.md",
+                "file": "Product value should grow over time to maintain continued user involvement.md",
                 "mode": "source"
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User Involvement.md"
+                "file": "Product value should grow over time to maintain continued user involvement.md"
               }
             }
           }
@@ -125,10 +125,10 @@
     "width": 218
   },
   "lastOpenFiles": [
+    "Untitled 2.md",
     "User Involvement.md",
     "Parameters of onboarding.md",
     "Start Here.md",
-    "There is no curriculum that encompasses everything you should know.md",
-    "Lewin’s Equation.md"
+    "There is no curriculum that encompasses everything you should know.md"
   ]
 }
