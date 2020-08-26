@@ -22,6 +22,7 @@
               {
                 "id": "672a0350811275d4",
                 "type": "leaf",
+                "active": true,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -36,7 +37,6 @@
           {
             "id": "5b1d64c74d6efc61",
             "type": "leaf",
-            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product value should grow over time to maintain continued user involvement.md"
+                "file": "Lenses of behavioral science and game design principles.md"
               }
             }
           }
@@ -125,10 +125,10 @@
     "width": 218
   },
   "lastOpenFiles": [
+    "Lenses of behavioral science and game design principles.md",
     "Untitled 2.md",
     "User Involvement.md",
     "Parameters of onboarding.md",
-    "Start Here.md",
-    "There is no curriculum that encompasses everything you should know.md"
+    "Start Here.md"
   ]
 }
