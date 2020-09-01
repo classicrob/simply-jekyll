@@ -2,7 +2,7 @@
 title: Lenses of behavioral science and game design principles
 tags: Gamification BehavioralProductStrategy
 ---
-I like to [[Learn through going up and down the ladder of abstraction]]. One of the main ways that I do this is through developing and testing lenses.
+I like to [[Learn by going up and down the ladder of abstraction]]. One of the main ways that I do this is through developing and testing lenses.
 
 Whenever I find (or come up with my own) frameworks or principles of behavioral influence in a paper, game, or my own practice that I feel may be "generalizable" in some sense, I turn them into a series of abstract questions that I can ask myself across situations. This allows me to solve future problems with my present work and encode knowledge. As I discuss in [[How we can work together]], I'll often find it best to run through these lenses in workshops with clients to leverage their domain knowledge.
 

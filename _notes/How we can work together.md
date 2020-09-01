@@ -4,6 +4,8 @@ tags: BehavioralProductStrategy Adoption Retention
 ---
 I'm flexible in the ways I work with clients. Below is not an exhaustive list of possibilities, though there are a few patterns that my engagements tend to follow. I generally work to improve adoption or retention through improving [[User Involvement]]. See: [[Designing for user involvement has positive effects on adoption, retention, and virality]]
 
+People who get to this point often like to see see [[Testimonials]].
+
 ### We always start with exploration
 This helps us understand the ways that we can work together long term. This often comes in the form of a behavioral audit or a workshop (of varying degrees of formality).
 

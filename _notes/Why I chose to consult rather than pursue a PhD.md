@@ -21,7 +21,7 @@ In academia, I would have been reading a lot of papers and learning from profess
 
 In my current work, I’m still reading research and continuously learning, but I’m doing the critical thinking that comes from figuring out ways to apply the research to other situations, and the evaluation that comes from seeing what does and doesn’t work. 
 
-Since real client relationships are on the line, I need to be able to evaluate the practicality/applicability of a theory. I’m working on a large variety of projects, so I [[Learn through going up and down the ladder of abstraction]]. My thinking is driven out of any box that would come with focusing on one thing for a while. Also, I'm allowed to go down research rabbit holes that I wouldn’t have otherwise engaged with, which is valuable because [[There is no curriculum that encompasses everything you should know]].
+Since real client relationships are on the line, I need to be able to evaluate the practicality/applicability of a theory. I’m working on a large variety of projects, so I [[Learn by going up and down the ladder of abstraction]]. My thinking is driven out of any box that would come with focusing on one thing for a while. Also, I'm allowed to go down research rabbit holes that I wouldn’t have otherwise engaged with, which is valuable because [[There is no curriculum that encompasses everything you should know]].
 
 ### Credibility
 Credentials are simply a way of knowing that someone knows what they are doing when they themselves don't know the field. If I'm hiring a programmer and I don't know programming myself, I'm just looking for a signal that I can trust their expertise.
