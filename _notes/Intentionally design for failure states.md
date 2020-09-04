@@ -24,7 +24,7 @@ In Hollow Knight, they wanted to make a challenging game because they wanted pla
 
 So you’re exploring around this map, killing monsters, earning money. When you die, you lose all of your money, and go back to your last checkpoint.
 
-Sounds super demotivating, right?  Well, the same thing is basically happening in a [[streak counter::rmn-transclude]].  You work up days in a row, and then upon failure, you have to start over again.  Sound similar in structure? It's basically a streak counter.
+Sounds super demotivating, right?  Well, the same thing is basically happening in a [[streak counter::rmn-transclude]].  You work up days in a row, and then upon failure, you have to start over again.  Sound similar in structure? It's basically a [[streak counter]].
 
 **Hollow Knight** does something clever to deal with this.  When you die, you leave a “shade” where you died, lose all of your money, and go back to your last checkpoint.  In order to get all of your money back, you need to get to the shade and beat it.  If you die again before then, then you lose all the money for good.
 
