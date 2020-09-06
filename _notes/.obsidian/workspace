@@ -6,26 +6,45 @@
       {
         "id": "6c5fbdb9d69b58e4",
         "type": "leaf",
-        "active": true,
+        "dimension": 48.83333333333334,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Intentionally design for failure states.md",
+            "file": "The most successful app adoptions come from a project.md",
             "mode": "source"
           }
-        },
-        "group": "4a837a9ba1d182e9"
+        }
       },
       {
-        "id": "29b0d151517c9f2e",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "Intentionally design for failure states.md"
+        "id": "688b19d8057f220e",
+        "type": "split",
+        "dimension": 51.16666666666666,
+        "children": [
+          {
+            "id": "5d45f71a6e4f52ef",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The difference between user involvement and user engagement.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "bc455e235d22a7c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Designing for user involvement has positive effects on adoption, retention, and virality.md",
+                "mode": "source"
+              }
+            }
           }
-        },
-        "group": "4a837a9ba1d182e9"
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -76,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intentionally design for failure states.md"
+                "file": "The difference between user involvement and user engagement.md"
               }
             }
           }
@@ -104,10 +123,10 @@
     "width": 306
   },
   "lastOpenFiles": [
-    "Intentionally design for failure states.md",
-    "Testimonials.md",
-    "Learn by going up and down the ladder of abstraction.md",
-    "Learn through going up and down the ladder of abstraction.md",
-    "Lenses of behavioral science and game design principles.md"
+    "The difference between user involvement and user engagement.md",
+    "Help the user to recognize situations for functionality usage.md",
+    "Designing for user involvement has positive effects on adoption, retention, and virality.md",
+    "Adoption requires a baseline of user involvement in order to overcome inertia.md",
+    "The most successful app adoptions come from a project.md"
   ]
 }
