@@ -9,7 +9,7 @@ As such, game designers are asking many of the same questions as applied behavio
 
 How do we design meaningful choices? [[A friend of mine named Javier Velasquez once told me: “Behavioral economics sets up a choice architecture so that people are most likely to pick one specific option. Game designers aim to give users meaningful choices where all of the options are equally valuable, they just represent different play styles that suit each player. There’s a balance there if you want to create engagement in product design.”::rmn]]How do we design the choices that people make so they are more likely to make choices that are in their best interests? How can we design their choices so people reveal their true preferences?
 
-How do we recognize the goals that users have and design the product so they are likely to succeed? How do we recognize users when they are successful, track their progress, and return this information to them in ways that shape their behavior?
+How do we recognize the goals that users have and design the product so they are likely to succeed? How do we recognize users when they are successful, track their progress, and return this information to them in ways that shape their behavior? How can we intelligently deliver feedback to the user in the form of data visualization to motivate the user to aim higher?
 * *[[Use a badging system as a method of actionable user research]]*
 
 People are often going to fail when they attempt to achieve their goals. How do we [[Intentionally design for failure states]] so people try again instead of giving up? How do we increase the likelihood that they are successful when they try again?

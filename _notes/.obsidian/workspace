@@ -4,47 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "6c5fbdb9d69b58e4",
-        "type": "leaf",
-        "dimension": 48.83333333333334,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "The most successful app adoptions come from a project.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "688b19d8057f220e",
+        "id": "da331cf9191508e3",
         "type": "split",
-        "dimension": 51.16666666666666,
         "children": [
           {
-            "id": "5d45f71a6e4f52ef",
+            "id": "75138e71b7e41930",
             "type": "leaf",
-            "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The difference between user involvement and user engagement.md",
+                "file": "Difficulty Matching.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "bc455e235d22a7c5",
+            "id": "78139c3195dff52d",
             "type": "leaf",
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Designing for user involvement has positive effects on adoption, retention, and virality.md",
+                "file": "Use positive feedback loops to increase user involvement.md",
                 "mode": "source"
               }
             }
           }
         ],
-        "direction": "horizontal"
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -70,7 +57,9 @@
             "type": "leaf",
             "state": {
               "type": "search",
-              "state": {}
+              "state": {
+                "query": ""
+              }
             }
           }
         ],
@@ -95,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The difference between user involvement and user engagement.md"
+                "file": "Use positive feedback loops to increase user involvement.md"
               }
             }
           }
@@ -123,10 +112,10 @@
     "width": 306
   },
   "lastOpenFiles": [
-    "The difference between user involvement and user engagement.md",
-    "Help the user to recognize situations for functionality usage.md",
-    "Designing for user involvement has positive effects on adoption, retention, and virality.md",
-    "Adoption requires a baseline of user involvement in order to overcome inertia.md",
-    "The most successful app adoptions come from a project.md"
+    "Use positive feedback loops to increase user involvement.md",
+    "Difficulty Matching.md",
+    "Habits are the wrong thing to focus on for most behaviorally designed applications.md",
+    "User Involvement.md",
+    "Focusing on habits tends to encourage a minimum amount of behavior.md"
   ]
 }

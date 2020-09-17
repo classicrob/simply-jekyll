@@ -1,0 +1,7 @@
+Think about Duolingo, a popular language-learning app that uses gamification. They ask you to spend a certain amount of time on their app per day, and if you do, you’ll get experience points (useless) and a random amount of gems (can be spent in the store for power-ups that help you earn more gems and new courses). That may seem like a perfectly natural approach to take, but let’s take a moment to think about what it’s rewarding.
+
+**Duolingo doesn’t reward you for playing the game. They reward you for playing a certain amount of it.** [[When an app is only trying to encourage a minimum level of User Involvement, it's generally a safe bet that they just care about company goals.::rsn]]If someone does an hour’s worth of lessons they gain nothing more than if they only do ten minutes, so why bother doing more than is necessary? The rewards are tied to an extrinsic and arbitrarily set checkpoint rather than the core actions that are intrinsic to the gameplay.
+
+**Add image to this note from Progress monitoring and feedback**
+
+Wouldn’t it be better if the user was incentivized to spend as much time learning as they could? This can be achieved through [[Use positive feedback loops to increase user involvement]].
