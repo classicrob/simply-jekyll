@@ -389,18 +389,20 @@ hr {
 .main-site-subheader {
     border-bottom: 1px solid var(--primary-border-color);
     padding-left: 15px;
+    display: flex;
 }
 
-.home, .categories, .rss, .projects {
+.home, .categories, .rss, .projects, .work {
     padding-left: 5px;
     padding-right: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
     vertical-align: middle;
-    display: inline-block;
     justify-content: center;
     border-right: 1px solid var(--primary-border-color);
     color: var(--primary-text-color); 
+    flex-grow: 1;
+    text-align: center;
 }
 
 .rss, .categories {
@@ -412,7 +414,7 @@ hr {
     padding-right: 14px;
 }
 
-.home-p, .categories-p, .rss-p, .projects-p {
+.home-p, .categories-p, .rss-p, .projects-p, .work-p {
    margin-top: auto;
    margin-left: auto;
    text-align: center;
@@ -422,27 +424,10 @@ hr {
    color: var(--primary-text-color); 
 }
 
-.icon-home, .icon-category, .icon-projects, .icon-rss {
+.icon-home, .icon-category, .icon-projects, .icon-rss, .icon-work {
     margin-top: 7px;
     justify-content: center;
     stroke: var(--primary-text-color);
-}
-
-
-.icon-home {
-    margin-left: 21%;
-}
-
-.icon-category {
-    margin-left: 21%;
-}
-
-.icon-projects {
-    margin-left: 30%;
-}
-
-.icon-rss {
-    margin-left: 10%;
 }
 
 /* Notes: Note-heading, Note-subheading, Notes-content, Related Notes */
