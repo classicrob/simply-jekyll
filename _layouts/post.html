@@ -10,6 +10,14 @@
   {% if site.google_analytics and jekyll.environment == 'production' %}
   {% include analytics.html %}
   {% endif %}
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-172955291-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-172955291-1');
+    </script>
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <meta content="{{site.title}}" property="og:site_name"/>
     <meta content="Interconnected musings on behavior, products, and game design." property="og:description">
