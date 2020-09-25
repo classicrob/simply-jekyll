@@ -10,7 +10,9 @@
     "markdown-importer": true,
     "word-count": true,
     "custom-css": false,
-    "page-preview": true
+    "page-preview": true,
+    "random-note": true,
+    "translucency": false
   },
   "spellcheck": true,
   "strictLineBreaks": false,

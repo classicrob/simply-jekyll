@@ -4,18 +4,22 @@ tags: BehavioralProductStrategy Adoption Retention
 ---
 I'm flexible in the ways I work with clients. Below is not an exhaustive list of possibilities, though there are a few patterns that my engagements tend to follow. I generally work to improve adoption or retention through improving [[User Involvement]]. See: [[Designing for user involvement has positive effects on adoption, retention, and virality]]
 
-People who get to this point often like to see see [[Testimonials]].
+People who get to this point often like to see [[Testimonials]]. Here's one from Adam Taylor, CEO of Fabriq:
 
-### We always start with exploration
+*"These days, it's all too easy to think you’re implementing effective behavioral design principles after reading a few articles, or a one-off conversation with someone who’s “done it before”, but Rob provides the kind of expertise that product design teams are unlikely to possess in-house, even if they are well schooled in UI/UX/CX. Rob’s contribution to our “goal & reward” system redesign was not only a crucial correction to our process and the direction we took the work, but it was an educational opportunity for our team(s) that gave us additional lenses through which to view our work that will pay dividends down the line.” *
+
+# We always start with exploration
 This helps us understand the ways that we can work together long term. This often comes in the form of a behavioral audit or a workshop (of varying degrees of formality).
 
+### Behavioral Audit
 **In the behavioral audit,** I'll analyze your product and talk with you and members of your team about business and user objectives to gain an impression of your product. After a few weeks, you will receive a report of how your product is currently influencing user behavior and directions to explore for a more goal-driven [[Behavioral Product Strategy]].
 
+### Workshop
 **In a workshop,** my goal is to orient you and your team around the right questions to begin developing a behavioral product strategy. One example of this is a workshop where we [[Use a badging system as a method of actionable user research]]. Soon afterwards, you'll receive a summary of what I believe the main takeaways should be.
 
-Occasionally, it will be clear through discussion that your organization has unique needs. In these cases, I generate customized workshops of varying degrees of formality from my [[Lenses of behavioral science and game design principles]] that are relevant to your situation. These allow us to combine my knowledge of behavioral influence with you and your team's knowledge of your company's context.
+Occasionally, it will be clear through discussion that your organization has unique needs. In these cases, I generate **customized workshops** of varying degrees of formality from my [[Lenses of behavioral science and game design principles]] that are relevant to your situation. These allow us to combine my knowledge of behavioral influence with you and your team's knowledge of your company's context.
 
-### The next engagement is based on what we uncover in exploration
+# The next engagement is based on what we uncover in exploration
 
 From the first engagement, it tends to be clear to me what our next steps will be.
 

@@ -4,6 +4,8 @@ tags: BehavioralProductStrategy Retention
 ---
 [[New users do not yet have the vocabulary to understand the app]], but as [[User skill level increases over time]], so does their vocabulary. They are able to conceptualize and express desires that they couldn’t express before, so [[User goals change over time]]. If the app can only handle the user's goals 2 weeks in but not 2 months in, then it can't expect the user's continued involvement.
 
+This points to the importance of [[Continuous onboarding]] for [[Difficulty Matching]]. If the user's skill level doesn't increase over time to match the challenge that their new goals require, then the user will get frustrated and give up. [[Apps with continued user involvement are responsive to increasing skill levels over time]].
+
 Often times the user’s goals change entirely, so [[Apps with continued user involvement enable the user to accomplish multiple goals]].
 
 

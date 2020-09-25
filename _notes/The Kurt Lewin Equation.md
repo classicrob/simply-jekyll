@@ -1,5 +1,5 @@
 ---
-title: Lewin's Equation
+title: The Kurt Lewin Equation
 tags: BehavioralProductStrategy
 ---
 [Kurt Lewin’s equation](https://en.wikipedia.org/wiki/Lewin's_equation), B=f(P,E), states that a person’s behavior is a function of who they are as a person and the contextual factors of their environment.

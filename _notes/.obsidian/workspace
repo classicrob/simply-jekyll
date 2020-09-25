@@ -8,27 +8,78 @@
         "type": "split",
         "children": [
           {
-            "id": "75138e71b7e41930",
+            "id": "8307244e30567992",
+            "type": "split",
+            "dimension": 39.12483912483913,
+            "children": [
+              {
+                "id": "b4b40eb19e1ae220",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "User goals change over time.md",
+                    "mode": "source"
+                  }
+                },
+                "group": "85f2713e530f1586"
+              },
+              {
+                "id": "81d90f84485d48cb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "User skill level increases over time.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "578cd2ec88d4ec54",
             "type": "leaf",
+            "dimension": 36.036036036036045,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Difficulty Matching.md",
+                "file": "Eventually user skill level will reach the limitations of the software.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "78139c3195dff52d",
-            "type": "leaf",
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Use positive feedback loops to increase user involvement.md",
-                "mode": "source"
+            "id": "6c8d3db6e78120d0",
+            "type": "split",
+            "dimension": 24.839124839124842,
+            "children": [
+              {
+                "id": "73ed0f26f4fb84e9",
+                "type": "leaf",
+                "active": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "The Kurt Lewin Equation.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "8fa301742082ddb0",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "User goals change over time.md"
+                  }
+                },
+                "group": "85f2713e530f1586"
               }
-            }
+            ],
+            "direction": "horizontal"
           }
         ],
         "direction": "vertical"
@@ -75,16 +126,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f3cb7ced07dfb00e",
+        "id": "0bd96adb9b959e81",
         "type": "tabs",
         "children": [
           {
-            "id": "cd42d07cb3e54005",
+            "id": "b903d3635cb89561",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "markdown",
               "state": {
-                "file": "Use positive feedback loops to increase user involvement.md"
+                "file": "Interstitial journal.md",
+                "mode": "source"
               }
             }
           }
@@ -104,18 +156,45 @@
                 "mode": "source"
               }
             }
+          },
+          {
+            "id": "75138e71b7e41930",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How we can work together.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "cd42d07cb3e54005",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Kurt Lewin Equation.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 306
   },
   "lastOpenFiles": [
-    "Use positive feedback loops to increase user involvement.md",
-    "Difficulty Matching.md",
-    "Habits are the wrong thing to focus on for most behaviorally designed applications.md",
-    "User Involvement.md",
-    "Focusing on habits tends to encourage a minimum amount of behavior.md"
+    "Lewin’s Equation.md",
+    "Apps with continued user involvement are responsive to increasing skill levels over time.md",
+    "Eventually user skill level will reach the limitations of the software.md",
+    "User goals change over time.md",
+    "Eventually user skill level will reach the limitations of the software (Rob Haisfield's conflicted copy).md",
+    "Intention-Behavior Gap.md",
+    "Intentionally design for failure states.md",
+    "Failure state.md",
+    "Apps with continued user involvement respond to changing user goals over time.md",
+    "User skill level increases over time.md"
   ]
 }
