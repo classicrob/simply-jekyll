@@ -8,3 +8,8 @@ Translated into app terms:
 	* [[The user believes that they are capable of performing actions within the app]]  
 	* [[The user believes that their actions in the app lead to goal achievement]]
 	* [[The user believes that the app will help them achieve a goal that they actually have]]
+
+**Citation**
+Eccles, J. (1983). Expectancies, values, and academic behaviors. In J. T. Spence (Ed.), Achievement and achievement motives: Psychological and sociological approaches (pp. 75-146). San Francisco, CA: W. H. Freeman.
+
+See the Wikipedia page for a quick overview: https://en.wikipedia.org/wiki/Expectancy-value_theory#cite_note-Eccles1983-1
