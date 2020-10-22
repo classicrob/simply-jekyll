@@ -10,14 +10,16 @@
           {
             "id": "8307244e30567992",
             "type": "split",
+            "dimension": 49.222222222222214,
             "children": [
               {
-                "id": "578cd2ec88d4ec54",
+                "id": "220dda3f95d38496",
                 "type": "leaf",
+                "dimension": 69.65428937259922,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "People start using an app with different prior skill levels.md",
+                    "file": "Most gamification sucks.md",
                     "mode": "source"
                   }
                 }
@@ -25,10 +27,11 @@
               {
                 "id": "81d90f84485d48cb",
                 "type": "leaf",
+                "dimension": 30.345710627400766,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "User skill level increases over time.md",
+                    "file": "Every app is designed for behavior change, intentionally or unintentionally.md",
                     "mode": "source"
                   }
                 }
@@ -37,27 +40,19 @@
             "direction": "horizontal"
           },
           {
-            "id": "b4b40eb19e1ae220",
-            "type": "leaf",
-            "dimension": 56.17283950617284,
-            "active": true,
-            "state": {
-              "type": "graph",
-              "state": {}
-            },
-            "group": "85f2713e530f1586"
-          },
-          {
             "id": "6c8d3db6e78120d0",
             "type": "split",
+            "dimension": 50.777777777777786,
             "children": [
               {
                 "id": "73ed0f26f4fb84e9",
                 "type": "leaf",
+                "dimension": 48.63636363636363,
+                "active": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Expectancy Value Theory.md",
+                    "file": "self-efficacy.md",
                     "mode": "source"
                   }
                 }
@@ -65,13 +60,13 @@
               {
                 "id": "8fa301742082ddb0",
                 "type": "leaf",
+                "dimension": 51.36363636363636,
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "User goals change over time.md"
+                    "file": "self-efficacy.md"
                   }
-                },
-                "group": "85f2713e530f1586"
+                }
               }
             ],
             "direction": "horizontal"
@@ -113,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247,
-    "collapsed": true
+    "width": 247
   },
   "right": {
     "id": "b4a22675225d2ddf",
@@ -168,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "self-efficacy.md"
+              }
             }
           }
         ],
@@ -180,15 +176,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "User goals change over time.md",
-    "People start using an app with different prior skill levels.md",
-    "Expectancy Value Theory.md",
-    "User skill level increases over time.md",
-    "The Kurt Lewin Equation.md",
-    "Eventually user skill level will reach the limitations of the software.md",
-    "Lewin’s Equation.md",
-    "Apps with continued user involvement are responsive to increasing skill levels over time.md",
-    "Eventually user skill level will reach the limitations of the software (Rob Haisfield's conflicted copy).md",
-    "Intention-Behavior Gap.md"
+    "self-efficacy.md",
+    "Continuous onboarding.md",
+    "How we can work together.md",
+    "Most gamification sucks.md",
+    "Every app is designed for behavior change, intentionally or unintentionally.md",
+    "Designing for user involvement has positive effects on adoption, retention, and virality.md",
+    "Speak to the user with a shared vocabulary.md",
+    "Testimonials.md",
+    "New users do not yet have the vocabulary to understand the app.md",
+    "Intentionally design for Failure States draft.md"
   ]
 }

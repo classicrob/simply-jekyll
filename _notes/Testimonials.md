@@ -10,6 +10,7 @@ title: Testimonials
 *Founder of [Spark Wave](https://www.sparkwave.tech)*
 
 *Mathematician, Behavioral Scientist, Entrepreneur*
+
 "Rob has remarkable creativity, and an impressive fluency with applying behavior science principles in a practical way to our products. He has demonstrated his ability to solve tricky user behavior challenges time and again.”
 
 ### Eddie Liu

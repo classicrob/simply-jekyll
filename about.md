@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Start Here
 content-type: eg
 layout: post
 permalink: /about

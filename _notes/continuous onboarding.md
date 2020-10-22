@@ -10,4 +10,4 @@ Continuous onboarding is an onboarding that never stops. Users are constantly be
 
 It should be noted that some apps have a more expansive range of potential use cases than others. The important thing to continuous onboarding is to think about [[Goal Resonance]]- how will a user discover that the app helps them accomplish a goal and execute the sets of behaviors that enable them to accomplish said goal? [[The user may have a lack of imagination as to what user goals they can accomplish]], so how can we expand their conceptualization of the product?
 
-<!- - [[Continuous onboarding can come from the community]] - ->
+<!-- [[Continuous onboarding can come from the community]] -->

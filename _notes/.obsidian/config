@@ -19,5 +19,6 @@
   "showLineNumber": true,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "enabledPlugins": []
 }
