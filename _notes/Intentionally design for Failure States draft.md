@@ -16,7 +16,7 @@
         - Too challenging
         - Lack of belief in themselves
         - Something isn't there that should be
-    Many apps ignore failure states and have no plan for when they happen. The user inevitably fails, and [[Users who fail to recover churn]] because they've lost their [[self-efficacy]]. However, games intentionally design for failure because they recognize they have no other choice - otherwise people would stop playing as soon as they mess up. They need to motivate players to retry and help them learn how to be successful.
+    Many apps ignore failure states and have no plan for when they happen. The user inevitably fails, and [[Users who fail to recover churn]] because they've lost their [[Self-efficacy]]. However, games intentionally design for failure because they recognize they have no other choice - otherwise people would stop playing as soon as they mess up. They need to motivate players to retry and help them learn how to be successful.
 	
     ### Failure Redemption in [[Hollow Knight]]
 	In Hollow Knight, they wanted to make a challenging game because they wanted players to feel the accomplishment of beating something that previously beat them.

@@ -52,7 +52,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "self-efficacy.md",
+                    "file": "Self-efficacy.md",
                     "mode": "source"
                   }
                 }
@@ -64,7 +64,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "self-efficacy.md"
+                    "file": "Self-efficacy.md"
                   }
                 }
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "self-efficacy.md"
+                "file": "Self-efficacy.md"
               }
             }
           }
@@ -177,6 +177,7 @@
   },
   "lastOpenFiles": [
     "self-efficacy.md",
+    "Meeting notes from Prep for Gamicon.md",
     "Continuous onboarding.md",
     "How we can work together.md",
     "Most gamification sucks.md",
@@ -184,7 +185,6 @@
     "Designing for user involvement has positive effects on adoption, retention, and virality.md",
     "Speak to the user with a shared vocabulary.md",
     "Testimonials.md",
-    "New users do not yet have the vocabulary to understand the app.md",
-    "Intentionally design for Failure States draft.md"
+    "New users do not yet have the vocabulary to understand the app.md"
   ]
 }

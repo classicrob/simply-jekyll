@@ -8,7 +8,7 @@ title: Fogg Behavior Model
 - Using it well- don’t assume this is all that you need to know about behavioral science to make a good product. This is essentially formalized common-sense.
     - Ability
         - "Make it simple, remove steps.  This is what UX designers do best."
-        - Does the user have the necessary skills, energy, time, or other resources to do some behavior? Has the user built up the necessary amount of [[self-efficacy]]?
+        - Does the user have the necessary skills, energy, time, or other resources to do some behavior? Has the user built up the necessary amount of [[Self-efficacy]]?
     - Motivation:
         - This is the part where UX designers tend to struggle.
         - Self-efficacy is one way to boost motivation
