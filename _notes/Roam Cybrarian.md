@@ -16,7 +16,7 @@ Why do this? Because an organization's accumulated knowledge can become its grea
 
 ### Using Roam to support intervention design with the COM-B model
 
-Imagine you are using the COM-B model and recognize that the target population for behavior change has low automatic motivation but high reflective motivation to engage in a target behavior. A cybrarian could query the database and find:
+Imagine you are using the [COM-B model](https://www.researchgate.net/publication/51070630_The_Behaviour_Change_Wheel_a_new_method_for_characterising_and_designing_behaviour_change_interventions) and recognize that the target population for behavior change has low automatic motivation but high reflective motivation to engage in a target behavior. A cybrarian could query the database and find:
 
 * Other projects with similar constraints
 * What interventions you ran that are related to low automatic motivation
