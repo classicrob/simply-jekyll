@@ -10,7 +10,11 @@ I've been using it for almost a year for my own consulting practice, and it has 
 
 **One role that popped up was a “Cybrarian.”** I'll talk about what that would look like for an applied behavioral science research lab or consultancy since that is the sort of work with which I am most familiar.
 
-In this context, a cybrarian would port research, documentation, client deliverables, presentations, organizational learning, and discussion into Roam. They would then assist the team in searching the vast knowledge base of the past for answers to present problems, and train the team to operate within Roam.
+I originally heard the term "Cybrarian" in Howard Rheingold's Art of Hosting Good Conversation's online.
+
+<blockquote class="quoteback" darkmode="" data-title="The%20art%20of%20hosting%20good%20online%20conversations" data-author="Howard Rheingold" cite="https://medium.com/@hrheingold/the-art-of-hosting-good-online-conversations-38c6d06642d0"><li id="5472" class="gj gk er gl b gm hl gn go gp hm gq gr gs hn gt gu gv ho gw gx gy hp gz ha hc hi hj hk cr" data-selectable-paragraph="">A host is also a cybrarian. Good hosts nurture the community memory, pointing newcomers to archives, providing links to related conversations, past and present, hunting down resources to add to the collective pool of knowledge — and teaching others to do it. Well performed voluntary cybrarianship is contagious.</li><footer>Howard Rheingold <cite><a href="https://medium.com/@hrheingold/the-art-of-hosting-good-online-conversations-38c6d06642d0">https://medium.com/@hrheingold/the-art-of-hosting-good-online-conversations-38c6d06642d0</a></cite></footer></blockquote> <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+In the context of a research lab or consultancy, a cybrarian would port research, documentation, client deliverables, presentations, organizational learning, and discussion into Roam. They would then assist the team in searching the vast knowledge base of the past for answers to present problems, and train the team to operate within Roam.
 
 Why do this? Because an organization's accumulated knowledge can become its greatest asset if they have a reliable way to manage the quantity. You're not just querying your own memory, but the collective record of everyone on the team's work. Placing knowledge into a system like Roam ensures the knowledge builds on itself rather than existing as many siloed projects. Without an organizational knowledge base, each project starts from a blank page.
 
@@ -42,3 +46,4 @@ Some necessary soft skills include:
 * The ability to write reports that summarize a project in a way that facilitates future searches into the database
 * Teaching ability to train the team to operate within Roam themselves
 * Must understand the difference between the needs and structure of personal knowledge management vs. social knowledge management
+
