@@ -2,11 +2,7 @@
 title: Roam Cybrarian
 ---
 
-In a discussion organized by Norman Chella about Roam Creators, he raised the thought-provoking question: “What would a job description with Roam Research as a hard skill look like?”
-
-For anyone who isn't already familiar, Roam Research is a knowledge management system that organizes text on a graph of connections. Think of it like a Wikipedia that you write that can be queried and filtered like a database. For example, a behavioral scientist could search for interventions that change social norms. Roam would pull up all instances in your database that connect "intervention" with "social norms" and display them to you in the context where you originally wrote down those notes, so you would see associated papers and projects as well.
-
-I've been using it for almost a year for my own consulting practice, and it has been life-changing as a way to compound experiential learning.
+In a discussion organized by Norman Chella about Roam Creators, he raised the thought-provoking question: “What would a job description with [[Roam]] Research as a hard skill look like?” [[If you don't know what Roam is, click on my Roam page::rsn]]
 
 **One role that popped up was a “Cybrarian.”** I'll talk about what that would look like for an applied behavioral science research lab or consultancy since that is the sort of work with which I am most familiar.
 

@@ -10,16 +10,17 @@
           {
             "id": "8307244e30567992",
             "type": "split",
-            "dimension": 49.222222222222214,
+            "dimension": 58.21629213483146,
             "children": [
               {
                 "id": "220dda3f95d38496",
                 "type": "leaf",
-                "dimension": 69.65428937259922,
+                "dimension": 54.332313965341484,
+                "active": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Roam.md",
+                    "file": "Roam Cybrarian.md",
                     "mode": "source"
                   }
                 }
@@ -27,7 +28,7 @@
               {
                 "id": "81d90f84485d48cb",
                 "type": "leaf",
-                "dimension": 30.345710627400766,
+                "dimension": 45.66768603465851,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -40,36 +41,15 @@
             "direction": "horizontal"
           },
           {
-            "id": "6c8d3db6e78120d0",
-            "type": "split",
-            "dimension": 50.777777777777786,
-            "children": [
-              {
-                "id": "73ed0f26f4fb84e9",
-                "type": "leaf",
-                "dimension": 75.33129459734964,
-                "active": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Roam Cybrarian.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "8fa301742082ddb0",
-                "type": "leaf",
-                "dimension": 24.668705402650357,
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Roam Cybrarian.md"
-                  }
-                }
+            "id": "8fa301742082ddb0",
+            "type": "leaf",
+            "dimension": 41.78370786516854,
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Roam Cybrarian.md"
               }
-            ],
-            "direction": "horizontal"
+            }
           }
         ],
         "direction": "vertical"
@@ -108,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247
+    "width": 196
   },
   "right": {
     "id": "b4a22675225d2ddf",
@@ -178,13 +158,13 @@
   "lastOpenFiles": [
     "Roam Cybrarian.md",
     "Roam.md",
+    "Untitled 2.md",
     "Most gamification sucks.md",
     "self-efficacy.md",
     "Meeting notes from Prep for Gamicon.md",
     "Continuous onboarding.md",
     "How we can work together.md",
     "Every app is designed for behavior change, intentionally or unintentionally.md",
-    "Designing for user involvement has positive effects on adoption, retention, and virality.md",
-    "Speak to the user with a shared vocabulary.md"
+    "Designing for user involvement has positive effects on adoption, retention, and virality.md"
   ]
 }
