@@ -2,7 +2,7 @@
 title: Roam Cybrarian
 ---
 
-In a discussion organized by Norman Chella about Roam Creators, he raised the thought-provoking question: “What would a job description with [[Roam]] Research as a hard skill look like?” [[If you don't know what Roam is, click on my Roam page::rsn]]
+In a discussion organized by Norman Chella of [RoamFM](https://twitter.com/roamfm?lang=en) about Roam Creators, he raised the thought-provoking question: “What would a job description with [[Roam]] Research as a hard skill look like?” [[If you don't know what Roam is, click on my Roam page::rsn]]
 
 **One role that popped up was a “Cybrarian.”** I'll talk about what that would look like for an applied behavioral science research lab or consultancy since that is the sort of work with which I am most familiar.
 
@@ -23,17 +23,18 @@ Imagine you are using the [COM-B model](https://www.researchgate.net/publication
 * Relevant research papers to those interventions
 * The results of your interventions
 
-From there, the cybrarian could help you drill in for further detail. Maybe notes on a past project inform you of an instance when you thought low automatic motivation was the problem, but there actually wasn't sufficient social opportunity. After reading more details from the past project, you realize that this might be true for your current project, so the cybrarian writes another query looking for interventions related to enhancing social opportunity. Through this search, you end up finding the right solution to your current problem, avoiding past mistakes.
+From there, the cybrarian could help you drill in for further detail. Maybe notes on a past project inform you of an instance when you thought low automatic motivation was the problem, but there actually wasn't sufficient social opportunity. After reading more details from the past project, you realize that this might be true for your current project, so the cybrarian writes another query looking for interventions related to enhancing social opportunity, and you see all of the projects where you have used those interventions in the past. Through this search, you end up finding the right solution to your current problem, avoiding past mistakes.
 
 ### Skills of a Roam Cybrarian
 
 Some necessary technical skills include: 
-* Importing information from one source to another (files -> Zotero -> Roam)
+* Importing information from one source to another (e.g. Paper PDFs -> Zotero -> Roam)
 * Reformatting existing notes to better facilitate queries within Roam through proper indentation structures
 * Being able to translate open questions for current projects into queries
 * Attribute tables ([using Murf's plugin](https://twitter.com/shawnpmurphy8/status/1316770461624090625)) for manipulating structured data
 
 Some necessary soft skills include:
+* Familiarity with the broader Roam ecosystem so you're aware of extensions that add functionality, like automatic GitHub backups
 * Information architecture for efficient resurfacing and browsing
 * [Documenting the meta-process of projects](https://www.roambrain.com/brainstorming-with-myself-systematic-creativity-in-roam/)
 * Enough domain knowledge to recognize specific needs of the organization who you're working with

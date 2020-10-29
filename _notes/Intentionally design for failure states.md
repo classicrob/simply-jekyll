@@ -4,7 +4,7 @@ tags: Gamification BehavioralProductStrategy Retention
 status: inDevelopment
 ---
 
-A failure state is when users fail to reach their goal in some way. In goal striving, it is inevitable that the user will experience failure states, because a goal is by definition a discrepancy between your desired state of reality and your present state. If we didn't have failure states, the [[Intention-Behavior Gap]] [[There tends to be a gap between what people intend to do and what they actually do, Sheeran & Gollwitzer 2006::rmn]] would be a non-issue (rather than one of the hardest problems in the world to solve. Before people start using your app, they probably tried to accomplish their goals unsuccessfully in some other way.
+A failure state is when users fail to reach their goal in some way. In goal striving, it is inevitable that the user will experience failure states, because a goal is by definition a discrepancy between your desired state of reality and your present state. If we didn't have failure states, the [[Intention-Behavior Gap]] [[There tends to be a gap between what people intend to do and what they actually do, Sheeran & Webb 2016::rmn]] would be a non-issue (rather than one of the hardest problems in the world to solve. Before people start using your app, they probably tried to accomplish their goals unsuccessfully in some other way.
 
 Some potential causes of user failure include:
 * Lack of knowledge
