@@ -12,7 +12,8 @@
     "custom-css": false,
     "page-preview": true,
     "random-note": true,
-    "translucency": false
+    "translucency": false,
+    "workspaces": true
   },
   "spellcheck": true,
   "strictLineBreaks": false,
@@ -20,5 +21,7 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "fileSortOrder": "alphabetical",
-  "enabledPlugins": []
+  "enabledPlugins": [
+    "obsidian-reading-time"
+  ]
 }

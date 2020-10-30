@@ -4,7 +4,7 @@ tags: Meta
 ---
 Welcome. *I don't know what to call this, exactly.* A digital garden? A personal wiki? A nonlinear manifesto? Regardless, it's my public idea space. It is a deeply entangled web of ideas that I'm changing constantly. You'll take a different journey every time you're here, and pages that you've already read may take on new meaning when placed into new contexts.
 
-Generally, I aim to express my ideas in a way that each idea is placed into its broader context whenever I add something new in. You should be able to start at any point and build out from there, and your exploration will be rewarded by making it quicker to grasp future ideas you encounter. Hopefully this way you'll be able to build your own mental models from the inputs and outputs of my own. **This is the joy of writing in hypertext.**
+Generally, I aim to express my ideas in a way that each idea is placed into its broader context whenever I add something new in. You should be able to start at any point and build out from there, and your exploration will be rewarded by making it quicker to grasp future ideas you encounter. **Hopefully this way you'll be able to build your own mental models from the inputs and outputs of my own.** This is the joy of writing in hypertext.
 
 Most ideas relate to many ideas, and expressing that through linear blog posts was an exhausting and overwhelming task. Instead, in this space, I express each idea as well as how it connects to my other ideas. You can explore as you wish. There is no intended path, there's nothing you "should" do. Just click on the links that sound interesting to you, and if I did my job right, you'll find what you're looking for even when you aren't looking for anything in particular.
 

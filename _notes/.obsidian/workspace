@@ -10,7 +10,7 @@
           {
             "id": "81d90f84485d48cb",
             "type": "leaf",
-            "dimension": 20.926966292134832,
+            "dimension": 31.60112359550562,
             "state": {
               "type": "markdown",
               "state": {
@@ -22,7 +22,7 @@
           {
             "id": "ce0cba56f329fc19",
             "type": "leaf",
-            "dimension": 26.825842696629216,
+            "dimension": 37.85112359550562,
             "active": true,
             "state": {
               "type": "markdown",
@@ -35,23 +35,12 @@
           {
             "id": "8762e27fb11876c2",
             "type": "leaf",
-            "dimension": 29.28370786516854,
+            "dimension": 30.547752808988765,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spark Wave.md",
+                "file": "Hyper learning draft space.md",
                 "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "8fa301742082ddb0",
-            "type": "leaf",
-            "dimension": 22.963483146067414,
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Hyper learning.md"
               }
             }
           }
@@ -160,14 +149,14 @@
   },
   "lastOpenFiles": [
     "Hyper learning.md",
+    "Hyper learning draft space.md",
+    "Writing in hypertext.md",
+    "Roam Cybrarian.md",
     "Spark Wave.md",
     "Make an impact through portfolio effects.md",
     "Startup Studio.md",
     "Case study of how I prepared for MadPow.md",
-    "Roam Cybrarian.md",
     "thought experiment.md",
-    "User Involvement.md",
-    "Products are fundamentally voluntary.md",
-    "Product makers want principles that are generalizable to their own users.md"
+    "User Involvement.md"
   ]
 }
