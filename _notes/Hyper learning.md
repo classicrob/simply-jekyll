@@ -18,7 +18,7 @@ My skills lie in interdisciplinary thinking, framing problems to make them actio
 
 Being a hyper learner, I realized that my understanding of the world would increase at the fastest rate if I could work on a variety of projects simultaneously and sequentially. I intentionally became a consultant because I recognized that this would be the best incubator for my impact and intellectual growth. This is also one of the reasons [[Why I chose to consult rather than pursue a PhD]].
 
-Hyper learning is the process through which I integrate what I learn from one project into what I'm working on with another project. When I solve a problem for one client, I attempt to conceptualize a more abstract form of the problem and solution, making applicable to more situations. This is a process I refer to as [[learning through going up and down the ladder of abstraction]]
+Hyper learning is the process through which I integrate what I learn from one project into what I'm working on with another project. When I solve a problem for one client, I attempt to conceptualize a more abstract form of the problem and solution, making applicable to more situations. As I've been phrasing it, I [[Learn by going up and down the ladder of abstraction]]
 
 Abstractions are the core building block of a hyper learner to integrate varied experience. By allowing my knowledge, ideas, and learnings to cross-pollinate across projects, my output grows rapidly stronger. Consulting allows me to make bets on ideas in multiple situations to understand their boundary conditions and generalizability.
 
