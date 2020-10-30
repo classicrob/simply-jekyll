@@ -8,66 +8,50 @@
         "type": "split",
         "children": [
           {
-            "id": "8307244e30567992",
-            "type": "split",
-            "dimension": 80.6179775280899,
-            "children": [
-              {
-                "id": "3fd2439cf3106477",
-                "type": "split",
-                "dimension": 66.15905245346869,
-                "children": [
-                  {
-                    "id": "220dda3f95d38496",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Search Behavior.md",
-                        "mode": "source"
-                      }
-                    },
-                    "group": "bb9e3934a6609394"
-                  },
-                  {
-                    "id": "1f39f28bc43e322b",
-                    "type": "leaf",
-                    "active": true,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Search Behavior.md",
-                        "mode": "preview"
-                      }
-                    },
-                    "group": "bb9e3934a6609394"
-                  }
-                ],
-                "direction": "vertical"
-              },
-              {
-                "id": "81d90f84485d48cb",
-                "type": "leaf",
-                "dimension": 33.840947546531304,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Product makers want principles that are generalizable to their own users.md",
-                    "mode": "source"
-                  }
-                }
+            "id": "81d90f84485d48cb",
+            "type": "leaf",
+            "dimension": 20.926966292134832,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roam Cybrarian.md",
+                "mode": "source"
               }
-            ],
-            "direction": "horizontal"
+            }
+          },
+          {
+            "id": "ce0cba56f329fc19",
+            "type": "leaf",
+            "dimension": 26.825842696629216,
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hyper learning.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "8762e27fb11876c2",
+            "type": "leaf",
+            "dimension": 29.28370786516854,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spark Wave.md",
+                "mode": "source"
+              }
+            }
           },
           {
             "id": "8fa301742082ddb0",
             "type": "leaf",
-            "dimension": 19.382022471910112,
+            "dimension": 22.963483146067414,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Search Behavior.md"
+                "file": "Hyper learning.md"
               }
             }
           }
@@ -162,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Search Behavior.md"
+                "file": "Hyper learning.md"
               }
             }
           }
@@ -175,15 +159,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Search Behavior.md",
-    "Freewrite session.md",
-    "Product makers want principles that are generalizable to their own users.md",
-    "Every app is designed for behavior change, intentionally or unintentionally.md",
-    "Untitled 3.md",
-    "Game designers and behavioral scientists are asking many of the same questions.md",
-    "Failure States New Article Draft.md",
+    "Hyper learning.md",
+    "Spark Wave.md",
+    "Make an impact through portfolio effects.md",
+    "Startup Studio.md",
+    "Case study of how I prepared for MadPow.md",
     "Roam Cybrarian.md",
+    "thought experiment.md",
+    "User Involvement.md",
     "Products are fundamentally voluntary.md",
-    "Make an impact through portfolio effects.md"
+    "Product makers want principles that are generalizable to their own users.md"
   ]
 }
