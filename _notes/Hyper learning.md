@@ -2,13 +2,14 @@
 title: Hyper learning
 status: inProgress
 ---
-Hyper learning is a coinage for connecting the dots across multiple projects or fields to facilitate a deeper understanding of the world, inspired by what [[Writing in hypertext]] has done for my thinking. It is fundamentally interdisciplinary thinking, and it generally happens at a quicker pace than normal learning by way of more fully leveraging past experience.
+Hyper learning is a coinage for a deliberate practice of connecting the dots across multiple projects or fields to facilitate a deeper understanding of the world. The term is inspired by what [[Writing in hypertext]] has done for my thinking, allowing me to connect ideas frequently, as well as the intensity that comes from directing interdisciplinary thinking towards your greatest strengths. It generally happens at a quicker pace than siloed learning by way of more fully integrating past, present, and future experience.
 
 Many people will naturally connect the dots over the course of their life experience. However, hyper learning is a deliberate practice.
 
 An effective hyper learner: 
 * Intentionally varies their research and experience so they have more dots to connect
-* Considers deliberate reflection and interdisciplinary synthesis a core part of their work.
+* Considers deliberate reflection and interdisciplinary synthesis a core part of their work
+* Focuses on their strengths and fields that are adjacent
 
 This is why I consult and take note writing seriously-- I'm trying to gather varied experiences and research while synthesizing. Hyper learning creates knowledge capital, where anything you discover can be used in the future to a degree only limited by imagination. This influenced a key decision point in my life, see [[Why I chose to consult rather than pursue a PhD]].
 
