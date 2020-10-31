@@ -31,7 +31,7 @@ About a month and a half before I decided to pull the plug on Aloha, I met [Whit
 
 Some people have guffawed when I told them this story. They hold the belief that everybody has to be able to execute in order to be successful. But isn't execution just a combination of many skills? What if high quality execution came from collaborations between people who mainly focus on where they shine?
 
-I took a step back to figure out what my skills were.
+I took a step back to figure out what my comparative advantages were.
 
 My strengths lie in interdisciplinary thinking, research, creative application of behavioral science to product decisions, vision, and iterating on ideas over time. I'm an excellent communicator, ideator, and thought partner.
 
