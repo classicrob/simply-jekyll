@@ -8,11 +8,12 @@ Hyper learning is a coinage for the deliberate practice of maximizing one's comp
 
 The term is inspired by what [[Writing in hypertext]] has done for my thinking, allowing me to connect ideas frequently, as well as the intensity that comes from directing interdisciplinary thinking towards your greatest strengths. It generally happens at a quicker pace than siloed learning by way of more fully integrating past, present, and future experience.
 
-Many people will naturally connect the dots over the course of their life experience. However, hyper learning is a deliberate practice.
+It’s very rare that someone would count as a fully siloed learner. Even working within one company, people will have varied experiences, and they will naturally learn from connecting the dots because that’s just what people do. They may work on one project and unconsciously remember a past similar project to build on. While these sorts of processes form the basis of learning more generally, this is not hyper learning, because hyper learning is a deliberate practice.
 
 An effective hyper learner: 
 * Intentionally varies their research and experience so they have more dots to connect
-* Considers deliberate reflection and interdisciplinary synthesis a core part of their work
+* Receives reliable feedback/evidence about whether their ideas are working in practice
+* Considers deliberate reflection and interdisciplinary synthesis a core part of their work [[This usually requires an exobrain support of some sort, Roam and an interconnected blog like this website work great for me::rmn]]
 * Focuses on their strengths and fields that are adjacent
 
 This is why I consult and take note writing seriously-- I'm trying to gather varied experiences and research while synthesizing. Hyper learning creates knowledge capital, where anything you discover can be used in the future to a degree only limited by imagination. This influenced a key decision point in my life, see [[Why I chose to consult rather than pursue a PhD]].
@@ -53,4 +54,4 @@ Reflection is key to the process  of hyper learning. I deliberately transform my
 
 Abstractions are the core building block of a hyper learner to integrate varied experience. By allowing my knowledge, ideas, and learnings to cross-pollinate across projects, my output grows stronger rapidly. I can only do this if I can separate the content of my ideas from the questions. Consulting allows me to make bets on ideas across multiple situations to understand their boundary conditions and generalizability.
 
-I have a career path that extends many decades ahead of me. My dream is to eventually run an organization that is part [[Startup Studio]], part consultancy, and part independent research lab. We will systematically [[Make an impact through portfolio effects]] by producing our own products, improving products built by others, and educate generations of applied behavioral science and product practitioners. Through individual and collaborative hyper learning, we will massively improve the likelihood that any of the ideas we implement are successful.
+I have a career path that extends many decades ahead of me. I want to be the most capable person in the world at applying behavioral science to make great products. My dream is to eventually run an organization that is part [[Startup Studio]], part consultancy, and part independent research lab. We will systematically [[Make an impact through portfolio effects]] by producing our own products, improving products built by others, and educate generations of applied behavioral science and product practitioners. Through individual and collaborative hyper learning, we will massively improve the likelihood that any of the ideas we implement are successful.
