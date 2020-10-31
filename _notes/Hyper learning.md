@@ -2,7 +2,9 @@
 title: Hyper learning
 status: inProgress
 ---
-Hyper learning is a coinage for a deliberate practice of applying interdisciplinary thinking to multiple projects utilizing one's comparative strengths to grow their strengths quickly. Hyper learners grow at a faster rate than siloed learners because everything they have learned in the past can connect to their present thinking, creating a compounding effect over time.
+Hyper learning is a coinage for the deliberate practice of maximizing one's comparative advantages through interdisciplinary thinking, varied practice, and collaboration. Hyper learners grow at a faster rate than siloed learners because everything they have learned in the past can connect to their present thinking, creating a compounding effect over time. 
+
+**Hyper learning is basically the thesis of my career path.**
 
 The term is inspired by what [[Writing in hypertext]] has done for my thinking, allowing me to connect ideas frequently, as well as the intensity that comes from directing interdisciplinary thinking towards your greatest strengths. It generally happens at a quicker pace than siloed learning by way of more fully integrating past, present, and future experience.
 
