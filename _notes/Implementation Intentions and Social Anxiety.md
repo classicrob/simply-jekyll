@@ -51,7 +51,7 @@ Implementation intentions can address all of these
 * 200 socially anxious participants\, 100 non\-socially anxious participants
 * 3 Experimental conditions
   * Implementation Intentions \(socially anxious\)
-    * Select Implementation Intentionswith talking to strangers as the goal
+    * Select Implementation Intentions with talking to strangers as the goal
     * “If I am in close proximity to a stranger\, then I will ask them ‘How are you?’”
     * “If I am nervous about a social blunder\, then I will think about how they probably won’t remember me anyway\.”
   * Goal Intentions \(socially anxious\)

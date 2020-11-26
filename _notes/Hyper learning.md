@@ -2,7 +2,9 @@
 title: Hyper learning
 status: inProgress
 ---
-Hyper learning is a coinage for the deliberate practice of maximizing one's comparative advantages through interdisciplinary thinking, varied practice, and collaboration. Hyper learners grow at a faster rate than siloed learners because everything they have learned in the past can connect to their present thinking, creating a compounding effect over time. 
+*This likely won't be going to be the final version of this post.*
+
+Hyper learning is a coinage for the deliberate practice of maximizing one's comparative advantages through interdisciplinary thinking, varied practice, and collaboration. It’s about being a generalist within the somewhat narrow domain of your biggest strengths. Hyper learners grow at a faster rate than siloed learners because everything they have learned in the past can connect to their present thinking, creating a compounding effect over time. 
 
 **Hyper learning is basically the thesis of my career path.**
 
@@ -50,7 +52,7 @@ Being a hyper learner, I realized that my understanding of the world would incre
 
 **I intentionally became a consultant because I believed it to be the best incubator for my impact and intellectual growth. This was a decision to direct hyper learning towards my strengths.**
 
-Reflection is key to the process  of hyper learning. I deliberately transform my experiences into principles that can be applied beyond my present experience. When I solve a problem for one client, I attempt to conceptualize a more abstract form of the problem and solution, making applicable to more situations. As I've been phrasing it, I [[Learn by going up and down the ladder of abstraction]].
+Reflection is key to the process  of hyper learning. I deliberately transform my experiences into principles that can be applied beyond my present experience. When I solve a problem for one client, I attempt to conceptualize a more abstract form of the problem and solution, making the principle or framework applicable to more situations. As I've been phrasing it, I [[Learn by going up and down the ladder of abstraction]].
 
 Abstractions are the core building block of a hyper learner to integrate varied experience. By allowing my knowledge, ideas, and learnings to cross-pollinate across projects, my output grows stronger rapidly. I can only do this if I can separate the content of my ideas from the questions. Consulting allows me to make bets on ideas across multiple situations to understand their boundary conditions and generalizability.
 

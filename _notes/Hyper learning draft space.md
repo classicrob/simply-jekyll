@@ -1,6 +1,6 @@
 
 ## Fabriq and UpLift Example
-I could name countless examples of hyper learning in my career. One of my projects with [UpLift](uplift.app) had me re-examining their mood journal, a short questionnaire that users were supposed to check-in 2-4 times per day. It gave the user a slider from 0-100 to track their mood, and a few free response questions to to reflect on what might be influencing their mood.
+I could name countless examples of hyper learning in my career. One of my projects with [UpLift](https://www.uplift.app/) had me re-examining their mood journal, a short questionnaire that users were supposed to check-in 2-4 times per day. It gave the user a slider from 0-100 to track their mood, and a few free response questions to to reflect on what might be influencing their mood.
 
 At the time, I believed we should make the free response questions into multi-select questions, reducing the friction to enter data and thus increasing check-in frequency. This would also allow us to draw connections for the user, like "You tend to feel worse when you don't sleep well. Would you like to go through our sleep module?" I also believed that, since the mood journal was a behavior that would happen multiple times per day, it could serve as a gateway behavior to other alternatives. If people were feeling bad, we could recommend they try out one of our mood boosters, or that they go through a longer [CBT](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) learning session. 
 
@@ -20,7 +20,7 @@ We aim to help users recognize a pattern between prioritizing their social lives
 
 We'll also be providing the user with suggestions in response to their trends and individual connections. We want the user to either have high connection quality/high frequency (more extroverted tendencies) or to be satisfied with high connection quality/low frequency (more introverted tendencies). If the user reports low connection quality, we can provide them with content that will help them form deeper connections with people. When they have a lower frequency than they would like, we'll help them increase the frequency either through adding more contacts or increasing their connections with existing contacts.
 
-I would not have been able to support Fabriq's thinking on mood journals
+I would not have been able to support Fabriq's thinking on mood journals if I were not hyper learning.
 
 
 ## Examples of Hyper Learning

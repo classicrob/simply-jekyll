@@ -4,48 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "da331cf9191508e3",
-        "type": "split",
-        "children": [
-          {
-            "id": "81d90f84485d48cb",
-            "type": "leaf",
-            "dimension": 31.60112359550562,
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roam Cybrarian.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "ce0cba56f329fc19",
-            "type": "leaf",
-            "dimension": 37.85112359550562,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hyper learning.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "8762e27fb11876c2",
-            "type": "leaf",
-            "dimension": 30.547752808988765,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hyper learning draft space.md",
-                "mode": "source"
-              }
-            }
+        "id": "9ffc5d1b9ea11704",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Continuous onboarding.md",
+            "mode": "source"
           }
-        ],
-        "direction": "vertical"
+        }
+      },
+      {
+        "id": "761d5585af22034c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Self-efficacy.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "24d67f7d7e6c332d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "User Involvement.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "8dd74d2467f8cbeb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Satisfy the social contract between the user and the app.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -72,15 +73,22 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 196
+    "width": 205,
+    "collapsed": true
   },
   "right": {
     "id": "b4a22675225d2ddf",
@@ -89,6 +97,7 @@
       {
         "id": "0bd96adb9b959e81",
         "type": "tabs",
+        "dimension": 34.025717111770525,
         "children": [
           {
             "id": "b903d3635cb89561",
@@ -100,12 +109,36 @@
                 "mode": "source"
               }
             }
+          },
+          {
+            "id": "ce0cba56f329fc19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Start Here.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "005ce20fc532a959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Case study of GuidedTrack Onboarding Scratchpad.md",
+                "mode": "source"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "1b43995631560c48",
         "type": "tabs",
+        "dimension": 65.97428288822947,
         "children": [
           {
             "id": "d9aa40a84cc7847d",
@@ -135,7 +168,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roam Cybrarian.md"
+                "file": "Continuous onboarding.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -144,19 +182,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306,
+    "width": 214,
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Roam Cybrarian.md",
-    "Hyper learning.md",
-    "Hyper learning draft space.md",
-    "Writing in hypertext.md",
-    "Spark Wave.md",
-    "Make an impact through portfolio effects.md",
-    "Startup Studio.md",
-    "Case study of how I prepared for MadPow.md",
-    "thought experiment.md",
-    "User Involvement.md"
+    "Continuous onboarding.md",
+    "Self-efficacy.md",
+    "User Involvement.md",
+    "Horizontal product.md",
+    "People start using an app with different prior skill levels.md",
+    "Case Study of GuidedTrack Onboarding.md",
+    "Spencer Greenberg.md",
+    "Background info on GuidedTrack.md",
+    "Initial Plan for GuidedTrack Onboarding.md",
+    "The hard problem of onboarding horizontal products.md"
   ]
 }

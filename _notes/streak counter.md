@@ -11,7 +11,7 @@ As a concept, a streak counter is an intervention for encouraging users to do a 
         - [[loss aversion]]
             - People really dislike losing something they value, so they'll work extra hard to maintain the streak.
 			
-Essentially, they're working to avoid some negative outcome, but once that negative outcome happens, what reason do you have to start again? They are only motivating while you have it, but when you lose it, people may be demotivated and fail to start again. All they had worked for was for nothing, and it may take them weeks to earn it back, making starting over feel tedious. This is a crappy failure state.
+Essentially, they're working to avoid some negative outcome, but once that negative outcome happens, what reason do you have to start again? They are only motivating while you have it, but when you lose it, people may be demotivated and fail to start again. All they had worked for was for nothing, and it may take them weeks to earn it back, making starting over feel tedious. This is a crappy failure state. ^e59d15
 
 I'll just go ahead and leave this quote here:
 
