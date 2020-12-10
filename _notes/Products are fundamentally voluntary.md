@@ -9,3 +9,9 @@ It’s easier to facilitate people doing something that they want to do than it 
 This points towards the necessity of using [[Behavioral Product Strategy]]. People need to willingly exert effort using the app, and they need to do it in a certain range of ways in order to make the app work for them. 
 
 [[It’s not enough for products to be usable]], finding the person’s positive motivation to use the app is crucial.  As I explain in [[Habits are the wrong thing to focus on for most behaviorally designed applications]], deliberate action is required at all stages, increasing the importance of understanding [[User Goal]]s and what to do with them.
+
+**Addendum:**
+
+Like many of the claims on this website, it may be best to [[Think of this claim as a parameter rather than a claim of universal truth]]. For example, [Chet Corcos](https://www.linkedin.com/in/chet-corcos-60b81131/) of [Minerva School](https://www.minervaproject.com/) described his own online product for teachers and students. The teachers and institutions are the ones who purchase their software. **Students of Minerva School are end users that don't have a choice over whether they use it or not. Sometimes teachers in institutions that made the purchasing decision simply have to use it.**
+
+So how would you design for people who use a product simply because higher up decision makers said it should be so? I'm still thinking through this. However, I will say that if end users are unsatisfied, even if they don't have direct decision making powers, they might still make a stink. There might just be a longer timescale to switch to something new than in the B2C space I primarily work in where the user has viable if sub-optimal alternatives.

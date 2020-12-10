@@ -4,56 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "2a4407b89515c902",
-        "type": "split",
-        "children": [
-          {
-            "id": "62ef9f4a7ccd8838",
-            "type": "leaf",
-            "dimension": 34.654300168634066,
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learn by going up and down the ladder of abstraction.md",
-                "mode": "source"
-              }
-            },
-            "group": "581ac214cb4a569d"
-          },
-          {
-            "id": "9ffc5d1b9ea11704",
-            "type": "leaf",
-            "dimension": 65.34569983136593,
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Learn by going up and down the ladder of abstraction.md",
-                "options": {
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": -0.7,
-                  "nodeSizeMultiplier": 2.78426816239316,
-                  "lineSizeMultiplier": 5,
-                  "centerStrength": 0.2984375,
-                  "repelStrength": 15.1682692307692,
-                  "linkStrength": 1,
-                  "linkDistance": 354,
-                  "scale": 1.0670838064110801
-                }
-              }
-            },
-            "group": "581ac214cb4a569d"
+        "id": "9ffc5d1b9ea11704",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Products are fundamentally voluntary.md",
+            "mode": "source"
           }
-        ],
-        "direction": "vertical"
+        }
+      },
+      {
+        "id": "ee657747b5414ae1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Think of this claim as a parameter rather than a claim of universal truth.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6cbe31ba8dee31b2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Parameters of onboarding.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -89,8 +71,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn by going up and down the ladder of abstraction.md",
+                "file": "Products are fundamentally voluntary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,15 +174,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Learn by going up and down the ladder of abstraction.md",
-    "Game designers and behavioral scientists are asking many of the same questions.md",
-    "Game designers have been designing for digital behavior change for longer than just about anyone.md",
-    "Case Study of GuidedTrack Onboarding.md",
-    "Hyper learning.md",
-    "Self-efficacy.md",
-    "Continuous onboarding.md",
-    "There could be many genres of gamification.md",
-    "User Involvement.md",
-    "Horizontal product.md"
+    "Products are fundamentally voluntary.md",
+    "Think of this claim as a parameter rather than a claim of universal truth.md",
+    "Parameters of onboarding.md",
+    "Think of this as a parameter rather than a claim of universal truth.md",
+    "Untitled 3.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Most gamification sucks.md",
+    "Difficulty Matching.md"
   ]
 }
