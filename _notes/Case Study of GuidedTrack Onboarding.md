@@ -11,3 +11,5 @@
 [[New plan for GuidedTrack Onboarding]]
 
 Validation from user interviews
+
+The onboarding solution is about making a fundamentally more learnable experience. This could happen with terminal. Better feedback. Tools to get started. Show and tell. 

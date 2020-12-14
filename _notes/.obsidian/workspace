@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9ffc5d1b9ea11704",
+        "id": "ee657747b5414ae1",
         "type": "leaf",
         "active": true,
         "state": {
@@ -13,29 +13,20 @@
             "file": "Products are fundamentally voluntary.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "982a2dc07d8bd098"
       },
       {
-        "id": "ee657747b5414ae1",
+        "id": "88c768e2410d6897",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Think of this claim as a parameter rather than a claim of universal truth.md",
-            "mode": "source"
+            "file": "Products are fundamentally voluntary.md",
+            "mode": "preview"
           }
-        }
-      },
-      {
-        "id": "6cbe31ba8dee31b2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Parameters of onboarding.md",
-            "mode": "source"
-          }
-        }
+        },
+        "group": "982a2dc07d8bd098"
       }
     ],
     "direction": "vertical"
@@ -175,14 +166,14 @@
   },
   "lastOpenFiles": [
     "Products are fundamentally voluntary.md",
+    "Tracking your open questions in Roam.md",
+    "Untitled.md",
     "Think of this claim as a parameter rather than a claim of universal truth.md",
     "Parameters of onboarding.md",
     "Think of this as a parameter rather than a claim of universal truth.md",
     "Untitled 3.md",
-    "Untitled.md",
     "Untitled 1.md",
     "Untitled 2.md",
-    "Most gamification sucks.md",
-    "Difficulty Matching.md"
+    "Most gamification sucks.md"
   ]
 }
