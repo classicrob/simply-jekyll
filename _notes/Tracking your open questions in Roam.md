@@ -25,13 +25,6 @@ A community can be a location to forge friendships and collaborations between me
 ## 2. Track open questions
 ## 3. Find relevant open questions
 ## 4. Translate the open question into a query, find a spot to record your thoughts
-
-Here are a couple of examples: High velocity of interaction and where do we host the community
-
-![[Pasted image 20201213125057.png]]
-
-
-
 ## 5. Write with the input of a conversation partner considering your question
 ## 6. 
 

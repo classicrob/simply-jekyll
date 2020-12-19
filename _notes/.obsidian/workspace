@@ -6,6 +6,19 @@
       {
         "id": "ee657747b5414ae1",
         "type": "leaf",
+        "dimension": 29.909365558912388,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Case Study of GuidedTrack Onboarding.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "75047ef53c40bfbb",
+        "type": "leaf",
+        "dimension": 37.220543806646525,
         "active": true,
         "state": {
           "type": "markdown",
@@ -13,20 +26,19 @@
             "file": "Products are fundamentally voluntary.md",
             "mode": "source"
           }
-        },
-        "group": "982a2dc07d8bd098"
+        }
       },
       {
-        "id": "88c768e2410d6897",
+        "id": "5a8554d5954f75de",
         "type": "leaf",
+        "dimension": 32.87009063444109,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Products are fundamentally voluntary.md",
-            "mode": "preview"
+            "file": "Background info on GuidedTrack.md",
+            "mode": "source"
           }
-        },
-        "group": "982a2dc07d8bd098"
+        }
       }
     ],
     "direction": "vertical"
@@ -53,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "definition gamification",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205,
-    "collapsed": true
+    "width": 205
   },
   "right": {
     "id": "b4a22675225d2ddf",
@@ -166,14 +177,14 @@
   },
   "lastOpenFiles": [
     "Products are fundamentally voluntary.md",
-    "Tracking your open questions in Roam.md",
-    "Untitled.md",
-    "Think of this claim as a parameter rather than a claim of universal truth.md",
-    "Parameters of onboarding.md",
-    "Think of this as a parameter rather than a claim of universal truth.md",
-    "Untitled 3.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "Most gamification sucks.md"
+    "Initial Research in GuidedTrack.md",
+    "Case Study of GuidedTrack Onboarding.md",
+    "Background info on GuidedTrack.md",
+    "The hard problem of onboarding horizontal products.md",
+    "Pasted image 20201213125057.png",
+    "Eventually user skill level will reach the limitations of the software.md",
+    "Habits are the wrong thing to focus on for most behaviorally designed applications.md",
+    "Case study of Fabriq Failure States.md",
+    "The difference between user involvement and user engagement.md"
   ]
 }
