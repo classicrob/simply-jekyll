@@ -6,22 +6,24 @@
       {
         "id": "5843b9f56d8c001a",
         "type": "leaf",
-        "active": true,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Self-efficacy.md",
-            "mode": "preview"
+            "file": "Gamification.md",
+            "mode": "source"
           }
         }
       },
       {
-        "id": "1fbec6a9d5561901",
+        "id": "c5907d3b7e5c8cfc",
         "type": "leaf",
+        "dimension": 50,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Intentionally design for failure states.md",
+            "file": "When is gamification appropriate.md",
             "mode": "source"
           }
         }
@@ -51,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "definition gamification",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +62,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-efficacy.md",
+                "file": "When is gamification appropriate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,18 +161,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332
+    "width": 332,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "Self-efficacy.md",
-    "Failure state.md",
-    "Intentionally design for failure states.md",
-    "Draft space Onboarding plan as presented to GuidedTrack on 10-20-20.md",
+    "When is gamification appropriate.md",
+    "Gamification.md",
+    "Untitled.md",
     "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
-    "Pasted image 20201028211257.png",
-    "Pasted image 20201028210807.png",
-    "Pasted image 20201213125057.png",
-    "Onboarding plan as presented to GuidedTrack on 10-20-20 Draft space.md",
-    "Case Study of GuidedTrack Onboarding.md"
+    "Tracking your open questions in Roam.md",
+    "Gamification is not one monolithic thing.md",
+    "Think of this claim as a parameter rather than a claim of universal truth.md",
+    "Adoption.md",
+    "Parameters of onboarding.md",
+    "streak counter.md"
   ]
 }

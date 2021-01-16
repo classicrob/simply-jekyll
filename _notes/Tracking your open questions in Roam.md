@@ -37,3 +37,4 @@ So I'm block referencing in the stuff that's useful from prior outlines to proli
 At the end, I have one page that I can filter of all of my most important thoughts related to the project of developing a GuidedTrack community plan that mixes well with the Slack community plan.
 
 
+I should just note - this isn't just a workflow for synthesis. The workflow is what what consolidates many other workflows. This only works because of everything else I put into Roam.
