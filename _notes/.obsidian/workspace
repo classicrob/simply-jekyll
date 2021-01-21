@@ -7,10 +7,11 @@
         "id": "5843b9f56d8c001a",
         "type": "leaf",
         "dimension": 50,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gamification.md",
+            "file": "Testimonials.md",
             "mode": "source"
           }
         }
@@ -19,11 +20,10 @@
         "id": "c5907d3b7e5c8cfc",
         "type": "leaf",
         "dimension": 50,
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "When is gamification appropriate.md",
+            "file": "Testimonials.md",
             "mode": "source"
           }
         }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "When is gamification appropriate.md",
+                "file": "Testimonials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,15 +165,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "When is gamification appropriate.md",
+    "Testimonials.md",
     "Gamification.md",
+    "When is gamification appropriate.md",
     "Untitled.md",
     "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
     "Tracking your open questions in Roam.md",
     "Gamification is not one monolithic thing.md",
     "Think of this claim as a parameter rather than a claim of universal truth.md",
     "Adoption.md",
-    "Parameters of onboarding.md",
-    "streak counter.md"
+    "Parameters of onboarding.md"
   ]
 }
