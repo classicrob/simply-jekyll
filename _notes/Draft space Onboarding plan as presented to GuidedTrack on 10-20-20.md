@@ -1,6 +1,3 @@
----
-tags: draft
----
 # **GuidedTrack Onboarding Master Plan**
 
 If we are to launch GuidedTrack beginning of next year, we should have a clear outline of what our current plan is.
