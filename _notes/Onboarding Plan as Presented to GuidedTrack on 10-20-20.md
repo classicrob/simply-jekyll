@@ -45,9 +45,9 @@ Users need to scale the barriers of fixing errors in order to realize how easy G
 
 The more time users spend writing code before checking their code in compilation, the more errors will potentially build up. The more errors are built up, the larger the failure state and the worse the user feels. **Real-time in-editor error codes** has the potential to reduce this problem by showing the user errors as they happen so they can be fixed one at a time, giving users immediate feedback.
 
-**UPDATE**: We will be going with Lyudmil's suggestion here pre-launch or soon post-launch: "Another option is to still compile and detect compilation errors when the user saves, but display those errors in the editor, instead of displaying them when the user tries to preview the program. I suspect that's a big win that we can have without needing to rethink compilation."
-
-Since the user saves every time they preview, upon returning to the code, they will see the error code as Xs by the side of each line, where they can hover to see the error code. This solves the problem of the user having to remember. If the user has a habit of frequently saving, they will functionally see inline error codes before testing their code in preview.
+**UPDATE**: 
+* We will be going with Lyudmil's suggestion here pre-launch or soon post-launch: "Another option is to still compile and detect compilation errors when the user saves, but display those errors in the editor, instead of displaying them when the user tries to preview the program. I suspect that's a big win that we can have without needing to rethink compilation."
+* Since the user saves every time they preview, upon returning to the code, they will see the error code as Xs by the side of each line, where they can hover to see the error code. This solves the problem of the user having to remember. If the user has a habit of frequently saving, they will functionally see inline error codes before testing their code in preview.
 
 ![inline error codes](/assets/blogpics/InlineErrorCodes.png)
 
@@ -59,7 +59,7 @@ The current version that Lyudmil and I have discussed (which I would be happy wi
 
 Ideally, it would be the case that you can edit a line of code, refresh the preview, and see what’s shown on the screen you just edited. Lyudmil has mentioned that there are conceptual and technical challenges, Spencer says there might be some 80/20 solutions that get us most of the way there. If they can figure this out, then this minimizes the time between editing code and seeing what happens as much as possible, giving users the immediate feedback needed to make accurate predictions of what their code will produce.
 
-**UPDATE:** We're working on an auto-updating version. It's difficult, but from user interviews it seems like it will very clearly be worthwhile to have the preview automatically change in response to changing code.
+**UPDATE:** We're working on an auto-updating version. It's difficult, but from user interviews it seems like it will very clearly be worthwhile to have the preview automatically change in response to changing code. The side-by-side preview has been like a night and day shift in how learnable and approachable GuidedTrack is. Pretty much everyone expected it to auto-update, and it will make the programs significantly more interactive, tightening the feedback loop even further.
 
 **Start the user with a goal because a blank page can be daunting**
 
