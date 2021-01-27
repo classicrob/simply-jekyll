@@ -1,6 +1,7 @@
-# **GuidedTrack Onboarding Master Plan**
-
-If we are to launch GuidedTrack beginning of next year, we should have a clear outline of what our current plan is.
+---
+title: Onboarding Plan as Presented to GuidedTrack on 10-20-20
+---
+If we are to launch GuidedTrack near the beginning of next year, we should have a clear outline of what our current plan is.
 
 ### **TL;DR**
 
@@ -11,7 +12,7 @@ If we are to launch GuidedTrack beginning of next year, we should have a clear o
 * Enhance sample programs with side-by-side preview/debugger, make sample programs editable so users don’t need to duplicate them to play around.
     
 * Let users create a program from a template rather than from scratch. This allows them to create things beyond their present skill level and start with a project. 
-	* Repurpose worksheets into templates to help the user get started @Belen Cobeta. Make the visual designs @Justin Petersen. Build the functionality @Lyudmil Angelov.
+
 * Present real-time in-editor error codes to prevent the user from compiling and seeing a daunting amount of error codes.
     
 * Direct new users to a Slack group where they can ask quick questions, see how others use GT, and submit feature requests/bug reports. Involve the GT team to ensure questions are answered in a timely manner so there is a moderate-high velocity of interaction.
@@ -26,7 +27,7 @@ Self-efficacy is the belief that you are capable of doing some action. You can v
 
 What's important for our context is that, with high self-efficacy, people care more, adopt more of a growth mindset, and have a higher tolerance for friction. As such, building self-efficacy is a valid method to [[Intentionally design for failure states]].
 
-GuidedTrack is easy to learn but initially intimidating to non-technical people. People who don't view themselves as coders see code and think it's for people who can program (read- not themselves) and they won't even try. We know from our user feedback that GuidedTrack is in fact fast and easy to learn for people who try and respond to failure well. Increasing their self-efficacy is how we'll influence them to give it a shot.
+GuidedTrack is easy to learn but initially intimidating to non-technical people. People who don't view themselves as coders see code will assume the [[Difficulty Matching]] is out of wack and think it's for people who can program (read- not themselves). They won't even try. We know from our user feedback that GuidedTrack is in fact fast and easy to learn for people who try and respond to failure well. Increasing their self-efficacy is how we'll influence them to give it a shot.
 
 When users see code and they can’t predict what the outcome will be, they can be intimidated.
 
@@ -42,25 +43,25 @@ Users need to scale the barriers of fixing errors in order to realize how easy G
 
 The more time users spend writing code before checking their code in compilation, the more errors will potentially build up. The more errors are built up, the larger the failure state and the worse the user feels. **Real-time in-editor error codes** has the potential to reduce this problem by showing the user errors as they happen so they can be fixed one at a time, giving users immediate feedback.
 
-**UPDATE**
-
-We will be going with Lyudmil's suggestion here pre-launch: "Another option is to still compile and detect compilation errors when the user saves, but display those errors in the editor, instead of displaying them when the user tries to preview the program. I suspect that's a big win that we can have without needing to rethink compilation."
+**UPDATE**: We will be going with Lyudmil's suggestion here pre-launch or soon post-launch: "Another option is to still compile and detect compilation errors when the user saves, but display those errors in the editor, instead of displaying them when the user tries to preview the program. I suspect that's a big win that we can have without needing to rethink compilation."
 
 Since the user saves every time they preview, upon returning to the code, they will see the error code as Xs by the side of each line, where they can hover to see the error code. This solves the problem of the user having to remember. If the user has a habit of frequently saving, they will functionally see inline error codes before testing their code in preview.
 
-!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9d6c3af5-0cb7-4e6b-91fd-dbd0fb3fcf96/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9d6c3af5-0cb7-4e6b-91fd-dbd0fb3fcf96/Untitled.png)
+![inline error codes](/assets/blogpics/InlineErrorCodes.png)
 
 The **side-by-side preview/debugger** will make it so the user can see highlighted exactly the code that is producing what they see in the preview. They will know where errors that don’t produce error codes are. The user edits code and then is able to refresh the preview to quickly see the result alongside the code that produced it.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4f295b41-0d51-4ac9-b338-e596b40be265/debugger.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4f295b41-0d51-4ac9-b338-e596b40be265/debugger.gif)
+![](/assets/blogpics/debugger.gif)
 
 The current version that Lyudmil and I have discussed (which I would be happy with for version 1 that gets released with onboarding), you edit code on the left and the click refresh on the preview on the right to start it over with the updated code.
 
 Ideally, it would be the case that you can edit a line of code, refresh the preview, and see what’s shown on the screen you just edited. Lyudmil has mentioned that there are conceptual and technical challenges, Spencer says there might be some 80/20 solutions that get us most of the way there. If they can figure this out, then this minimizes the time between editing code and seeing what happens as much as possible, giving users the immediate feedback needed to make accurate predictions of what their code will produce.
 
+**UPDATE:** We're working on an auto-updating version. It's difficult, but from user interviews it seems like it will very clearly be worthwhile to have the preview automatically change in response to changing code.
+
 **Start the user with a goal because a blank page can be daunting**
 
-The challenge here is with users who are excited about learning GuidedTrack and want to play around with it but don’t have an idea for what programs to build immediately. We don’t want that scenario to make GT a nonstarter for that user!
+The challenge here is with users who are excited about learning GuidedTrack and want to play around with it but don’t have an idea for what programs to build immediately (see: [[The user may have a lack of imagination as to what user goals they can accomplish]]). We don’t want that scenario to make GT a nonstarter for that user! [[The most successful app adoptions come from a project]], in this case because it will engage the user in feedback loops that we know will help them learn how to use it.
 
 **User Flow for Onboarding**
 ============================
@@ -79,16 +80,19 @@ People should see successful similar others to increase their **self-efficacy.*
 **Initial onboarding questionnaire with side-by-side preview**
 --------------------------------------------------------------
 
-Apps like Notion and Trello begin with a series of questions that allow the company to get to know the users a little bit better. With GuidedTrack, we can make this series of questions using our own program.
+[[Horizontal product]]s like Notion and Trello begin with a series of questions that allow the company to get to know the users a little bit better. We can make this series of questions using GuidedTrack!
 
 In order to bring the user to the “aha moment” that they are capable of reading and producing GT code more quickly, we’ll give them an onboarding questionnaire with the new **side-by-side preview/debugger** running. The fact that it highlights the active code will make it easier to understand and show off GT’s functionality, increasing self-efficacy and excitement.
 
 The open question I have at this point is which of the following options would be better:
 
--   Show the side-by-side preview as the new user is initially filling out the questionnaire
--   New user fill out the questionnaire like normal. Upon completion, they are launched into the code/preview of the onboarding program they just filled out.
+1.   Show the side-by-side preview as the new user is initially filling out the questionnaire.
+2.   New user fill out the questionnaire like normal. Upon completion, they are launched into the code/preview of the onboarding program they just filled out.
+3.   New user fill out the questionnaire like normal. Upon completion, they are launched into the code/preview of a program that explains how GuidedTrack programs work both through text/multimedia and through the visualization of what code generates the preview that you see. It's meta.
 
 We could run a test with both versions on this. I’m curious to see which group would continue to log on the most after completion, or if either group has a higher likelihood of the user creating their own program.
+
+**Update:** We're going with option number 3. Just showing the onboarding questionnaire on its own will get people used to what the output of a program is before we ask them to look at the code. We'll still make the program's code visible for people who want to look at it though. 
 
 **User Exploration**
 --------------------
@@ -99,11 +103,17 @@ Users tend to be most successful when they start with some project in mind. On t
 
 From the user interviews, it seemed that playing around with the toolbar and looking at the code in sample programs was an effective way to learn. We don’t need to hold the user’s hand for this, though I would make the sample programs directly editable so the user can play around in a sandbox and I would simply add a couple more sample programs. I also believe that the **side-by-side preview/debugger** will significantly improve the learning that comes from this.
 
-I was thinking one of the best ways we could help the user start with a project is to have an option to **create program from template.** Whenever people make a new program, they can either start it from scratch or from a template. Starting from scratch would be the default state. If the user selects to start from a template, then it would open up a drop down menu. The code from the template they select will be pasted into the new program. We can rework the worksheets we’ve made into templates.
+### Create program from template
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d5d8ea79-efe7-4524-b181-453249f689f2/IMG_0925.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d5d8ea79-efe7-4524-b181-453249f689f2/IMG_0925.jpg)
+I was thinking one of the best ways we could help the user start with a project is to have an option to **create program from template.** Whenever people make a new program, they can either start it from scratch or from a template. Starting from scratch would be the default state. If the user selects to start from a template, then it would open up a drop down menu. The code from the template they select will be pasted into the new program. We can rework the worksheets we made previously into templates.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/98eed296-9663-4f7d-9859-be878c90d236/IMG_0926.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/98eed296-9663-4f7d-9859-be878c90d236/IMG_0926.jpg)
+![](/assets/blogpics/CreateProgramFromTemplateBlankPage.jpg)
+
+![](/assets/blogpics/CreateProgramFromTemplate.jpg)
+
+**Update:** We're thinking that it would actually look better like this. Turns out this isn't too hard to code, so the overly simple UX in the images above aren't necessary. 
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FPjM45aimEKf0vYoIpNgq1j%2FCreate-Program-from-Template-Mockup%3Fnode-id%3D17%253A2%26scaling%3Dmin-zoom" allowfullscreen></iframe>
 
 Some examples of template could include:
 
@@ -120,7 +130,7 @@ The user exploration phase will also be enabled by an online community, which I 
 Slack **community**
 ===================
 
-An online community is basically table stakes at this point for complex products, and it’s for good reason. Sometimes you just need a human to answer a question, and especially in the early days of a professional product with exciting potential, it is invigorating to explore the product’s capabilities [together.In](http://together.In) order to gain momentum, we need mass and velocity, but I would emphasize that velocity is likely more important than mass. People need to know that they can start a discussion or ask a question and reliably get a response. We can plant some people from the GT team within the community to ensure this velocity. Common questions can be compiled by the team into a publicly available resource online.
+An online community is basically table stakes at this point for complex products, and it’s for good reason. Sometimes you just need a human to answer a question, and especially in the early days of a professional product with exciting potential, it is invigorating to explore the product’s capabilities together. In order to gain momentum, we need mass and velocity, but I would emphasize that velocity is likely more important than mass. People need to know that they can start a discussion or ask a question and reliably get a response. We can plant some people from the GT team within the community to ensure this velocity. Common questions should be compiled by the team into a publicly available resource online, likely our [Q&A website](https://answers.guidedtrack.com/) where everything is google searchable.
 
 In order to gain mass, I propose inviting all users into a Slack group as part of the onboarding, whether it is at the end of the initial questionnaire or as an email. Slack has an advantage over our current Facebook group insofar as we’ll be able to make sub channels and it tends to encourage a higher velocity of interactions.
 
@@ -144,4 +154,6 @@ Frankly, there's a lot we can do with just video. We can have a short introducto
 
 For many people using a complex product, their first instinct is to search YouTube. **I recommend we start with a few videos that explain the basics.** This includes the flow of a program, indentation, what determines a page's beginning and end, those sorts of things. **We can also upload clips of past recorded workshops and demos.**
 
-As we progress, I think it would be a good idea to just get into the habit of making 1-4 minute video explainers of little things you do. [Loom](app://obsidian.md/loom.com) is a really low friction way to record screen video.
+As we progress, I think it would be a good idea to just get into the habit of making 1-4 minute video explainers of little things you do. [Loom](loom.com) is a really low friction way to record screen video.
+
+**Update:** [This video](https://www.youtube.com/watch?v=ov3lynWp9oM) discusses the flow of GuidedTrack programs. I explain a lot in a short period of time and it would probably be best to break down each of the core concepts into a two minute video of its own.

@@ -4,26 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "5843b9f56d8c001a",
+        "id": "5c99821083501453",
         "type": "leaf",
-        "dimension": 50,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Testimonials.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "c5907d3b7e5c8cfc",
-        "type": "leaf",
-        "dimension": 50,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Testimonials.md",
+            "file": "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
             "mode": "source"
           }
         }
@@ -67,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205
+    "width": 205,
+    "collapsed": true
   },
   "right": {
     "id": "b4a22675225d2ddf",
@@ -76,7 +64,6 @@
       {
         "id": "0bd96adb9b959e81",
         "type": "tabs",
-        "dimension": 34.025717111770525,
         "children": [
           {
             "id": "b903d3635cb89561",
@@ -117,7 +104,6 @@
       {
         "id": "1b43995631560c48",
         "type": "tabs",
-        "dimension": 65.97428288822947,
         "children": [
           {
             "id": "d9aa40a84cc7847d",
@@ -147,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testimonials.md",
+                "file": "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +144,60 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "fd1f169e0b02550b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62dd1bcc39a542b8",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Case Study of GuidedTrack Onboarding.md",
+                "options": {
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1.38585737179487,
+                  "lineSizeMultiplier": 5,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 13.886217948718,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8602191613978543
+                }
+              }
+            },
+            "group": "5bba40e1abf25def"
+          }
+        ]
+      },
+      {
+        "id": "d43c04e5e9253519",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5843b9f56d8c001a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Case Study of GuidedTrack Onboarding.md",
+                "mode": "source"
+              }
+            },
+            "group": "5bba40e1abf25def"
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,15 +205,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
+    "Case Study of GuidedTrack Onboarding.md",
+    "loom.com.md",
     "Testimonials.md",
+    "Initial Research in GuidedTrack.md",
+    "Background info on GuidedTrack.md",
     "Gamification.md",
     "When is gamification appropriate.md",
     "Untitled.md",
-    "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
-    "Tracking your open questions in Roam.md",
-    "Gamification is not one monolithic thing.md",
-    "Think of this claim as a parameter rather than a claim of universal truth.md",
-    "Adoption.md",
-    "Parameters of onboarding.md"
+    "Tracking your open questions in Roam.md"
   ]
 }
