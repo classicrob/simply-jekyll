@@ -1,6 +1,8 @@
 ---
 title: Onboarding Plan as Presented to GuidedTrack on 10-20-20
 ---
+*Note - GuidedTrack gave me permission to share a plan for onboarding that I wrote for them late October. Certain aspects have been updated (which I mark with **UPDATE**) and certain aspects have been added (not in this post, will likely come in future posts), but we're implementing most of this.*
+
 If we are to launch GuidedTrack near the beginning of next year, we should have a clear outline of what our current plan is.
 
 ### **TL;DR**
