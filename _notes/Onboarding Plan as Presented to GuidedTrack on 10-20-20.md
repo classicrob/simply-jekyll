@@ -1,7 +1,7 @@
 ---
 title: Onboarding Plan as Presented to GuidedTrack on 10-20-20
 ---
-*Note - GuidedTrack gave me permission to share a plan for onboarding that I wrote for them late October. Certain aspects have been updated (which I mark with **UPDATE**) and certain aspects have been added (not in this post, will likely come in future posts), but we're implementing most of this. This post was originally written for the GuidedTrack team, so it assumes some knowledge.*
+*Note - GuidedTrack gave me permission to share a plan for onboarding that I wrote for them late October. At this point, we had been working together for a few months and this is an iteration on plans we were already working on. Certain aspects have been updated (which I mark with **UPDATE**) and certain aspects have been added (not in this post, will likely come in future posts), but we're implementing most of this. This post was originally written for the GuidedTrack team, so it assumes some knowledge.*
 
 If we are to launch GuidedTrack near the beginning of next year, we should have a clear outline of what our current plan is.
 
@@ -65,13 +65,11 @@ Ideally, it would be the case that you can edit a line of code, refresh the prev
 
 The challenge here is with users who are excited about learning GuidedTrack and want to play around with it but don’t have an idea for what programs to build immediately (see: [[The user may have a lack of imagination as to what user goals they can accomplish]]). We don’t want that scenario to make GT a nonstarter for that user! [[The most successful app adoptions come from a project]], in this case because it will engage the user in feedback loops that we know will help them learn how to use it.
 
-**User Flow for Onboarding**
-============================
+# **User Flow for Onboarding**
 
 Here’s what I see as doable and impactful before launch
 
-**Website**
------------
+## **Website**
 
 When the user is on the website, they should be able to understand what GuidedTrack is and how it fits into the context of their life and goals. They should feel the **self-efficacy** necessary to know that it’s worth giving a shot.
 
@@ -79,8 +77,7 @@ People should be able to see use cases so they can latch onto examples. This wil
 
 People should see successful similar others to increase their **self-efficacy.** This means that they can see testimonials from researchers, entrepreneurs, and educators.
 
-**Initial onboarding questionnaire with side-by-side preview**
---------------------------------------------------------------
+## **Initial onboarding questionnaire with side-by-side preview**
 
 [[Horizontal product]]s like Notion and Trello begin with a series of questions that allow the company to get to know the users a little bit better. We can make this series of questions using GuidedTrack!
 
@@ -96,18 +93,17 @@ We could run a test with both versions on this. I’m curious to see which group
 
 **Update:** We're going with option number 3. Just showing the onboarding questionnaire on its own will get people used to what the output of a program is before we ask them to look at the code. We'll still make the program's code visible for people who want to look at it though. 
 
-**User Exploration**
---------------------
+## **User Exploration**
 
 In the prior onboarding questionnaire, we were holding the user’s hand. The user exploration phase refers to when the user is trying to learn on their own. This is when they’ll make their own programs, read through sample programs, ask questions to the community, and explore instructional content.
 
 Users tend to be most successful when they start with some project in mind. On the flip side, they may drop off and give up if they start a program with a blank page and don’t know what to do with it.
 
-From the user interviews, it seemed that playing around with the toolbar and looking at the code in sample programs was an effective way to learn. We don’t need to hold the user’s hand for this, though I would make the sample programs directly editable so the user can play around in a sandbox and I would simply add a couple more sample programs. I also believe that the **side-by-side preview/debugger** will significantly improve the learning that comes from this.
+From the user interviews, it seemed that playing around with the toolbar and looking at the code in sample programs was an effective way to learn. We don’t need to hold the user’s hand for this, though I would make the sample programs directly editable so the user can play around in a sandbox and I would simply add a couple more sample programs. I also believe that the **side-by-side preview/debugger** will significantly improve the learning that comes from exploring existing programs.
 
-### Create program from template
+## Create program from template
 
-I was thinking one of the best ways we could help the user start with a project is to have an option to **create program from template.** Whenever people make a new program, they can either start it from scratch or from a template. Starting from scratch would be the default state. If the user selects to start from a template, then it would open up a drop down menu. The code from the template they select will be pasted into the new program. We can rework the worksheets we made previously into templates.
+I was thinking one of the best ways we could help the user start with a project is to have an option to **create program from template.** Whenever people make a new program, they can either start it from scratch or from a template. Starting from scratch would be the default state. If the user selects to start from a template, then it would open up a drop down menu. The code from the template they select will be pasted into the new program. We can rework the worksheets we made previously into templates, and this would be a replacement for the way that we currently give new users sample programs.
 
 ![](/assets/blogpics/CreateProgramFromTemplateBlankPage.jpg)
 
@@ -129,8 +125,7 @@ Some examples of template could include:
 
 The user exploration phase will also be enabled by an online community, which I elaborate more on in the next section.
 
-Slack **community**
-===================
+## Slack **community**
 
 An online community is basically table stakes at this point for complex products, and it’s for good reason. Sometimes you just need a human to answer a question, and especially in the early days of a professional product with exciting potential, it is invigorating to explore the product’s capabilities together. In order to gain momentum, we need mass and velocity, but I would emphasize that velocity is likely more important than mass. People need to know that they can start a discussion or ask a question and reliably get a response. We can plant some people from the GT team within the community to ensure this velocity. Common questions should be compiled by the team into a publicly available resource online, likely our [Q&A website](https://answers.guidedtrack.com/) where everything is google searchable.
 
@@ -149,8 +144,7 @@ Some proposed channels:
 
 In addition to answering quick questions, the Slack community has the benefits of facilitating professional connections and providing inspiration.
 
-**Video content**
-=================
+## **Video content**
 
 Frankly, there's a lot we can do with just video. We can have a short introductory course, cover advanced subjects, have walk through videos with users to show off real use cases, and make 1-5 minute workflow explainer videos as we go. In comparison to a blog post, YouTube is great at showing implicit processes that an experienced user might not think to write down.
 

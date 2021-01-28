@@ -6,11 +6,48 @@
       {
         "id": "5c99821083501453",
         "type": "leaf",
+        "dimension": 17.52958579881657,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Scratchpad.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b8e3c1aa1163b738",
+        "type": "leaf",
+        "dimension": 21.819526627218934,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Feedback loops are a more efficient method of communication.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "28a9e7ae8e950ce3",
+        "type": "leaf",
+        "dimension": 27.810650887573964,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Use positive feedback loops to increase user involvement.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "256f8a574521727f",
+        "type": "leaf",
+        "dimension": 32.84023668639053,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Draft space Onboarding plan as presented to GuidedTrack on 10-20-20.md",
+            "file": "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
             "mode": "source"
           }
         }
@@ -40,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "feedback loop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draft space Onboarding plan as presented to GuidedTrack on 10-20-20.md",
+                "file": "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,15 +242,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Draft space Onboarding plan as presented to GuidedTrack on 10-20-20.md",
     "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
-    "Case Study of GuidedTrack Onboarding.md",
-    "loom.com.md",
-    "Testimonials.md",
-    "Initial Research in GuidedTrack.md",
-    "Background info on GuidedTrack.md",
-    "Gamification.md",
-    "When is gamification appropriate.md",
-    "Untitled.md"
+    "Feedback loops are a more efficient method of communication.md",
+    "Scratchpad.md",
+    "Use positive feedback loops to increase user involvement.md",
+    "Progress monitoring and feedback systems.md",
+    "Use a badging system as a method of actionable user research.md",
+    "The most successful app adoptions come from a project.md",
+    "Intentionally design for Failure States draft.md",
+    "feedback loop.md",
+    "positive feedback loop.md"
   ]
 }
