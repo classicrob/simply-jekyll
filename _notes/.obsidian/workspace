@@ -4,53 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "5c99821083501453",
-        "type": "leaf",
-        "dimension": 17.52958579881657,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Scratchpad.md",
-            "mode": "source"
+        "id": "2a4407b89515c902",
+        "type": "split",
+        "children": [
+          {
+            "id": "17efd7341dcff34a",
+            "type": "leaf",
+            "dimension": 32.68115942028986,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Feedback loops are a more efficient method of communication.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "f821aec58c3f2a09",
+            "type": "leaf",
+            "dimension": 30.65217391304348,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "278ca1d34b40652f",
+            "type": "leaf",
+            "dimension": 36.666666666666664,
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Continuous onboarding.md",
+                "mode": "source"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "b8e3c1aa1163b738",
-        "type": "leaf",
-        "dimension": 21.819526627218934,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Feedback loops are a more efficient method of communication.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "28a9e7ae8e950ce3",
-        "type": "leaf",
-        "dimension": 27.810650887573964,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Use positive feedback loops to increase user involvement.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "256f8a574521727f",
-        "type": "leaf",
-        "dimension": 32.84023668639053,
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
-            "mode": "source"
-          }
-        }
+        ],
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -77,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "feedback loop",
+                "query": "\"user goal\" \"onboarding\"ema",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,6 +96,7 @@
       {
         "id": "0bd96adb9b959e81",
         "type": "tabs",
+        "dimension": 30.36597428288823,
         "children": [
           {
             "id": "b903d3635cb89561",
@@ -134,13 +130,25 @@
                 "mode": "source"
               }
             }
+          },
+          {
+            "id": "607c7e08daec7df5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Background info on GuidedTrack.md",
+                "mode": "source"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "1b43995631560c48",
         "type": "tabs",
+        "dimension": 69.63402571711177,
         "children": [
           {
             "id": "d9aa40a84cc7847d",
@@ -170,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
+                "file": "Continuous onboarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,76 +189,22 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "fd1f169e0b02550b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "62dd1bcc39a542b8",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Case Study of GuidedTrack Onboarding.md",
-                "options": {
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1.38585737179487,
-                  "lineSizeMultiplier": 5,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 13.886217948718,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.8602191613978543
-                }
-              }
-            },
-            "group": "5bba40e1abf25def"
-          }
-        ]
-      },
-      {
-        "id": "d43c04e5e9253519",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5843b9f56d8c001a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Case Study of GuidedTrack Onboarding.md",
-                "mode": "source"
-              }
-            },
-            "group": "5bba40e1abf25def"
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 332,
+    "width": 214,
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Continuous onboarding.md",
+    "Initial Research in GuidedTrack.md",
     "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
     "Feedback loops are a more efficient method of communication.md",
+    "Background info on GuidedTrack.md",
+    "Case Study of GuidedTrack Onboarding.md",
+    "Initial Plan for GuidedTrack Onboarding.md",
     "Scratchpad.md",
     "Use positive feedback loops to increase user involvement.md",
-    "Progress monitoring and feedback systems.md",
-    "Use a badging system as a method of actionable user research.md",
-    "The most successful app adoptions come from a project.md",
-    "Intentionally design for Failure States draft.md",
-    "feedback loop.md",
-    "positive feedback loop.md"
+    "Progress monitoring and feedback systems.md"
   ]
 }

@@ -10,4 +10,15 @@ Behavioral product strategy is a new field that has incredible potential and muc
 
 I'm [[Writing in hypertext]], which may produce a different reading experience from what you're used to finding online. **Think of it like a book that rearranges its pages and paragraphs for you based on your interest where all you need to do is click on whatever link sounds most appealing from a page.** However, this is just as new of a medium for me as it is for you! I have dozens of pages of content to manage at various stages of idea development. Expect this site to be different the next time you see it because I'm updating it constantly. 
 
-Please contact me if you see typos, if there's a stub page you want me to expand upon, or if you have related thoughts to anything that you read in here! @RobertHaisfield on Twitter and rob@influenceinsights.io to email me!
+Please contact me if you see typos, if there's a stub page you want me to expand upon, or if you have related thoughts to anything that you read in here! @RobertHaisfield on Twitter and rob@influenceinsights.io to email me
+
+## New notes about Emacs
+
+What does self-documenting mean?
+
+* " “Self-documenting” means that at any time you can use special
+commands, known as “help commands”, to find out what your options are,
+or to find out what any command does, or to find all the commands that
+pertain to a given topic.  *Note Help::."
+
+I think that means something to do with everything you need is contextually available 
