@@ -11,6 +11,7 @@
             "id": "17efd7341dcff34a",
             "type": "leaf",
             "dimension": 32.68115942028986,
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -35,7 +36,6 @@
             "id": "278ca1d34b40652f",
             "type": "leaf",
             "dimension": 36.666666666666664,
-            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Continuous onboarding.md",
+                "file": "Feedback loops are a more efficient method of communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,10 +196,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Feedback loops are a more efficient method of communication.md",
     "Continuous onboarding.md",
     "Initial Research in GuidedTrack.md",
     "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
-    "Feedback loops are a more efficient method of communication.md",
     "Background info on GuidedTrack.md",
     "Case Study of GuidedTrack Onboarding.md",
     "Initial Plan for GuidedTrack Onboarding.md",
