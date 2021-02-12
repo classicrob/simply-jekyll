@@ -1,4 +1,9 @@
-# Font
+---
+
+cssclass: test
+
+---
+
 ```css
 /* Font for the markdown source panel */
 div.markdown-source-view {

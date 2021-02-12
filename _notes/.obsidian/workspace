@@ -4,48 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a4407b89515c902",
-        "type": "split",
-        "children": [
-          {
-            "id": "17efd7341dcff34a",
-            "type": "leaf",
-            "dimension": 32.68115942028986,
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Feedback loops are a more efficient method of communication.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "f821aec58c3f2a09",
-            "type": "leaf",
-            "dimension": 30.65217391304348,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "278ca1d34b40652f",
-            "type": "leaf",
-            "dimension": 36.666666666666664,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Continuous onboarding.md",
-                "mode": "source"
-              }
-            }
+        "id": "38eb8d6308b4126f",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Intentionally design for failure states.md",
+            "mode": "source"
           }
-        ],
-        "direction": "vertical"
+        }
       }
     ],
     "direction": "vertical"
@@ -72,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"user goal\" \"onboarding\"ema",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +63,7 @@
       {
         "id": "0bd96adb9b959e81",
         "type": "tabs",
-        "dimension": 30.36597428288823,
+        "dimension": 41.839762611275965,
         "children": [
           {
             "id": "b903d3635cb89561",
@@ -108,47 +75,13 @@
                 "mode": "source"
               }
             }
-          },
-          {
-            "id": "ce0cba56f329fc19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Start Here.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "005ce20fc532a959",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Case study of GuidedTrack Onboarding Scratchpad.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "607c7e08daec7df5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Background info on GuidedTrack.md",
-                "mode": "source"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "1b43995631560c48",
         "type": "tabs",
-        "dimension": 69.63402571711177,
+        "dimension": 58.160237388724035,
         "children": [
           {
             "id": "d9aa40a84cc7847d",
@@ -178,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Feedback loops are a more efficient method of communication.md",
+                "file": "Intentionally design for failure states.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,15 +129,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Feedback loops are a more efficient method of communication.md",
-    "Continuous onboarding.md",
-    "Initial Research in GuidedTrack.md",
-    "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
-    "Background info on GuidedTrack.md",
+    "Intentionally design for failure states.md",
+    "Dead Cells.md",
+    "Roguelike.md",
     "Case Study of GuidedTrack Onboarding.md",
-    "Initial Plan for GuidedTrack Onboarding.md",
-    "Scratchpad.md",
-    "Use positive feedback loops to increase user involvement.md",
-    "Progress monitoring and feedback systems.md"
+    "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
+    "How we address GuidedTrack's key failure states.md",
+    "Initial Research in GuidedTrack.md",
+    "People start using an app with different prior mental models.md",
+    "The hard problem of onboarding horizontal products.md",
+    "Allow more hackability for Obsidian Publish.md"
   ]
 }

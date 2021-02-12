@@ -12,6 +12,6 @@
 
 Validation from user interviews
 
-The onboarding solution is about making a fundamentally more learnable experience. This could happen with terminal. Better feedback. Tools to get started. Show and tell. 
+The onboarding solution is about making a fundamentally more learnable experience. 
 
 [[Onboarding Plan as Presented to GuidedTrack on 10-20-20]]
