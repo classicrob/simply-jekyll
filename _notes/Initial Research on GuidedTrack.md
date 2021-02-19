@@ -1,7 +1,7 @@
 ---
 title: Initial Research on GuidedTrack
 ---
-*If you have not yet read the [[Background info on GuidedTrack]], I would highly recommend reading that first.*
+*If you do not know what GuidedTrack is, I highly recommend reading the [[GuidedTrack]] page first, where I have background info.*
 
 ### First, I wanted to look at what was already there
 

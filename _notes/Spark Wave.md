@@ -1,7 +1,7 @@
 ---
 title: Spark Wave
 ---
-- Link: https://www.sparkwave.tech/
+[Link to the main website](https://www.sparkwave.tech/)
 
 Spark Wave is a [[Startup Foundry]] run by [[Spencer Greenberg]] that applies social science, strategic thinking, and iterative experimentation to create socially beneficial software companies from scratch.
 

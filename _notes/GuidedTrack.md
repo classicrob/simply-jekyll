@@ -17,6 +17,4 @@ Needless to say, when Spencer Greenberg first tasked me with developing a plan f
 
 However, I was excited. This was an opportunity for me to work on a genuinely challenging onboarding problem for a horizontal product, which I have wanted to do for years. What could be more challenging than teaching people to code? Eventually, I would come to realize that the best approach to improving its onboarding would come through the concept of [[Learnable programming]].
 
-["learnable programming"](http://worrydream.com/LearnableProgramming/). 
-
 I started my [[Initial Research on GuidedTrack]].

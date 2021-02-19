@@ -2,11 +2,11 @@
 title: Spencer Greenberg
 ---
 
-His website and blog: https://www.spencergreenberg.com/
+[His website and blog](https://www.spencergreenberg.com/)
 
-His bio: https://www.spencergreenberg.com/work/
+[His bio](https://www.spencergreenberg.com/work/)
 
-His twitter: https://twitter.com/SpencrGreenberg
+[His twitter](https://twitter.com/SpencrGreenberg)
 
 Spencer Greenberg is the CEO and Founder of [[Spark Wave]], and is my boss for my work there. 
 

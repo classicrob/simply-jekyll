@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GuidedTrack.md",
+                    "file": "Initial Research on GuidedTrack.md",
                     "mode": "source"
                   }
                 }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spencer Greenberg.md",
+                "file": "Spark Wave.md",
                 "mode": "source"
               }
             }
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spencer Greenberg.md",
+                "file": "Spark Wave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,15 +203,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Spark Wave.md",
+    "Startup Foundry.md",
     "Spencer Greenberg.md",
-    "Startup Studio.md",
-    "Initial Research on GuidedTrack.md",
     "Learnable programming.md",
+    "Initial Research on GuidedTrack.md",
     "GuidedTrack.md",
+    "Startup Studio.md",
     "How we address GuidedTrack's key failure states.md",
     "The hard problem of onboarding horizontal products.md",
-    "Background info on GuidedTrack.md",
-    "Case Study of GuidedTrack Onboarding.md",
-    "Initial Research in GuidedTrack.md"
+    "Background info on GuidedTrack.md"
   ]
 }
