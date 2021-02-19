@@ -1,6 +1,7 @@
-#ready
-
-GuidedTrack has certain failure states for new users, and we need to [[Intentionally design for failure states]]. From [[Initial Research in GuidedTrack]]:
+---
+title: How we address GuidedTrack's key failure states
+---
+GuidedTrack has certain failure states for new users, and we need to [[Intentionally design for failure states]]. From [[Initial Research on GuidedTrack]]:
 
 "For the context of onboarding, there were a few key failure states to pay attention to:
 

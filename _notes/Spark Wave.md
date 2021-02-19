@@ -3,7 +3,7 @@ title: Spark Wave
 ---
 - Link: https://www.sparkwave.tech/
 
-Spark Wave is a [[Startup Studio]] run by [[Spencer Greenberg]] that applies social science, strategic thinking, and iterative experimentation to create socially beneficial software companies from scratch.
+Spark Wave is a [[Startup Foundry]] run by [[Spencer Greenberg]] that applies social science, strategic thinking, and iterative experimentation to create socially beneficial software companies from scratch.
 
 Our main operations include building products and conducting social science research to support those products. I serve as a behavioral product strategist for them, enabling the leaders of each of the portfolio products to incorporate intentional behavioral influence into their products.
 

@@ -8,6 +8,6 @@ tags: PersonalReflection
  
  Portfolio effects are a big reason why I’m consulting now. By implementing my ideas with of multiple products experiencing varied problems with unique user groups and contexts, I am able to see which ideas are robust, which have value, and which ideas deserve to be scaled. This allows me to usefully [[Learn by going up and down the ladder of abstraction]].
  
- This is also why I enjoy working with [[Spark Wave]]. The [[Startup Studio]] model is built for [[Hyper learning]] across portfolios of startups.
+ This is also why I enjoy working with [[Spark Wave]]. The [[Startup Foundry]] model is built for [[Hyper learning]] across portfolios of startups.
  
  Long term, I see myself running a startup studio / consultancy hybrid firm.
