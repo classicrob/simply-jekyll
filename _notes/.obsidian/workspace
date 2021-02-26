@@ -4,66 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a4407b89515c902",
-        "type": "split",
-        "children": [
-          {
-            "id": "ca8d52bc2d442665",
-            "type": "split",
-            "dimension": 31.666666666666664,
-            "children": [
-              {
-                "id": "62ef9f4a7ccd8838",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Initial Research on GuidedTrack.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "8dfe2c79b5ab3fab",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Learnable programming.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "horizontal"
-          },
-          {
-            "id": "675bfad5b08475ac",
-            "type": "leaf",
-            "dimension": 35.79710144927537,
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spark Wave.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "d54ab1b095420a0c",
-            "type": "leaf",
-            "dimension": 32.53623188405797,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Startup Foundry.md",
-                "mode": "preview"
-              }
-            }
+        "id": "1aabe5e60c723806",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "End-user scripting enables creative workarounds.md",
+            "mode": "source"
           }
-        ],
-        "direction": "vertical"
+        }
       }
     ],
     "direction": "vertical"
@@ -90,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "feedback loop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +64,6 @@
       {
         "id": "0bd96adb9b959e81",
         "type": "tabs",
-        "dimension": 34.025717111770525,
         "children": [
           {
             "id": "b903d3635cb89561",
@@ -148,6 +97,16 @@
                 "mode": "source"
               }
             }
+          },
+          {
+            "id": "19fcfcb483982efc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "End-user scripting enables creative workarounds.md"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -155,7 +114,6 @@
       {
         "id": "1b43995631560c48",
         "type": "tabs",
-        "dimension": 65.97428288822947,
         "children": [
           {
             "id": "d9aa40a84cc7847d",
@@ -185,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spark Wave.md",
+                "file": "End-user scripting enables creative workarounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,22 +154,82 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "fd1f169e0b02550b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62dd1bcc39a542b8",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Case Study of GuidedTrack Onboarding.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1.38585737179487,
+                  "lineSizeMultiplier": 5,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 13.886217948718,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8602191613978543,
+                  "close": false
+                }
+              }
+            },
+            "group": "5bba40e1abf25def"
+          }
+        ]
+      },
+      {
+        "id": "d43c04e5e9253519",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5843b9f56d8c001a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Case Study of GuidedTrack Onboarding.md",
+                "mode": "source"
+              }
+            },
+            "group": "5bba40e1abf25def"
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 368,
+    "width": 332,
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Spark Wave.md",
-    "Startup Foundry.md",
-    "Spencer Greenberg.md",
-    "Learnable programming.md",
-    "Initial Research on GuidedTrack.md",
-    "GuidedTrack.md",
-    "Startup Studio.md",
-    "How we address GuidedTrack's key failure states.md",
-    "The hard problem of onboarding horizontal products.md",
-    "Background info on GuidedTrack.md"
+    "End-user scripting enables creative workarounds (1).md",
+    "End-user scripting enables creative workarounds.md",
+    "Potential blog posts.md",
+    "Feedback loops are a more efficient method of communication.md",
+    "Horizontal product.md",
+    "My role as a consultant.md",
+    "Scratchpad.md",
+    "Use positive feedback loops to increase user involvement.md",
+    "Program A.md",
+    "Program C.md"
   ]
 }
