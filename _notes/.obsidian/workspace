@@ -4,16 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "1aabe5e60c723806",
+        "id": "4f8152bfef52003d",
         "type": "leaf",
+        "dimension": 22.1505376344086,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Potential blog posts.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "4479aadfb9ba9ade",
+        "type": "leaf",
+        "dimension": 27.09677419354839,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "End-user scripting enables creative workarounds.md",
+            "file": "Removing GUI elements as the user's skill level increases.md",
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "cf6f6c8eb725f90f",
+        "type": "leaf",
+        "dimension": 27.688172043010752,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Provide a smooth learning curve from new user to power user.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "4cbc63f139810fed",
+        "type": "split",
+        "dimension": 23.06451612903226,
+        "children": [
+          {
+            "id": "b06cb363f0a8f471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "End-user scripting enables creative workarounds.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "ed8e26dfdfaa2ca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apps with continued user involvement are responsive to increasing skill levels over time.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -99,12 +154,12 @@
             }
           },
           {
-            "id": "19fcfcb483982efc",
+            "id": "4e9f146b88cffad3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "End-user scripting enables creative workarounds.md"
+                "file": "Removing GUI elements as the user's skill level increases.md"
               }
             }
           }
@@ -143,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "End-user scripting enables creative workarounds.md",
+                "file": "Removing GUI elements as the user's skill level increases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,15 +276,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "End-user scripting enables creative workarounds (1).md",
+    "Removing GUI elements as the user's skill level increases.md",
+    "Provide a smooth learning curve from new user to power user.md",
     "End-user scripting enables creative workarounds.md",
+    "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
+    "Designing for user involvement has positive effects on adoption, retention, and virality.md",
     "Potential blog posts.md",
-    "Feedback loops are a more efficient method of communication.md",
-    "Horizontal product.md",
-    "My role as a consultant.md",
-    "Scratchpad.md",
-    "Use positive feedback loops to increase user involvement.md",
-    "Program A.md",
-    "Program C.md"
+    "User skill level increases over time.md",
+    "Apps with continued user involvement are responsive to increasing skill levels over time.md",
+    "Help the user to recognize situations for functionality usage.md",
+    "Product value should grow over time to maintain continued user involvement.md"
   ]
 }
