@@ -1,0 +1,106 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2578
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww28600\viewh16380\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 --\{How GuidedTrack Works\}\
+--See this gray text? Notice how you don't see it in the preview? You can comment any line by placing -- at the beginning.\
+--If you want to add a Back button, go to the Interaction section of the toolbar, click on Settings, and place that at the beginning of the program.\
+*label: Beginning\
+\
+*header: Welcome to your first GuidedTrack program\
+We're glad to have you here. You'll notice that what you see highlighted on the left is what is showing in the preview on the right.\
+\
+People will move on to the next page down in the text of this program by pressing on the button. Code is executed top to bottom, hopefully you'll get a sense for what this means by previewing the program.\
+\
+Also, you can edit this program however you want! Just place your cursor in the text editor and write! The toolbar to the left of the text will help you get started.\
+\
+*button: Following Page\
+--the *button marks the end of the page!\
+\
+*question: First off: What's your name?\
+	*save: userName\
+	--here we're saving your response to the question so below we can address you by name with \{userName\}\
+\
+Hello, \{userName\}!\
+\
+You can add text, multimedia, lists, and more. Check out the Content section of the toolbar to learn how and try it out.\
+*image: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRobAndHisNotes%2F87_ZJIfisb.png?alt=media&token=88dd7ecc-8861-4a10-96d2-ebbc0be26ec2\
+	*caption: The Content section of the toolbar\
+	\
+*button: Next page\
+\
+Pages always end with something the user interacts with. This could include buttons like you've seen or a question. Check the Interactions section of the toolbar for more!\
+*question: Did you know you can put videos on a page?\
+	--Notice how the answers to the question are just indented underneath the question! The toolbar (Interactions > Question) can help you start learning how to write different types of questions.\
+	Yes\
+		Awesome! Here's a video that walks you through this program.\
+		*video: https://www.youtube.com/watch?v=ov3lynWp9oM\
+		*button: Get on with it\
+		\
+	No\
+		You can do it by clicking on "video" from the content section of the toolbar or by just writing it out like you see in the highlighted code\
+		*video: https://www.youtube.com/watch?v=ov3lynWp9oM\
+		Congratulations! Now you know.\
+		*button: Next\
+		\
+		\
+\
+You can also ask follow-up questions based on the user's response through indentation. Look at what's going on here.\
+*question: Can you speak Spanish?\
+	*save: Spanish\
+	--Notice where else we use "Spanish" after we saved it. It's really easy to create if-then statements!\
+	Yes\
+		--Woah, you can nest questions underneath the responses to other questions to write follow-ups?\
+		\'a1Hola, \{userName\}!\
+		*button: Next\
+	No\
+		I'm sorry to hear that...\
+		*question: Do you want to learn?\
+			Yes\
+				Too bad! We don't teach it.\
+				*button: Next\
+			No\
+\
+--Only people who answered Yes to "Can you speak Spanish?" will see this. Everyone else skips right over it!\
+*if: Spanish = "Yes"\
+	This is another way you can change the flow of a program! You can save a user's past choice and only give certain content based on their answers.\
+	*image: https://media.makeameme.org/created/what-if-soy-26fc0eb6f8.jpg\
+	*button: Next\
+	\
+\
+*page\
+	Generally, you separate the content on pages through interactive elements. The most common ones to end a page are *button and *question. That being said, if you want to "break the rules" a bit, you can do it with *page. Try removing the button at the end of this page and see what happens.\
+\
+	*question: How old are you?\
+		*type: number \
+\
+	*question: What are your favorite colors?\
+		*type: checkbox\
+		Red \
+		Blue \
+		Green \
+		Orange \
+\
+	*button: Let's get going!\
+\
+You can ask many different types of questions. Go to questions in the toolbar (Interactions section) and change the *Type* to whatever you want. Try playing with it!\
+*image: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRobAndHisNotes%2FZp2srQ8vA6.png?alt=media&token=beec518f-e331-4c99-bd83-2952cfe4fd1e\
+*button: Next\
+\
+When the user answers questions, GuidedTrack collects data[! You can click here to see what participant data is collected.\
+*image: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRobAndHisNotes%2F8slPrOWIMq.png?alt=media&token=c732819c-1a00-4600-a716-11277165c9a7\
+*button: Next\
+\
+Feel free to play around with this program by editing the code or create a new program from any of our templates to get started!\
+\
+*question: Would you like to finish the program or start over?\
+	Finish the program\
+	Start over\
+		*goto: Beginning\
+			--This will take you back to the *label at the beginning with the same name.\
+		\
+\
+}

@@ -34,18 +34,18 @@ For example, the following code is syntactically incorrect:
 ```
 *question: What colors do you like?
 *type: checkbox
-	Red
-	Blue
-	Green
+     Red
+     Blue
+     Green
 ```
 
 Whereas this code is syntactically correct:
 ```
 *question: What colors do you like?
-	*type: checkbox
-	Red
-	Blue
-	Green
+     *type: checkbox
+     Red
+     Blue
+     Green
 ```
 
 What if "type" didn't even come up as an autocompletion option if it wasn't indented underneath a question? If autocomplete only showed options that were syntactically possible, then that would help make typing code more idiot proof for people who are transitioning from using the toolbar.
@@ -55,3 +55,4 @@ What if "type" didn't even come up as an autocompletion option if it wasn't inde
 While we don't have a true command palette, we're working on a search bar that will pull up code snippets, help documentation, and relevant toolbar sections. Now users can read anything they are unfamiliar with, plug a search term into the search bar, and find out what it is and how it works. Additionally, if they know which command they want to use but don't know how to write it on their own, they can pull up a toolbar form from this search bar, providing a speed increase over the multi-click oriented user flow they had before.
 
 ![command K in SuperHuman](/assets/blogpics/CmdK-Superhuman.gif)
+

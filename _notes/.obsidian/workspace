@@ -19,7 +19,6 @@
         "id": "4479aadfb9ba9ade",
         "type": "leaf",
         "dimension": 27.09677419354839,
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -32,6 +31,7 @@
         "id": "cf6f6c8eb725f90f",
         "type": "leaf",
         "dimension": 27.688172043010752,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Removing GUI elements as the user's skill level increases.md"
+                "file": "Provide a smooth learning curve from new user to power user.md"
               }
             }
           }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Removing GUI elements as the user's skill level increases.md",
+                "file": "Provide a smooth learning curve from new user to power user.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,8 +276,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Removing GUI elements as the user's skill level increases.md",
     "Provide a smooth learning curve from new user to power user.md",
+    "Removing GUI elements as the user's skill level increases.md",
     "End-user scripting enables creative workarounds.md",
     "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
     "Designing for user involvement has positive effects on adoption, retention, and virality.md",
