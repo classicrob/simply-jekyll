@@ -31,22 +31,11 @@ One thing we're considering (up in the air when or if we do this) is contextuall
 
 For example, the following code is syntactically incorrect:
 
-```
-*question: What colors do you like?
-*type: checkbox
-     Red
-     Blue
-     Green
-```
+![](/assets/blogpics/ContextualAutocompleteSyntaxError.png)
 
 Whereas this code is syntactically correct:
-```
-*question: What colors do you like?
-     *type: checkbox
-     Red
-     Blue
-     Green
-```
+
+![](/assets/blogpics/ContextualAutocompleteSyntaxCorrect.png)
 
 What if "type" didn't even come up as an autocompletion option if it wasn't indented underneath a question? If autocomplete only showed options that were syntactically possible, then that would help make typing code more idiot proof for people who are transitioning from using the toolbar.
 
