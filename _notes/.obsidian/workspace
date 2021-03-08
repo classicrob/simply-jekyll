@@ -6,7 +6,7 @@
       {
         "id": "4f8152bfef52003d",
         "type": "leaf",
-        "dimension": 22.1505376344086,
+        "dimension": 28.882175226586103,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,11 +18,24 @@
       {
         "id": "4479aadfb9ba9ade",
         "type": "leaf",
-        "dimension": 27.09677419354839,
+        "dimension": 38.00604229607251,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Removing GUI elements as the user's skill level increases.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "8865c787f4de8e53",
+        "type": "leaf",
+        "dimension": 16.858006042296072,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Roam Cybrarian.md",
             "mode": "source"
           }
         }
@@ -30,8 +43,7 @@
       {
         "id": "cf6f6c8eb725f90f",
         "type": "leaf",
-        "dimension": 27.688172043010752,
-        "active": true,
+        "dimension": 16.253776435045317,
         "state": {
           "type": "markdown",
           "state": {
@@ -39,36 +51,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "4cbc63f139810fed",
-        "type": "split",
-        "dimension": 23.06451612903226,
-        "children": [
-          {
-            "id": "b06cb363f0a8f471",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "End-user scripting enables creative workarounds.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "ed8e26dfdfaa2ca5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apps with continued user involvement are responsive to increasing skill levels over time.md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -95,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "feedback loop",
+                "query": "blockquote",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205,
-    "collapsed": true
+    "width": 205
   },
   "right": {
     "id": "b4a22675225d2ddf",
@@ -159,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Provide a smooth learning curve from new user to power user.md"
+                "file": "Removing GUI elements as the user's skill level increases.md"
               }
             }
           }
@@ -198,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Provide a smooth learning curve from new user to power user.md",
+                "file": "Removing GUI elements as the user's skill level increases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,15 +257,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Provide a smooth learning curve from new user to power user.md",
     "Removing GUI elements as the user's skill level increases.md",
+    "Roam Cybrarian.md",
+    "Provide a smooth learning curve from new user to power user.md",
     "End-user scripting enables creative workarounds.md",
     "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
     "Designing for user involvement has positive effects on adoption, retention, and virality.md",
     "Potential blog posts.md",
     "User skill level increases over time.md",
     "Apps with continued user involvement are responsive to increasing skill levels over time.md",
-    "Help the user to recognize situations for functionality usage.md",
-    "Product value should grow over time to maintain continued user involvement.md"
+    "Help the user to recognize situations for functionality usage.md"
   ]
 }
