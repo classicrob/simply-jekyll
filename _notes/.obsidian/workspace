@@ -6,7 +6,7 @@
       {
         "id": "4f8152bfef52003d",
         "type": "leaf",
-        "dimension": 28.882175226586103,
+        "dimension": 30.815709969788518,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,26 +16,14 @@
         }
       },
       {
-        "id": "4479aadfb9ba9ade",
+        "id": "8865c787f4de8e53",
         "type": "leaf",
-        "dimension": 38.00604229607251,
+        "dimension": 43.202416918429,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Removing GUI elements as the user's skill level increases.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "8865c787f4de8e53",
-        "type": "leaf",
-        "dimension": 16.858006042296072,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Roam Cybrarian.md",
+            "file": "Programming languages are converging due to runtime.md",
             "mode": "source"
           }
         }
@@ -43,7 +31,7 @@
       {
         "id": "cf6f6c8eb725f90f",
         "type": "leaf",
-        "dimension": 16.253776435045317,
+        "dimension": 25.981873111782477,
         "state": {
           "type": "markdown",
           "state": {
@@ -140,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Removing GUI elements as the user's skill level increases.md"
+                "file": "Programming languages are converging due to runtime.md"
               }
             }
           }
@@ -179,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Removing GUI elements as the user's skill level increases.md",
+                "file": "Programming languages are converging due to runtime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,15 +245,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Removing GUI elements as the user's skill level increases.md",
+    "Programming languages are converging due to runtime.md",
     "Roam Cybrarian.md",
+    "Potential blog posts.md",
+    "Removing GUI elements as the user's skill level increases.md",
     "Provide a smooth learning curve from new user to power user.md",
     "End-user scripting enables creative workarounds.md",
     "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
     "Designing for user involvement has positive effects on adoption, retention, and virality.md",
-    "Potential blog posts.md",
     "User skill level increases over time.md",
-    "Apps with continued user involvement are responsive to increasing skill levels over time.md",
-    "Help the user to recognize situations for functionality usage.md"
+    "Apps with continued user involvement are responsive to increasing skill levels over time.md"
   ]
 }
