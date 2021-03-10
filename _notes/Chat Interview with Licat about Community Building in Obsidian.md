@@ -1,19 +1,17 @@
 ---
-Chat Interview with Licat about Community Building in Obsidian
+title: Chat Interview with Licat about Community Building in Obsidian
 ---
-Below is a chat I had via Discord with Licat, one of the co-founders of Obsidian, an excellent application that I use for all of the markdown files on this website. I'm working on developing a community for [[GuidedTrack]], so this conversation was incredibly helpful. The conversation is minimally edited.
-
-**Robert Haisfield**
-
-I'm curious about a lot of things. For context, I'm working on the onboarding for guidedtrack.com right now, and I'm developing a community plan
+Below is a chat I had via Discord with Licat, one of the co-founders of Obsidian, an excellent application that I use for editing all of the markdown files on this website. I'm working on developing a community for [[GuidedTrack]], so this conversation was incredibly helpful.
 
 I'm a behavioral product strategist. That means I like to think about design decisions with respect to how they influence user behavior.
 
-For example, how does the medium of communication influence the frequency with which users interact?
+For example, how does the medium of communication influence the frequency with which users interact? How can intentional decisions about a product's community influence user behavior? And in Obsidian, I've seen a lot of intentional decisions. 
 
-How can intentional decisions about a product's community influence user behavior?
+Huge round of appreciation for Licat for discussing the subject with me. Without further ado, here's the interview!
 
-And in Obsidian, I've seen a lot of intentional decisions. I'd love to explore that with you.
+**Robert Haisfield**
+
+What do you think makes the Obsidian community successful?
 
 **Licat**
 
