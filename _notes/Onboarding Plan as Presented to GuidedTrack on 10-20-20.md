@@ -51,7 +51,7 @@ The more time users spend writing code before checking their code in compilation
 
 ![inline error codes](/assets/blogpics/InlineErrorCodes.png)
 
-The **side-by-side preview/debugger** will make it so the user can see highlighted exactly the code that is producing what they see in the preview. They will know where errors that don’t produce error codes are. The user edits code and then is able to refresh the preview to quickly see the result alongside the code that produced it.
+The **[[GuidedTrack live preview]]/debugger** will make it so the user can see highlighted exactly the code that is producing what they see in the preview. They will know where errors that don’t produce error codes are. The user edits code and then is able to refresh the preview to quickly see the result alongside the code that produced it.
 
 ![](/assets/blogpics/debugger.gif)
 
@@ -77,7 +77,7 @@ People should be able to see use cases so they can latch onto examples. This wil
 
 People should see successful similar others to increase their **self-efficacy.** This means that they can see testimonials from researchers, entrepreneurs, and educators.
 
-## **Initial onboarding questionnaire with side-by-side preview**
+## **Initial onboarding questionnaire with [[GuidedTrack live preview]]**
 
 [[Horizontal product]]s like Notion and Trello begin with a series of questions that allow the company to get to know the users a little bit better. We can make this series of questions using GuidedTrack!
 

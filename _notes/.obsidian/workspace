@@ -6,22 +6,24 @@
       {
         "id": "03d0375a7ee29b8d",
         "type": "leaf",
+        "dimension": 54.17040358744394,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "How to use Obsidian.md",
+            "file": "GuidedTrack live preview.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "086e74ca3193c157",
+        "id": "eda4e55d900e2c05",
         "type": "leaf",
-        "active": true,
+        "dimension": 45.82959641255606,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
+            "file": "How we address GuidedTrack's key failure states.md",
             "mode": "source"
           }
         }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md"
+                "file": "GuidedTrack live preview.md"
               }
             }
           }
@@ -154,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
+                "file": "GuidedTrack live preview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,15 +234,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "GuidedTrack live preview.md",
+    "How we address GuidedTrack's key failure states.md",
+    "Initial Research on GuidedTrack.md",
     "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
-    "Chat Interview with Licat about Community Building in Obsidian.md",
-    "How to use Obsidian.md",
-    "Interview with Licat.md",
-    "Untitled 6.md",
-    "Untitled 5.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
-    "Provide a smooth learning curve from new user to power user.md",
-    "Programming languages are converging due to runtime.md"
+    "Freewrite.md",
+    "The GuidedTrack live preview.md",
+    "The GuidedTrack debugger.md",
+    "Learnable programming.md",
+    "The debugger for GuidedTrack.md",
+    "debugger.md"
   ]
 }

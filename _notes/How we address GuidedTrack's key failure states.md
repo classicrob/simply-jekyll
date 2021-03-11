@@ -46,4 +46,4 @@ This is the failure state where the user is incorrectly predicting the outcomes 
 
 Usually, this is a problem where they incorrectly predicted the flow of the program. They don't know what will come out on one page or another, and they don't understand the logic of what they are producing.
 
-The side-by-side preview is really great at addressing this problem. Since it highlights the part of the code that's actively producing the preview, it's really easy to diagnose problems. See [[Feedback loops are a more efficient method of communication]] for reference.
+The [[GuidedTrack live preview]] is really great at addressing this problem. Since it highlights the part of the code that's actively producing the preview, it's really easy to diagnose problems. See [[Feedback loops are a more efficient method of communication]] for reference.
