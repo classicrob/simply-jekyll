@@ -10,3 +10,7 @@ I think I wrap in %% but I'm not sure%% so I think
 ```
 
 <iframe src="https://www.google.com/"></iframe>
+
+
+Tweet from Obsidian:
+https://forum.obsidian.md/t/video-tutorial-for-notetweet-plugin-post-on-twitter-from-obsidian/14281

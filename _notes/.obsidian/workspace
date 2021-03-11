@@ -6,11 +6,10 @@
       {
         "id": "03d0375a7ee29b8d",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chat Interview with Licat about Community Building in Obsidian.md",
+            "file": "How to use Obsidian.md",
             "mode": "source"
           }
         }
@@ -18,10 +17,11 @@
       {
         "id": "086e74ca3193c157",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chat Interview with Licat about Community Building in Obsidian.md",
+            "file": "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
             "mode": "source"
           }
         }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chat Interview with Licat about Community Building in Obsidian.md"
+                "file": "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md"
               }
             }
           }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chat Interview with Licat about Community Building in Obsidian.md",
+                "file": "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,15 +232,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
+    "Chat Interview with Licat about Community Building in Obsidian.md",
+    "How to use Obsidian.md",
     "Interview with Licat.md",
     "Untitled 6.md",
     "Untitled 5.md",
     "Untitled 4.md",
     "Untitled 3.md",
     "Provide a smooth learning curve from new user to power user.md",
-    "Programming languages are converging due to runtime.md",
-    "Roam Cybrarian.md",
-    "Potential blog posts.md",
-    "Removing GUI elements as the user's skill level increases.md"
+    "Programming languages are converging due to runtime.md"
   ]
 }
