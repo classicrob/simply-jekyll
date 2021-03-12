@@ -168,7 +168,83 @@ We knew it was to be extensible via plugins before we even started writing code
 
 **Robert Haisfield**
 
-Also, how did you handle the transition to include a new **community home**, the **forum**. How did you get that started?
+How would you describe the response from your community to the release of extensibility features (re css and plugins)?
+
+**Licat**
+
+People absolutely love it! In fact, it's quite rare to see someone share a screenshot of their Obsidian that uses our default theme, haha.
+
+We've even observed learning groups and people teaching themselves and each other CSS for the first time, just so they can unleash their creativity.
+
+**Robert Haisfield**
+
+I'm really curious about your choice to centralize community plugins and CSS on the app vs allowing hubs for plugins and CSS to emerge organically. What drove the decision, what the pros and cons of each option were?
+
+**Licat**
+
+That allows non-technical users to discover plugins easily, and let plugin developers reach a bigger audience than if they were posting on some personal blog.
+
+The only con is that we had to implement the channel (and it was a solid week of work, plus another 2 for polish)
+
+The pros are: 
+- Easier for non technical users to find and install plugins 
+- Plugin devs get access to a big audience
+- Users see the efforts made by plugin devs, can thank them directly for their work
+- Users can share feedback within our community directly
+- Plugin devs inspire and help each other out - More trust for plugins being distributed through official channel
+- Easier for someone to spot malicious/misbehaving plugins, let us know, and we can blacklist the bad versions
+
+Oh and don't forget - if we don't make one, then I'm sure someone will make one
+
+Something like that happened to Sublime Text, where "package control" is actually a third party plugin that manages downloading and installing plugins
+
+**Robert Haisfield**
+
+What happened there? Was someone else filling in the gap and making it a negative outcome?
+
+(As an aside, I totally agree re trust, Roam’s got a bit of a Wild West going on with Roam/JS right now and you have to trust/follow the individual developers. It’s really nice being able to find and add things easily from within Obsidian)
+
+**Licat**
+
+I remember you had to run a python script to install a plugin called "package control", which then adds a command that you trigger with the hotkey in which you type `Install package: ...plugin name...` to install any plugins from the community marketplace
+
+I think that's just a poor experience from a user's perspective - and it also forfeits some control, which means the official party can't ensure the marketplace is styled consistently with the app, can't ensure quality from the plugin, has no control over things like ratings and reviews, promoting popular plugins, etc.
+
+It's a good thing that a third party develops such a marketplace, definitely better than having none
+
+**Robert Haisfield**
+
+What sorts of plugins have people been making? What sorts haven’t they been making that you think could happen?
+
+**Licat**
+
+Plugin wise it's been kinda expected and unexpected at the same time - we expected people to go crazy, and they did, and that still surprises us.
+
+Some of the plugins augment the capabilities of Obsidian in ways we anticipate - things we lack but didn't have time for, or prioritized. Other plugins are just out-of-this-world creative, or things we would have never thought of.
+
+The advanced table plugin, or the daily notes plugin are good examples of augmentations that are appreciated by many.
+
+The Youglish plugin "Use YouTube to improve your English pronunciation" (highlight a word and get YouTube videos on how the word is pronounced) is completely unexpected!
+
+**Robert Haisfield**
+
+How are you and Silver mentally dividing the role of community plug-in developers and your role as product builders?
+
+**Licat**
+
+It's been a hard one. Sometimes we feel like the plugin functionality should really have been core. But we're also concerned that the plugin author would feel robbed of their work/reputation. I think many of the plugin authors would be honored to have their plugin (or parts of it) merged into core.
+
+At the moment, it's really just a race of popularity. Any functionality that's highly requested is likely going to make it into the app as core or as a plugin eventually.
+
+We try to be somewhat informed of what people are working on to avoid duplicated work.
+
+That's what so great about the plugin API. Anything we don't have time for, or got prioritized, would have been filled in when someone has a use case for it, or a serious pain point. People take optimizing their workflow into their hands.
+
+And in turn it benefits others who'd save time using the plugins, and those users can provide feedback and gratitude.
+
+**Robert Haisfield**
+
+On another note, how did you handle the transition to include a new **community home,** the **Discourse forum.** How did you get that started?
 
 **Licat**
 
@@ -217,11 +293,13 @@ It actually thrills us and our **moderators** when we archive bug reports and fe
 
 **Robert Haisfield**
 
-I'm really curious about the sharing side of things. With graphs and ideas, as well as other forms of **user generated content.** The show-and-tell, as well as the speculation.
+I'm really curious about the sharing side of things. With graphs and ideas, as well as other forms of **user generated content.** The show-and-tell, as well as the speculation. I'm curious what you've done with the community or the product that you think enables, facilitates, or encourages user-generated content?
 
 **Licat**
 
 I haven't been really involved in that side of things, that was more the work of my partner **Silver**. But she did spot the opportunity and chased it down. Opened the right channels for them. **We also had a show-and-tell category for our last product Dynalist's forum.** That also worked quite well.
+
+Encouraging sharing user content (if successful) leads to a snowball effect where users see how welcoming the community is with regard to content shared by other users, and therefore share their own. The product has also evolved to include things that encourage sharing, especially on the graph view side.
 
 **Robert Haisfield**
 
@@ -354,3 +432,15 @@ You can kinda see our execution with some of that - the private alpha was planne
 Product wise, some of the high value targets that we planned: plan from very early on were the pane system, the graph optimizations, css customizations, plugin ecosystem, Sync and Publish as our way to sustainability and profitability. Our pricing model: monetization was there from day 1 and it's working out pretty well.
 
 We also had to plan around the delivery of our first baby that happened about 2 weeks after public launch of the product
+
+**Robert Haisfield**
+
+2 weeks after public launch? You and Silver have exemplified some of the most impressive product development / community involvement I've ever seen... and you have a baby? Incredible.
+
+**Licat**
+
+Thank you
+
+**Robert Haisfield**
+
+Thank you for taking the time to do this, and for building an amazing product!

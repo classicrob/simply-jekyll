@@ -11,84 +11,22 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GuidedTrack.md",
+            "file": "Chat Interview with Licat about Community Building in Obsidian.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "5d879ba39ea2a282",
-        "type": "split",
+        "id": "eda4e55d900e2c05",
+        "type": "leaf",
         "dimension": 52.5974025974026,
-        "children": [
-          {
-            "id": "eda4e55d900e2c05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GuidedTrack Live Preview.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "3540e9f0b7b5603a",
-            "type": "split",
-            "children": [
-              {
-                "id": "90fea9c2da8571af",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
-                    "mode": "source"
-                  }
-                },
-                "group": "39044bec30580723"
-              },
-              {
-                "id": "b7af93fbbbcb7a6e",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 1,
-                      "close": false
-                    }
-                  }
-                },
-                "group": "39044bec30580723"
-              }
-            ],
-            "direction": "vertical"
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chat Interview with Licat about Community Building in Obsidian.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -179,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GuidedTrack.md"
+                "file": "Chat Interview with Licat about Community Building in Obsidian.md"
               }
             }
           }
@@ -218,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GuidedTrack.md",
+                "file": "Chat Interview with Licat about Community Building in Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,15 +234,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "GuidedTrack.md",
-    "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
+    "Chat Interview with Licat about Community Building in Obsidian.md",
     "GuidedTrack Live Preview.md",
+    "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
+    "GuidedTrack.md",
     "GuidedTrack Toolbar.md",
     "GuidedTrack live preview.md",
     "How we address GuidedTrack's key failure states.md",
     "GuidedTrack toolbar.md",
     "Initial Research on GuidedTrack.md",
-    "Freewrite.md",
-    "The GuidedTrack live preview.md"
+    "Freewrite.md"
   ]
 }
