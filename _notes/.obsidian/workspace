@@ -7,10 +7,11 @@
         "id": "03d0375a7ee29b8d",
         "type": "leaf",
         "dimension": 47.4025974025974,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GuidedTrack Toolbar.md",
+            "file": "GuidedTrack.md",
             "mode": "source"
           }
         }
@@ -23,7 +24,6 @@
           {
             "id": "eda4e55d900e2c05",
             "type": "leaf",
-            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -33,15 +33,59 @@
             }
           },
           {
-            "id": "90fea9c2da8571af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
-                "mode": "source"
+            "id": "3540e9f0b7b5603a",
+            "type": "split",
+            "children": [
+              {
+                "id": "90fea9c2da8571af",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
+                    "mode": "source"
+                  }
+                },
+                "group": "39044bec30580723"
+              },
+              {
+                "id": "b7af93fbbbcb7a6e",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": false
+                    }
+                  }
+                },
+                "group": "39044bec30580723"
               }
-            }
+            ],
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -135,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GuidedTrack Live Preview.md"
+                "file": "GuidedTrack.md"
               }
             }
           }
@@ -174,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GuidedTrack Live Preview.md",
+                "file": "GuidedTrack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,15 +296,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "GuidedTrack.md",
+    "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
     "GuidedTrack Live Preview.md",
     "GuidedTrack Toolbar.md",
-    "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
     "GuidedTrack live preview.md",
     "How we address GuidedTrack's key failure states.md",
     "GuidedTrack toolbar.md",
     "Initial Research on GuidedTrack.md",
     "Freewrite.md",
-    "The GuidedTrack live preview.md",
-    "The GuidedTrack debugger.md"
+    "The GuidedTrack live preview.md"
   ]
 }
