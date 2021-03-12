@@ -7,7 +7,6 @@
         "id": "03d0375a7ee29b8d",
         "type": "leaf",
         "dimension": 47.4025974025974,
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -24,6 +23,7 @@
           {
             "id": "eda4e55d900e2c05",
             "type": "leaf",
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GuidedTrack Toolbar.md"
+                "file": "GuidedTrack Live Preview.md"
               }
             }
           }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GuidedTrack Toolbar.md",
+                "file": "GuidedTrack Live Preview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,8 +252,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "GuidedTrack Toolbar.md",
     "GuidedTrack Live Preview.md",
+    "GuidedTrack Toolbar.md",
     "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
     "GuidedTrack live preview.md",
     "How we address GuidedTrack's key failure states.md",

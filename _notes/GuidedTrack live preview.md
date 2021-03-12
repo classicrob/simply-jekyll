@@ -1,5 +1,5 @@
 ---
-title: GuidedTrack live preview
+title: GuidedTrack Live Preview
 ---
 Originally, [[GuidedTrack]] had two separate views for working with your program. You could either be in the code view, where you were editing code, or in the preview, where you saw the output of your code.
 
