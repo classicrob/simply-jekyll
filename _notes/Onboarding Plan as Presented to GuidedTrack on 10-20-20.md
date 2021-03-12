@@ -35,7 +35,7 @@ When users see code and they can’t predict what the outcome will be, they can 
 
 Seeing error messages (literally nonexistent for most apps they use) is intimidating, but they are inevitable obstacles in the user's early learning experience. A text interface for program creation allows people a lot of freedom to be creative and to mess up!
 
-Users need to scale the barriers of fixing errors in order to realize how easy GuidedTrack is to learn. A point where many users experience self-efficacy is when they realize that they can read code and predict what will happen when it’s previewed. They also experience self-efficacy when they realize they can make a program easily with the toolbar. They feel even more competent when they realize that they can simply write what they were using the toolbar for before and predict what will happen when it’s previewed.
+Users need to scale the barriers of fixing errors in order to realize how easy GuidedTrack is to learn. A point where many users experience self-efficacy is when they realize that they can read code and predict what will happen when it’s previewed. They also experience self-efficacy when they realize they can make a program easily with the [[GuidedTrack Toolbar]]. They feel even more competent when they realize that they can simply write what they were using the toolbar for before and predict what will happen when it’s previewed.
 
 ### Tighten feedback loops to build appropriate mental models
 
@@ -51,7 +51,7 @@ The more time users spend writing code before checking their code in compilation
 
 ![inline error codes](/assets/blogpics/InlineErrorCodes.png)
 
-The **[[GuidedTrack live preview]]/debugger** will make it so the user can see highlighted exactly the code that is producing what they see in the preview. They will know where errors that don’t produce error codes are. The user edits code and then is able to refresh the preview to quickly see the result alongside the code that produced it.
+The **[[GuidedTrack Live Preview]]/debugger** will make it so the user can see highlighted exactly the code that is producing what they see in the preview. They will know where errors that don’t produce error codes are. The user edits code and then is able to refresh the preview to quickly see the result alongside the code that produced it.
 
 ![](/assets/blogpics/debugger.gif)
 
@@ -77,7 +77,7 @@ People should be able to see use cases so they can latch onto examples. This wil
 
 People should see successful similar others to increase their **self-efficacy.** This means that they can see testimonials from researchers, entrepreneurs, and educators.
 
-## **Initial onboarding questionnaire with [[GuidedTrack live preview]]**
+## **Initial onboarding questionnaire with [[GuidedTrack Live Preview]]**
 
 [[Horizontal product]]s like Notion and Trello begin with a series of questions that allow the company to get to know the users a little bit better. We can make this series of questions using GuidedTrack!
 
@@ -99,7 +99,7 @@ In the prior onboarding questionnaire, we were holding the user’s hand. The us
 
 Users tend to be most successful when they start with some project in mind. On the flip side, they may drop off and give up if they start a program with a blank page and don’t know what to do with it.
 
-From the user interviews, it seemed that playing around with the toolbar and looking at the code in sample programs was an effective way to learn. We don’t need to hold the user’s hand for this, though I would make the sample programs directly editable so the user can play around in a sandbox and I would simply add a couple more sample programs. I also believe that the **side-by-side preview/debugger** will significantly improve the learning that comes from exploring existing programs.
+From the user interviews, it seemed that playing around with the [[GuidedTrack Toolbar]] and looking at the code in sample programs was an effective way to learn. We don’t need to hold the user’s hand for this, though I would make the sample programs directly editable so the user can play around in a sandbox and I would simply add a couple more sample programs. I also believe that the **live preview/debugger** will significantly improve the learning that comes from exploring existing programs.
 
 ## Create program from template
 

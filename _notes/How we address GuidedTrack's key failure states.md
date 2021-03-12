@@ -14,7 +14,7 @@ GuidedTrack has certain failure states for new users, and we need to [[Intention
 
 This is when the user's skill level has not yet caught up to their imagination. We have a few solutions for this:
 
-### The toolbar
+### The [[GuidedTrack Toolbar]]
 
 The toolbar allows the user to visually scan through possible functions and fill out a form that writes the code for you. This reduces the amount of learning they need to do before doing. The toolbar also shows you documentation and examples.
 
@@ -46,4 +46,4 @@ This is the failure state where the user is incorrectly predicting the outcomes 
 
 Usually, this is a problem where they incorrectly predicted the flow of the program. They don't know what will come out on one page or another, and they don't understand the logic of what they are producing.
 
-The [[GuidedTrack live preview]] is really great at addressing this problem. Since it highlights the part of the code that's actively producing the preview, it's really easy to diagnose problems. See [[Feedback loops are a more efficient method of communication]] for reference.
+The [[GuidedTrack Live Preview]] is really great at addressing this problem. Since it highlights the part of the code that's actively producing the preview, it's really easy to diagnose problems. See [[Feedback loops are a more efficient method of communication]] for reference.
