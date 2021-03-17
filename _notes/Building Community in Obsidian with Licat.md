@@ -55,7 +55,6 @@ There was some of that for sure.
 
 I would also attribute some of it to my previous gaming community experience.
 
-
 **Robert Haisfield**
 
 Why do you say that?
