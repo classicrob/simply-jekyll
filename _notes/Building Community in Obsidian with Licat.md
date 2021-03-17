@@ -1,5 +1,5 @@
 ---
-title: Chat Interview with Licat about Community Building in Obsidian
+title: Building Community in Obsidian with Licat
 ---
 Below is a chat I had via Discord with Licat, one of the co-founders of Obsidian, an excellent application that I use for editing all of the markdown files on this website. I'm working on developing a community for [[GuidedTrack]], so this conversation was incredibly helpful.
 
