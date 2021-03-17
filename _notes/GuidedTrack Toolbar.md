@@ -5,7 +5,7 @@ One of the biggest fears that new users have related to a programming language i
 
 Caleb Figgers expressed it clearly in this tweet:
 
-<<blockquote class="quoteback" darkmode="" data-title="Caleb%20Figgers%20on%20Twitter" data-author="" cite="https://twitter.com/CalebFiggers/status/1369419961064693771">No-code makes discovery of capabilities easier. A blank text editor or command line is great if you already know what it can do/why it is useful. For those who don’t, an intuitively laid-out UI can double as documentation to quickly communicate what the tool is capable of.<footer> <cite><a href="https://twitter.com/CalebFiggers/status/1369419961064693771">https://twitter.com/CalebFiggers/status/1369419961064693771</a></cite></footer></blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+<blockquote class="quoteback" darkmode="" data-title="Caleb%20Figgers%20on%20Twitter" data-author="" cite="https://twitter.com/CalebFiggers/status/1369419961064693771">No-code makes discovery of capabilities easier. A blank text editor or command line is great if you already know what it can do/why it is useful. For those who don’t, an intuitively laid-out UI can double as documentation to quickly communicate what the tool is capable of.<footer> <cite><a href="https://twitter.com/CalebFiggers/status/1369419961064693771">https://twitter.com/CalebFiggers/status/1369419961064693771</a></cite></footer></blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
 People know what they want to do, but they don't want to spend time reading through documentation in order to figure out how to do it.
 

@@ -1,0 +1,13 @@
+For a while I used Whimsical for all of my visual thinking. I would mock up ideas, make flowcharts, and use it as an infinite whiteboard. It is incredibly easy to use, and I was up and running within a few minutes of getting started. While the skill floor was low, so was the skill ceiling. I would never be able to make full prototypes in Whimsical. [[Eventually user skill level will reach the limitations of the software]], so at a certain point, I would hit Whimsical's boundaries.
+
+Figma initially intimidated me because the skill floor wasn't as low as it is in Whimsical. I couldn't just fiddle around a bit to get it to work for me. However, one day a designer friend of mine sat down with me for an hour to help me get started, and suddenly I was able to do everything that I was doing in Whimsical and more. *An hour of learning allowed me to surpass Whimsical's ceiling.* [[User skill level increases over time]], so even if I started out using Figma primarily as a visual thinking space, through [[Continuous onboarding]], I might ramp up towards full blow UI designs, clickable prototypes, and leading workshops with pre-built assets. Beginning of March 2021, just 2 months after I started using Figma, I gave a presentation where I used a Figma canvas as a whiteboard instead of using more slides.
+
+This experience reinforced the following lesson for me: [[Adoption requires a baseline of user involvement in order to overcome inertia]] - at least for [[Horizontal product]]s. Now that I'm over that barrier in Figma, I'm hooked. It makes me wonder how many tools I use simply because I wasn't willing to put in the hour to get comfortable in a better alternative.
+
+We can draw a parallel to using Typeform vs. [[GuidedTrack]].
+
+It's easy to start using Typeform immediately. It has a low floor, but it also has a low ceiling. If you try to implement a study design that is at all complicated, you'll quickly hit the tool's hard limitations.
+
+On the other hand, GuidedTrack may not be as immediately intuitive, but after 15-20 minutes you'll be up to speed with Typeform. After an hour or two of usage building anything at all, you'll probably surpass Typeform. On the product team for GuidedTrack, our responsibility is to [[Provide a smooth learning curve from new user to power user]].
+
+[Typeform is easy to learn, hard to use](https://www.youtube.com/watch?v=-7lWc834qPI). GuidedTrack is intermediate/hard to learn, easy to use.

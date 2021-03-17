@@ -4,22 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "03d0375a7ee29b8d",
+        "id": "7b5a18bf55af1663",
         "type": "leaf",
-        "dimension": 47.4025974025974,
         "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Chat Interview with Licat about Community Building in Obsidian.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "eda4e55d900e2c05",
-        "type": "leaf",
-        "dimension": 52.5974025974026,
         "state": {
           "type": "markdown",
           "state": {
@@ -53,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blockquote",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -235,14 +222,14 @@
   },
   "lastOpenFiles": [
     "Chat Interview with Licat about Community Building in Obsidian.md",
-    "GuidedTrack Live Preview.md",
-    "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
-    "GuidedTrack.md",
     "GuidedTrack Toolbar.md",
-    "GuidedTrack live preview.md",
+    "Overcome a low floor to gain access to high ceiling.md",
+    "Adoption requires a baseline of user involvement in order to overcome inertia.md",
+    "Eventually user skill level will reach the limitations of the software.md",
+    "Potential blog posts.md",
+    "Apps with continued user involvement are responsive to increasing skill levels over time.md",
+    "My role as a consultant.md",
     "How we address GuidedTrack's key failure states.md",
-    "GuidedTrack toolbar.md",
-    "Initial Research on GuidedTrack.md",
-    "Freewrite.md"
+    "GuidedTrack Live Preview.md"
   ]
 }

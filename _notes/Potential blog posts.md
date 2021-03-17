@@ -6,8 +6,6 @@ Things to do with bro Colli and chocolate
 
 There is a trend where Apps built for power users go from having a more complex GUI to having a minimal interface that lets the user control things seamlessly. [[Removing GUI elements as the user's skill level increases]]
 
-UX pattern about going from a lot of GUI to a no bs layout 
-
 What is an app built for learnability?
 
 Tacit knowledge common in Readmes and that programmers in general take for granted 
@@ -52,6 +50,8 @@ One of the hardest things about studying online communities, especially if you'r
 
 What is so appealing about Emacs? What do they do that's cool?
 * Basically I like their window management, bookmarks, and Dired with all of the search and type to navigate
+
+
 * What would a new Emacs look like? Why is it necessary?
 	* It’s a great project to learn to code- use a better language
 	* Things could be way prettier

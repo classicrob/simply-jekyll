@@ -39,8 +39,6 @@ Very quickly we noticed that users were helping each other out when we weren't a
 
 So we identified a few who were actively helping others and started a **moderators** group.
 
-My canned message for **moderators** goes as follows: Hey, just reaching out to ask if you'd be interested in being a moderator for the **Discord**. You've been helpful to many users already and I feel like the mod team would love to have you onboard. Also want to let you know we're not expecting specific time commitment, you can stick to your own schedule and only help out when you have time!
-
 As gratitude for their efforts helping with managing the community, we gave our moderators a private mods-only channel where we actively talk, our mods gets access to the more raw insider builds, they have a bigger weight than the average user in deciding what we do next.
 
 Soon our mods each took interest in different parts of the community - some preferred engaging on the forum more, some preferred to stick with **Discord**.
@@ -98,6 +96,10 @@ Hmm. Ideally, **moderators** participate as a regular community member most of t
 
 Naturally, **moderators** (us included) participate more in the discussions, so our messages will show up more often. Users will pick up the tone and vibe, and adjust theirs to fit in
 
+Those who set themselves apart in a negative way usually gets less chance of a reply to their questions, or sometimes multiple users will stand up to help them adjust the tone.
+
+More severe cases can get a warning from a moderator, but I think we've only had to do it 3-4 times so far.
+
 **Robert Haisfield**
 
 Do people up their participation when they become **moderators**?
@@ -105,10 +107,6 @@ Do people up their participation when they become **moderators**?
 **Licat**
 
 Sometimes. We explicitly tell our **moderators** not to burn out from their roles, and only contribute when it works well within their schedules.
-
-Those who set themselves apart in a negative way usually gets less chance of a reply to their questions, or sometimes multiple users will stand up to help them adjust the tone.
-
-More severe cases can get a warning from a moderator, but I think we've only had to do it 3-4 times so far.
 
 **Robert Haisfield**
 
