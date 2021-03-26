@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Building Community in Obsidian with Licat.md",
+            "file": "Provide a smooth learning curve from new user to power user.md",
             "mode": "source"
           }
         }
@@ -62,39 +62,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0bd96adb9b959e81",
+        "id": "1b43995631560c48",
         "type": "tabs",
         "children": [
           {
-            "id": "b903d3635cb89561",
+            "id": "cd42d07cb3e54005",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "backlink",
               "state": {
-                "file": "Interstitial journal.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "ce0cba56f329fc19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Start Here.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "005ce20fc532a959",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Case study of GuidedTrack Onboarding Scratchpad.md",
-                "mode": "source"
+                "file": "Provide a smooth learning curve from new user to power user.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -104,132 +86,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Building Community in Obsidian with Licat.md"
+                "file": "Provide a smooth learning curve from new user to power user.md"
               }
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "1b43995631560c48",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d9aa40a84cc7847d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "There is no curriculum that encompasses everything you should know.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "75138e71b7e41930",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How we can work together.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "cd42d07cb3e54005",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Building Community in Obsidian with Licat.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "fd1f169e0b02550b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "62dd1bcc39a542b8",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Case Study of GuidedTrack Onboarding.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1.38585737179487,
-                  "lineSizeMultiplier": 5,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 13.886217948718,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.8602191613978543,
-                  "close": false
-                }
-              }
-            },
-            "group": "5bba40e1abf25def"
-          }
-        ]
-      },
-      {
-        "id": "d43c04e5e9253519",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5843b9f56d8c001a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Case Study of GuidedTrack Onboarding.md",
-                "mode": "source"
-              }
-            },
-            "group": "5bba40e1abf25def"
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 332,
-    "collapsed": true
+    "width": 332
   },
   "lastOpenFiles": [
-    "Chat Interview with Licat about Community Building in Obsidian.md",
+    "Provide a smooth learning curve from new user to power user.md",
+    "GuidedTrack Live Preview.md",
     "GuidedTrack Toolbar.md",
+    "Building Community in Obsidian with Licat.md",
+    "Chat Interview with Licat about Community Building in Obsidian.md",
     "Overcome a low floor to gain access to high ceiling.md",
     "Adoption requires a baseline of user involvement in order to overcome inertia.md",
     "Eventually user skill level will reach the limitations of the software.md",
     "Potential blog posts.md",
-    "Apps with continued user involvement are responsive to increasing skill levels over time.md",
-    "My role as a consultant.md",
-    "How we address GuidedTrack's key failure states.md",
-    "GuidedTrack Live Preview.md"
+    "Apps with continued user involvement are responsive to increasing skill levels over time.md"
   ]
 }
