@@ -43,6 +43,8 @@ What if "type" didn't even come up as an autocompletion option if it wasn't inde
 
 While we don't have a true command palette, we're working on a search bar that will pull up code snippets, help documentation, and relevant toolbar sections. Now users can read anything they are unfamiliar with, plug a search term into the search bar, and find out what it is and how it works. Additionally, if they know which command they want to use but don't know how to write it on their own, they can pull up a toolbar form from this search bar, providing a speed increase over the multi-click oriented user flow they had before.
 
+Something interesting to note about the Superhuman command palette is that it shows all of the keyboard shortcuts you could have used instead for an even faster experience.
+
 ![command K in SuperHuman](/assets/blogpics/CmdK-Superhuman.gif)
 
 Also related - [[End-user scripting enables creative workarounds]] as another ramp-up in skill level. I'd love to see more command palettes enable end-user scripting, and then community forums to share those scripts. 
