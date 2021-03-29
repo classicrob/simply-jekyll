@@ -31,7 +31,7 @@ People with prior programming experience know that fixing error codes is just a 
 
 For the context of onboarding, there were a few key failure states to pay attention to:
 
-* Not knowing how to write the code the user is envisioning ^272ce4
+* Not knowing how to write the code the user is envisioning
 * Seeing a blank page and not knowing what to put on it
 * Running syntactically incorrect code and seeing an error code (or worse, many errors!)
 * Running syntactically correct code and finding that the code doesn't produce the expected outcomes.

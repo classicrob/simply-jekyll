@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Provide a smooth learning curve from new user to power user.md",
+            "file": "Initial Research on GuidedTrack.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "272ce4",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205,
-    "collapsed": true
+    "width": 205
   },
   "right": {
     "id": "b4a22675225d2ddf",
@@ -71,10 +70,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Provide a smooth learning curve from new user to power user.md",
+                "file": "Initial Research on GuidedTrack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -86,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Provide a smooth learning curve from new user to power user.md"
+                "file": "Initial Research on GuidedTrack.md"
               }
             }
           }
@@ -97,15 +98,15 @@
     "width": 332
   },
   "lastOpenFiles": [
+    "Initial Research on GuidedTrack.md",
+    "Overcome a low floor to gain access to high ceiling.md",
     "Provide a smooth learning curve from new user to power user.md",
     "GuidedTrack Live Preview.md",
     "GuidedTrack Toolbar.md",
     "Building Community in Obsidian with Licat.md",
     "Chat Interview with Licat about Community Building in Obsidian.md",
-    "Overcome a low floor to gain access to high ceiling.md",
     "Adoption requires a baseline of user involvement in order to overcome inertia.md",
     "Eventually user skill level will reach the limitations of the software.md",
-    "Potential blog posts.md",
-    "Apps with continued user involvement are responsive to increasing skill levels over time.md"
+    "Potential blog posts.md"
   ]
 }
