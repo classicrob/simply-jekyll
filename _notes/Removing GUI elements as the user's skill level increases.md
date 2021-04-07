@@ -16,7 +16,7 @@ I recently saw a post on LinkedIn where someone shared a five page PDF filled wi
 
 ![](/assets/blogpics/ExcelMinimalistGUI.png)
 
-In [[GuidedTrack]], you start out using the toolbar and filling out forms that generate code for you based on your inputs. Eventually, you're just writing the code yourself.
+In [[GuidedTrack]], you start out using the [[GuidedTrack Toolbar]] and filling out forms that generate code for you based on your inputs. Eventually, you're just writing the code yourself.
 
 ![](/assets/blogpics/GuidedTrackToolbarQuestion.png)
 
