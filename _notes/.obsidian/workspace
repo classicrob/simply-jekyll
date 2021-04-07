@@ -4,13 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7b5a18bf55af1663",
+        "id": "1a0bd142ce86a90b",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Initial Research on GuidedTrack.md",
+            "file": "End-user scripting enables creative workarounds.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ad46b46b27f7555d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Learnable programming.md",
             "mode": "source"
           }
         }
@@ -40,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "272ce4",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Initial Research on GuidedTrack.md",
+                "file": "Learnable programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Initial Research on GuidedTrack.md"
+                "file": "Learnable programming.md"
               }
             }
           }
@@ -97,16 +107,17 @@
     "direction": "horizontal",
     "width": 332
   },
+  "active": "ad46b46b27f7555d",
   "lastOpenFiles": [
+    "Learnable programming.md",
+    "End-user scripting enables creative workarounds.md",
+    "Potential blog posts.md",
     "Initial Research on GuidedTrack.md",
     "Overcome a low floor to gain access to high ceiling.md",
     "Provide a smooth learning curve from new user to power user.md",
     "GuidedTrack Live Preview.md",
     "GuidedTrack Toolbar.md",
     "Building Community in Obsidian with Licat.md",
-    "Chat Interview with Licat about Community Building in Obsidian.md",
-    "Adoption requires a baseline of user involvement in order to overcome inertia.md",
-    "Eventually user skill level will reach the limitations of the software.md",
-    "Potential blog posts.md"
+    "Chat Interview with Licat about Community Building in Obsidian.md"
   ]
 }

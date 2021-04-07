@@ -1,11 +1,11 @@
 ---
 title: End-user scripting enables creative workarounds
 ---
-[[User skill level increases over time]], and people with high [[User Involvement]] understand your app’s core mechanisms so well that, when they face a new problem, they are able to come up with creative workarounds by rubber-banding multiple actions together. It's not uncommon for a new user to request a feature, and then have a more experienced user to mention that their request is already possible if they do X, Y, and Z things together, but the best the experienced user can do is recommend that sequence of steps.
+[[User skill level increases over time]], and people with high [[User Involvement]] understand your app’s core mechanisms so well that, when they face a new problem, they are able to come up with creative workarounds by rubber-banding multiple actions together. It's not uncommon for a new user to request a feature, and then have a more experienced user mention that their request is already possible if they do X, Y, and Z things together, but the best the experienced user can do is recommend that sequence of steps.
 
 It’s probably not uncommon for your users to have series of behaviors that they repeat frequently. [Joel Chan](https://twitter.com/JoelChan86), when writing in Roam, often writes both a block reference and a reference to the page the block was on in the same bullet. [Maxim Leyzerovich](https://twitter.com/round) often creates a “Table of Contents” for himself in Figma, where he turns a frame into a component, duplicates it, drags it over to his ToC location, and then shrinks it. I like to copy a link to a frame in Figma and place it as hyperlinked text elsewhere to create “portals” around my Figma files.
 
-Advanced functionalities can be pieced together from sequences of less advanced functionalities, but sometimes there are so many steps that it's not worth the effort! What if it was easy for users to collapse those sequences of actions into just one action that they could call at any point? The ability to script these actions together and call that script would be an act of effort-saving kindness.
+Advanced functionalities can be pieced together from sequences of less advanced functionalities, but sometimes there are so many steps that it's not worth the effort! What if it was easy for users to collapse those sequences of actions into just one action that they could call at any point? The ability to script these actions together and call that script would be an act of effort-saving kindness. It would be a big win for [[Learnable programming]].
 
 ### Some possible UX mechanisms for enabling this:
 

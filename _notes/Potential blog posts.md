@@ -2,6 +2,10 @@ My choice between using Whimsical vs. Figma. It's a little bit lower floor, but 
 
 My RoamGames submission and what's conceptually interesting about it
 
+Theories of everythign
+
+RCTs aren't always the answer
+
 Things to do with bro Colli and chocolate 
 
 There is a trend where Apps built for power users go from having a more complex GUI to having a minimal interface that lets the user control things seamlessly. [[Removing GUI elements as the user's skill level increases]]
