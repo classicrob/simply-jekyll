@@ -1,7 +1,7 @@
 ---
 title: Why isn't FigJam on the same canvas type as Figma Prime?
 ---
-If I were Figma, I would have designed FigJam as an on-ramp to Figma. I like to [[Provide a smooth learning curve from new user to power user]] through [[Continuous onboarding]] (rather than attempting to frontload all of the education on a [[Horizontal product]]). I probably would have compromised just a bit on ease of initial use to ensure that using FigJam would help instill some of the basic mental models for Figma. New users get started with FigJam to have a faster whiteboarding experience, but [[User skill level increases over time]]. Through progressive disclosure, we expose new users to advanced functionality as they demonstrate their readiness. Alternatively, I would have provided an escape hatch to full Figma functionality within FigJam boards.
+If I were Figma, I would have designed FigJam as an on-ramp to Figma. I like to [[Provide a smooth learning curve from new user to power user]] through [[Continuous onboarding]] (rather than attempting to frontload all of the education on a [[Horizontal product]]). I probably would have compromised just a bit on ease of initial use to ensure that using FigJam would help instill some of the basic mental models for Figma. New users get started with FigJam to have a faster whiteboarding experience, but [[User skill level increases over time]]. Through progressive disclosure, we expose new users to advanced functionality as they demonstrate their readiness. Alternatively, I would have provided an escape hatch to full Figma functionality within FigJam boards. This would allow FigJam to be a separate safe space for people who would be intimidated by Figma's full features, but still enable people to ramp up when they hit the ceiling of what FigJam can do.
 
 However, I am not them, and I did not participate in any of their product research. I thought it would be a good exercise to think through why they might have made this decision.
 
@@ -15,9 +15,9 @@ Since drafting this note, a couple people from the team have responded to my que
 
 > We wanted to make sure we really treated FigJam as a separate tool for a separate audience. Now that its personality is starting to shape up, we will think about how to best merge those experiences together in an appropriate way.
 
-This seems logical. I mentioned earlier that I probably would have made design decisions such that FigJam imparts the basic mental models of Figma onto its users. It sounds like the people working on FigJam didn't want to be tied to Figma's decisions given that the user base will include even more non-designers.
+This seems logical. I mentioned earlier that I probably would have made design decisions such that FigJam imparts the basic mental models of Figma onto its users. It sounds like the people working on FigJam didn't want to be tied to Figma's decisions given that the user base will include even more non-designers. It seems like they were trying to solve a few problems: meetings, brainstorming, and receiving design feedback from people who aren't familiar with design tools.
 
-[Emily Lin](https://twitter.com/22Emilylin) mentioned to me on ProductHunt:
+[Emily Lin](https://twitter.com/eymlin?s=20) mentioned to me on ProductHunt:
 
 > One of our top priorities was to make FigJam a really easy tool for anyone, not just people who are familiar with design tools, to use, since ideation and brainstorming happens with entire teams. This led us to a separate and simplified space that puts the focus on the content and ideas. That being said, we believe there’s a lot more we can do to take advantage of the Figma<>FigJam relationship and are thinking a ton about this. Let me know if you have any specific thoughts! :)
 
