@@ -21,7 +21,7 @@ This seems logical. I mentioned earlier that I probably would have made design d
 
 > One of our top priorities was to make FigJam a really easy tool for anyone, not just people who are familiar with design tools, to use, since ideation and brainstorming happens with entire teams. This led us to a separate and simplified space that puts the focus on the content and ideas. That being said, we believe there’s a lot more we can do to take advantage of the Figma<>FigJam relationship and are thinking a ton about this. Let me know if you have any specific thoughts! :)
 
-Here are my thoughts :-)
+Here are my early thoughts :-)
 
 I will just add that the decision made by the team will actually make it a really solid workshop facilitation tool. Before I would just make a bunch of components in Figma (sticky notes, hacked together with frames and text with auto-layout), tell people to use those, and give them five minutes of instruction to teach them about the functionality needed to participate. With FigJam, I can cut that down to two minutes.
 
