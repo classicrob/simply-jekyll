@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1a0bd142ce86a90b",
+        "id": "7b5a18bf55af1663",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Why isn't FigJam on the same canvas type as Figma Prime?.md",
+            "file": "Overcome a low floor to gain access to high ceiling.md",
             "mode": "source"
           }
         }
@@ -53,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205
+    "width": 205,
+    "collapsed": true
   },
   "right": {
     "id": "b4a22675225d2ddf",
@@ -69,12 +71,10 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why isn't FigJam on the same canvas type as Figma Prime?.md",
+                "file": "Overcome a low floor to gain access to high ceiling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why isn't FigJam on the same canvas type as Figma Prime?.md"
+                "file": "Overcome a low floor to gain access to high ceiling.md"
               }
             }
           }
@@ -96,17 +96,16 @@
     "direction": "horizontal",
     "width": 332
   },
-  "active": "1a0bd142ce86a90b",
   "lastOpenFiles": [
-    "Why isn't FigJam on the same canvas type as Figma Prime?.md",
-    "Why I love interoperability.md",
-    "Obsidian.md",
-    "End-user scripting enables creative workarounds.md",
-    "Jay Dixit Obsidian.md",
-    "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
-    "Removing GUI elements as the user's skill level increases.md",
+    "Overcome a low floor to gain access to high ceiling.md",
     "Provide a smooth learning curve from new user to power user.md",
-    "Learnable programming.md",
-    "Potential blog posts.md"
+    "GuidedTrack Live Preview.md",
+    "GuidedTrack Toolbar.md",
+    "Building Community in Obsidian with Licat.md",
+    "Chat Interview with Licat about Community Building in Obsidian.md",
+    "Adoption requires a baseline of user involvement in order to overcome inertia.md",
+    "Eventually user skill level will reach the limitations of the software.md",
+    "Potential blog posts.md",
+    "Apps with continued user involvement are responsive to increasing skill levels over time.md"
   ]
 }
