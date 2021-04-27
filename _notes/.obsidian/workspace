@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Why isn't FigJam on the same canvas type as Figma Prime?.md",
+            "file": "Hyper learning.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why isn't FigJam on the same canvas type as Figma Prime?.md",
+                "file": "Hyper learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why isn't FigJam on the same canvas type as Figma Prime?.md"
+                "file": "Hyper learning.md"
               }
             }
           }
@@ -98,6 +98,7 @@
   },
   "active": "1a0bd142ce86a90b",
   "lastOpenFiles": [
+    "Hyper learning.md",
     "Why isn't FigJam on the same canvas type as Figma Prime?.md",
     "End-user scripting enables creative workarounds.md",
     "Jay Dixit Obsidian.md",
@@ -106,7 +107,6 @@
     "Provide a smooth learning curve from new user to power user.md",
     "Learnable programming.md",
     "Potential blog posts.md",
-    "Initial Research on GuidedTrack.md",
-    "Overcome a low floor to gain access to high ceiling.md"
+    "Initial Research on GuidedTrack.md"
   ]
 }
