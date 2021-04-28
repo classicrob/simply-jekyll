@@ -4,7 +4,7 @@ status: inProgress
 ---
 *This likely won't be going to be the final version of this post.*
 
-Hyper learning is a coinage for the deliberate practice of maximizing one's comparative advantages through interdisciplinary thinking, varied practice, and collaboration. It’s about being a generalist within the somewhat narrow domain of your biggest strengths. Hyper learners grow at a faster rate than siloed learners because everything they have learned in the past can connect to their present thinking, creating a compounding effect over time. 
+Hyper learning is a coinage for the deliberate practice of maximizing one's comparative advantages through interdisciplinary thinking, varied practice, and collaboration. It’s about being a generalist within the somewhat narrow domain of your biggest strengths.
 
 **Hyper learning is basically the thesis of my career path.**
 
