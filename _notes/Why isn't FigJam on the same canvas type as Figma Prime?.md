@@ -28,3 +28,5 @@ I will just add that the decision made by the team will actually make it a reall
 I suppose that's part of why I would be willing to compromise just a bit on immediate intuitiveness to build general Figma mental models - if I'm already making components ahead of time, the difference in what non-designer participants need to learn isn't that high anyway. However, if they just upgraded Figma and made FigJam type functionality the initial experience for many users, then everybody would be better off from a quicker way to get material onto the whiteboard and interact with each other in real time.
 
 I'll also add that someone discovered that you can copy-paste connector lines from FigJam to Figma (something I was previously using Autoflow for but that was brittle), so perhaps the interoperability between the two runs deeper than I thought.
+
+At the end of the day, I get their decision and think it's reasonable, but still disagree.
