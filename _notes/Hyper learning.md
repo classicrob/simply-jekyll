@@ -4,13 +4,13 @@ status: inProgress
 ---
 *This likely won't be going to be the final version of this post.*
 
-Hyper learning is a coinage for the deliberate practice of maximizing one's comparative advantages through interdisciplinary thinking, varied practice, and collaboration. It’s about being a generalist within the somewhat narrow domain of your biggest strengths.
+Hyper learning is a coinage for learning through portfolio effects and feedback loops. It's about interdisciplinary thinking, varied collaboration, and collaboration according to comparative advantage.
 
 **Hyper learning is basically the thesis of my career path.**
 
-The term is inspired by what [[Writing in hypertext]] has done for my thinking, allowing me to connect ideas frequently, as well as the intensity that comes from directing interdisciplinary thinking towards your greatest strengths. It generally happens at a quicker pace than siloed learning by way of more fully integrating past, present, and future experience.
+The term is inspired by what [[Writing in hypertext]] has done for my thinking, allowing me to connect, separate, and compress ideas, as well as the intensity that comes from directing interdisciplinary thinking towards your greatest strengths. It generally happens at a quicker pace than siloed learning by way of more fully integrating past, present, and future experience.
 
-There is a lot of crossover between hyper learning and [the psychology of expert intuition](https://twitter.com/RobertHaisfield/status/1331810768866557954), particularly [Naturalistic Decision Making Theory.](https://twitter.com/RobertHaisfield/status/1324475957390966784)
+Hyper learning is a great way to [develop taste](http://www.visakanv.com/blog/smart-writing/) and intuitive expertise. See some of my writing on [the psychology of expert intuition broadly](https://twitter.com/RobertHaisfield/status/1331810768866557954), particularly [Naturalistic Decision Making Theory](https://twitter.com/RobertHaisfield/status/1324475957390966784).
 
 It’s very rare that someone would count as a fully siloed learner. Even working within one company, people will have varied experiences, and they will naturally learn from connecting the dots because that’s just what people do. They may work on one project and unconsciously remember a past similar project to build on. While these sorts of processes form the basis of learning more generally, this is not hyper learning, because hyper learning is a deliberate practice.
 
