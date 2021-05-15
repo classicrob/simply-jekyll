@@ -5,9 +5,7 @@ title: Domain-specific languages as end-user software
 
 Working on [[GuidedTrack]], I have become very interested in this concept of [[DSLs as applications]]. GuidedTrack does this interesting thing where the functions are so high level that it's fairly plug and play to make a research study, form, or choose-your-own-adventure story.
 
-![little preview of what you can do in GuidedTrack](/assets/blogpics/debugger-lite.gif)
-
-![little preview of what you can do in GuidedTrack](/assets/blogpics/debugger-lite.gif)
+![little preview of what you can do in GuidedTrack](/assets/blogpics/debugger-lite1.gif)
 
 You can even write your code in a structured editor that lets you fill out a form to generate your code for you. As you get more familiar with the language, you don't need it as much, but it helps people write code before they know how.
 
