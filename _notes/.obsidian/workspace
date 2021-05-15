@@ -6,7 +6,7 @@
       {
         "id": "1a0bd142ce86a90b",
         "type": "leaf",
-        "dimension": 16.712141882673944,
+        "dimension": 32.19448094612353,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,11 +18,11 @@
       {
         "id": "1fef0c211e8f32c8",
         "type": "leaf",
-        "dimension": 21.487039563437925,
+        "dimension": 41.39290407358739,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Domain-specific languages as end-user software.md",
+            "file": "Why I'm learning Clojure.md",
             "mode": "source"
           }
         }
@@ -30,23 +30,11 @@
       {
         "id": "6ef2280639043bdb",
         "type": "leaf",
-        "dimension": 13.710777626193723,
+        "dimension": 26.412614980289096,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Direct functions and end-user programming.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "dca64bf536929a1e",
-        "type": "leaf",
-        "dimension": 48.0900409276944,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "How I'm learning Clojure.md",
             "mode": "source"
           }
         }
@@ -107,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How I'm learning Clojure.md",
+                "file": "Why I'm learning Clojure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How I'm learning Clojure.md"
+                "file": "Why I'm learning Clojure.md"
               }
             }
           }
@@ -134,15 +122,15 @@
     "direction": "horizontal",
     "width": 228.53775024414062
   },
-  "active": "dca64bf536929a1e",
+  "active": "1fef0c211e8f32c8",
   "lastOpenFiles": [
-    "How I'm learning Clojure.md",
-    "Direct functions and end-user programming.md",
-    "What I like about Clojure.md",
+    "Why I'm learning Clojure.md",
     "Domain-specific languages as end-user software.md",
+    "Direct functions and end-user programming.md",
+    "How I'm learning Clojure.md",
+    "What I like about Clojure.md",
     "Clojure.md",
     "Short functions and end-user programming.md",
-    "Why I'm learning Clojure.md",
     "The data-driven programming mental model.md",
     "Clojure is programmed to abstractions.md",
     "Christopher Small.md"
