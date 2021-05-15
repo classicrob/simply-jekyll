@@ -6,7 +6,7 @@
       {
         "id": "1a0bd142ce86a90b",
         "type": "leaf",
-        "dimension": 26.179084073820917,
+        "dimension": 26.279863481228674,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,7 +18,7 @@
       {
         "id": "1fef0c211e8f32c8",
         "type": "leaf",
-        "dimension": 39.78127136021873,
+        "dimension": 35.42662116040955,
         "state": {
           "type": "markdown",
           "state": {
@@ -30,11 +30,23 @@
       {
         "id": "6ef2280639043bdb",
         "type": "leaf",
-        "dimension": 34.03964456596035,
+        "dimension": 19.146757679180887,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Domain-specific languages as end-user software.md",
+            "file": "Direct functions and end-user programming.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "3d02d3817e2958b9",
+        "type": "leaf",
+        "dimension": 19.146757679180887,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Wade Dominic.md",
             "mode": "source"
           }
         }
@@ -95,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain-specific languages as end-user software.md",
+                "file": "Wade Dominic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain-specific languages as end-user software.md"
+                "file": "Wade Dominic.md"
               }
             }
           }
@@ -122,17 +134,17 @@
     "direction": "horizontal",
     "width": 228.53775024414062
   },
-  "active": "6ef2280639043bdb",
+  "active": "3d02d3817e2958b9",
   "lastOpenFiles": [
+    "Wade Dominic.md",
+    "Direct functions and end-user programming.md",
     "Domain-specific languages as end-user software.md",
+    "How I'm learning Clojure.md",
     "Why I'm learning Clojure.md",
     "Clojure.md",
-    "Direct functions and end-user programming.md",
-    "How I'm learning Clojure.md",
     "What I like about Clojure.md",
     "Short functions and end-user programming.md",
     "The data-driven programming mental model.md",
-    "Clojure is programmed to abstractions.md",
-    "Christopher Small.md"
+    "Clojure is programmed to abstractions.md"
   ]
 }
