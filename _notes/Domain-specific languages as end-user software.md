@@ -17,7 +17,7 @@ Then we give people control flow options on top these easy to use functions. You
 
 The syntax is simple. Each line is it's own thing, and relationships are conveyed through indentation. In order to add a caption to an image, you indent a caption under the image. In order to ask a follow-up question, you can either save the user's response to a variable to use later in an if-statement, or **you can just indent the follow-up underneath the previous answer.**
 
-![[Pasted image 20210515075052.png]]
+![indentation-in-guidedtrack](/assets/blogpics/guided-track-indentation.png)
 
 So here's what we've got so far:
 - A bunch of high level functions that make it easy for researchers, entrepreneurs, and educators to do what they want. Questions, media, randomization, charts, etc. where they just fill in the blank.
