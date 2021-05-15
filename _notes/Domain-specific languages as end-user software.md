@@ -7,6 +7,8 @@ Working on [[GuidedTrack]], I have become very interested in this concept of [[D
 
 ![little preview of what you can do in GuidedTrack](/assets/blogpics/debugger-lite.gif)
 
+![little preview of what you can do in GuidedTrack](/assets/blogpics/debugger-lite.gif)
+
 You can even write your code in a structured editor that lets you fill out a form to generate your code for you. As you get more familiar with the language, you don't need it as much, but it helps people write code before they know how.
 
 ![editing an image in the toolbar](/assets/blogpics/guidedtrack-image-toolbar.png)

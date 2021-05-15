@@ -11,9 +11,9 @@ Additionally, my work on [[GuidedTrack]] has led me to become fascinated with en
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just tryna squeeze my ignorance for everything it&#39;s worth. <br><br>To paraphrase <a href="https://twitter.com/dela3499?ref\_src=twsrc%5Etfw">@dela3499</a>: &quot;Try to capture your present viewpoint as precisely as you can before you gain expertise.&quot;<br><br>I&#39;m heavily documenting my experience learning Clojure.<a href="https://t.co/4LZHa52Rj0">https://t.co/4LZHa52Rj0</a></p>&mdash; Robert Haisfield (@RobertHaisfield) <a href="https://twitter.com/RobertHaisfield/status/1392939442470486016?ref\_src=twsrc%5Etfw">May 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I tried learning on my own, but struggled to stay motivated so I posted on Twitter asking about Clojure tutors or if anyone in my network was generally willing to help me. [Tasshin Fogleman](https://twitter.com/tasshinfogleman) sent me a direct message and offered to send me a bunch of his books. 
+I tried learning on my own, but struggled to stay motivated so I posted on Twitter asking about Clojure tutors or if anyone in my network was generally willing to help me. [[Tasshin Fogleman]] sent me a direct message and offered to send me a bunch of his books. 
 
-![books-and-note-sent-by-tasshin](/assets/blogpics/tasshin-fogleman-gift-of-lisp.png)
+![books-and-note](/assets/blogpics/tasshin-gift-of-lisp.png)
 
 I was overwhelmed by his kindness and decided that if someone was willing to send me all of these great books to help me get started, I should go ahead and get started.
 
