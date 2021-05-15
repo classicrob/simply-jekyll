@@ -6,7 +6,7 @@
       {
         "id": "1a0bd142ce86a90b",
         "type": "leaf",
-        "dimension": 16.575716234652116,
+        "dimension": 16.712141882673944,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,7 +18,7 @@
       {
         "id": "1fef0c211e8f32c8",
         "type": "leaf",
-        "dimension": 30.081855388813096,
+        "dimension": 21.487039563437925,
         "state": {
           "type": "markdown",
           "state": {
@@ -30,7 +30,7 @@
       {
         "id": "6ef2280639043bdb",
         "type": "leaf",
-        "dimension": 23.192360163710777,
+        "dimension": 13.710777626193723,
         "state": {
           "type": "markdown",
           "state": {
@@ -42,11 +42,11 @@
       {
         "id": "dca64bf536929a1e",
         "type": "leaf",
-        "dimension": 30.15006821282401,
+        "dimension": 48.0900409276944,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "What I like about Clojure.md",
+            "file": "How I'm learning Clojure.md",
             "mode": "source"
           }
         }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What I like about Clojure.md",
+                "file": "How I'm learning Clojure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What I like about Clojure.md"
+                "file": "How I'm learning Clojure.md"
               }
             }
           }
@@ -136,11 +136,11 @@
   },
   "active": "dca64bf536929a1e",
   "lastOpenFiles": [
+    "How I'm learning Clojure.md",
+    "Direct functions and end-user programming.md",
     "What I like about Clojure.md",
     "Domain-specific languages as end-user software.md",
-    "How I'm learning Clojure.md",
     "Clojure.md",
-    "Direct functions and end-user programming.md",
     "Short functions and end-user programming.md",
     "Why I'm learning Clojure.md",
     "The data-driven programming mental model.md",

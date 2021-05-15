@@ -52,8 +52,8 @@ Basically anything by [[Eric Normand]]. His videos on functional programming are
 [Leiningen](https://leiningen.org/): Okay so this was the weirdest part for me. A few things to remember: `lein new app "name"` is how you create a new Clojure project. The name should all be lower case. In order to use a library, go to your project.clj file, add `[library "version-number"]` to :dependencies like how you see below, and then add it to your namespace in your core.clj file following instructions on how to do that. If you don't add it to your dependencies first you'll get an error message about it not being in your classpath or something. After you add it to your dependencies, go to your terminal, write `cd project/file/path`, and then write `lein repl`. Leiningen will download the dependencies for you. I spent like 3 or 4 hours trying to figure this out before Brian helped me figure this out.
 
 ```clojure
-:dependencies [[org.clojure/clojure "1.10.1"]
-               [datascript "1.1.0"]]
+:dependencies [ [org.clojure/clojure "1.10.1"]
+                [datascript "1.1.0"]]
 ```
 
 Your namespace should look something like this:
