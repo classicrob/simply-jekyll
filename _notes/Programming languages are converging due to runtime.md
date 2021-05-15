@@ -1,7 +1,7 @@
 ---
 title: Programming languages are converging due to runtime
 ---
-I recently sent [James Lu](https://twitter.com/someone10987507) this fascinating video by "Uncle Bob" and asked him for his thoughts.
+I recently sent [[James Lu]] this fascinating video by "Uncle Bob" and asked him for his thoughts.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P2yr-3F6PQo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

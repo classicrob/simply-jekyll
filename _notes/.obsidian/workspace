@@ -6,10 +6,47 @@
       {
         "id": "1a0bd142ce86a90b",
         "type": "leaf",
+        "dimension": 16.575716234652116,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hyper learning.md",
+            "file": "Clojure.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "1fef0c211e8f32c8",
+        "type": "leaf",
+        "dimension": 30.081855388813096,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Domain-specific languages as end-user software.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6ef2280639043bdb",
+        "type": "leaf",
+        "dimension": 23.192360163710777,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Direct functions and end-user programming.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "dca64bf536929a1e",
+        "type": "leaf",
+        "dimension": 30.15006821282401,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "What I like about Clojure.md",
             "mode": "source"
           }
         }
@@ -39,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "assets/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205
+    "width": 205,
+    "collapsed": true
   },
   "right": {
     "id": "b4a22675225d2ddf",
@@ -69,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hyper learning.md",
+                "file": "What I like about Clojure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hyper learning.md"
+                "file": "What I like about Clojure.md"
               }
             }
           }
@@ -94,19 +132,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332
+    "width": 228.53775024414062
   },
-  "active": "1a0bd142ce86a90b",
+  "active": "dca64bf536929a1e",
   "lastOpenFiles": [
-    "Hyper learning.md",
-    "Why isn't FigJam on the same canvas type as Figma Prime?.md",
-    "End-user scripting enables creative workarounds.md",
-    "Jay Dixit Obsidian.md",
-    "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
-    "Removing GUI elements as the user's skill level increases.md",
-    "Provide a smooth learning curve from new user to power user.md",
-    "Learnable programming.md",
-    "Potential blog posts.md",
-    "Initial Research on GuidedTrack.md"
+    "What I like about Clojure.md",
+    "Domain-specific languages as end-user software.md",
+    "How I'm learning Clojure.md",
+    "Clojure.md",
+    "Direct functions and end-user programming.md",
+    "Short functions and end-user programming.md",
+    "Why I'm learning Clojure.md",
+    "The data-driven programming mental model.md",
+    "Clojure is programmed to abstractions.md",
+    "Christopher Small.md"
   ]
 }
