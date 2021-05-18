@@ -3,7 +3,7 @@ title: Domain-specific languages as end-user software
 ---
 ### What I learned from GuidedTrack
 
-Working on [[GuidedTrack]], I have become very interested in this concept of [[DSLs as applications]]. GuidedTrack does this interesting thing where the functions are so high level that it's fairly plug and play to make a research study, form, or choose-your-own-adventure story.
+Working on [[GuidedTrack]], I have become very interested in this concept of domain-specific languages as applications. GuidedTrack does this interesting thing where the functions are so high level that it's fairly plug and play to make a research study, form, or choose-your-own-adventure story.
 
 ![little preview of what you can do in GuidedTrack](/assets/blogpics/debugger-lite1.gif)
 
@@ -18,6 +18,7 @@ Then we give people control flow options on top these easy to use functions. You
 The syntax is simple. Each line is it's own thing, and relationships are conveyed through indentation. In order to add a caption to an image, you indent a caption under the image. In order to ask a follow-up question, you can either save the user's response to a variable to use later in an if-statement, or **you can just indent the follow-up underneath the previous answer.**
 
 ![indentation-in-guidedtrack](/assets/blogpics/guided-track-indentation.png)
+*Can you picture what this program will look like as you read it?*
 
 So here's what we've got so far:
 - A bunch of high level functions that make it easy for researchers, entrepreneurs, and educators to do what they want. Questions, media, randomization, charts, etc. where they just fill in the blank.

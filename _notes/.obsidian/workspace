@@ -6,7 +6,7 @@
       {
         "id": "1a0bd142ce86a90b",
         "type": "leaf",
-        "dimension": 26.279863481228674,
+        "dimension": 26.364193746167995,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,11 +18,11 @@
       {
         "id": "1fef0c211e8f32c8",
         "type": "leaf",
-        "dimension": 35.42662116040955,
+        "dimension": 25.75107296137339,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Why I'm learning Clojure.md",
+            "file": "Domain-specific languages as end-user software.md",
             "mode": "source"
           }
         }
@@ -30,7 +30,7 @@
       {
         "id": "6ef2280639043bdb",
         "type": "leaf",
-        "dimension": 19.146757679180887,
+        "dimension": 28.877988963825874,
         "state": {
           "type": "markdown",
           "state": {
@@ -42,7 +42,7 @@
       {
         "id": "3d02d3817e2958b9",
         "type": "leaf",
-        "dimension": 19.146757679180887,
+        "dimension": 19.00674432863274,
         "state": {
           "type": "markdown",
           "state": {
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wade Dominic.md",
+                "file": "Domain-specific languages as end-user software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wade Dominic.md"
+                "file": "Domain-specific languages as end-user software.md"
               }
             }
           }
@@ -134,13 +134,13 @@
     "direction": "horizontal",
     "width": 228.53775024414062
   },
-  "active": "3d02d3817e2958b9",
+  "active": "1fef0c211e8f32c8",
   "lastOpenFiles": [
+    "Domain-specific languages as end-user software.md",
+    "Why I'm learning Clojure.md",
     "Wade Dominic.md",
     "Direct functions and end-user programming.md",
-    "Domain-specific languages as end-user software.md",
     "How I'm learning Clojure.md",
-    "Why I'm learning Clojure.md",
     "Clojure.md",
     "What I like about Clojure.md",
     "Short functions and end-user programming.md",
