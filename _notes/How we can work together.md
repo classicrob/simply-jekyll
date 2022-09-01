@@ -2,6 +2,11 @@
 title: How we can work together
 tags: BehavioralProductStrategy Adoption Retention
 ---
+
+I am no longer taking clients, as I am now a product manager (Growth and [[User Involvement]]) at [Tana](https://twitter.com/RobertHaisfield/status/1556773260246667264). However, I am leaving this up for historical reference.
+
+###############################################
+
 I'm flexible in the ways I work with clients. Below is not an exhaustive list of possibilities, though there are a few patterns that my engagements tend to follow. I generally work to improve adoption or retention through improving [[User Involvement]]. See: [[Designing for user involvement has positive effects on adoption, retention, and virality]]
 
 People who get to this point often like to see [[Testimonials]]. Here's one from Adam Taylor, CEO of Fabriq:

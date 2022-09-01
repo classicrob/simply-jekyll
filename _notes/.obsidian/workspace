@@ -1,53 +1,17 @@
 {
   "main": {
-    "id": "0348844056df6b31",
+    "id": "f23a07e26bd0460b",
     "type": "split",
     "children": [
       {
-        "id": "1a0bd142ce86a90b",
+        "id": "33072507dc998f14",
         "type": "leaf",
-        "dimension": 26.364193746167995,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Clojure.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "1fef0c211e8f32c8",
-        "type": "leaf",
-        "dimension": 25.75107296137339,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Domain-specific languages as end-user software.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "6ef2280639043bdb",
-        "type": "leaf",
-        "dimension": 28.877988963825874,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Direct functions and end-user programming.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "3d02d3817e2958b9",
-        "type": "leaf",
-        "dimension": 19.00674432863274,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Wade Dominic.md",
-            "mode": "source"
+            "file": "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -55,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f62f08b349a05ada",
+    "id": "18293d793f3d4f56",
     "type": "split",
     "children": [
       {
-        "id": "8316ccb112341d42",
+        "id": "06827d6159102929",
         "type": "tabs",
         "children": [
           {
-            "id": "3b4e0bfee6d18b4c",
+            "id": "298d115f4a771df3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -71,47 +35,107 @@
             }
           },
           {
-            "id": "3384d95559d14c17",
+            "id": "081245cb1a7dd140",
             "type": "leaf",
             "state": {
-              "type": "search",
-              "state": {
-                "query": "assets/",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "21d0b07c612ccdc3",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 205,
-    "collapsed": true
+    "width": 188
   },
   "right": {
-    "id": "b4a22675225d2ddf",
+    "id": "f74a49c264e0af6c",
     "type": "split",
     "children": [
       {
-        "id": "1b43995631560c48",
+        "id": "dd0240ad486b3234",
         "type": "tabs",
         "children": [
           {
-            "id": "cd42d07cb3e54005",
+            "id": "a3cb4eda8fd7add6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain-specific languages as end-user software.md",
+                "file": "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "byModifiedTime",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3c4ebc4911213f3d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Products are fundamentally voluntary.md"
+              }
+            }
+          },
+          {
+            "id": "7c73e858cd7df517",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "scratch editor",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "5511757303821f2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "abfc180c52094798",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4858f0cce977cb46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink-filter",
+              "state": {
+                "file": "Products are fundamentally voluntary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -119,32 +143,47 @@
             }
           },
           {
-            "id": "4e9f146b88cffad3",
+            "id": "1d9b2f5ff66086ea",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Domain-specific languages as end-user software.md"
-              }
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "2811a7b7181e1fa0",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "88a0fb80d24a2135",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 228.53775024414062
+    "width": 295.4999694824219,
+    "collapsed": true
   },
-  "active": "1fef0c211e8f32c8",
+  "active": "33072507dc998f14",
   "lastOpenFiles": [
-    "Domain-specific languages as end-user software.md",
-    "Why I'm learning Clojure.md",
-    "Wade Dominic.md",
-    "Direct functions and end-user programming.md",
-    "How I'm learning Clojure.md",
-    "Clojure.md",
+    "Onboarding Plan as Presented to GuidedTrack on 10-20-20.md",
+    "Products are fundamentally voluntary.md",
+    "Tracking your open questions in Roam.md",
+    "Learn by going up and down the ladder of abstraction.md",
     "What I like about Clojure.md",
-    "Short functions and end-user programming.md",
-    "The data-driven programming mental model.md",
-    "Clojure is programmed to abstractions.md"
+    "Clojure is programmed to abstractions.md",
+    "Fleeting Thoughts/2021-05-31-08-58.md",
+    "clojure.concepts.macro.thread-macros.thread-last.md",
+    "R- Clojure for the Brave and True.md",
+    "Learning Clojure and Lisp/Core Functions in Depth  Clojure for the Brave and True.md"
   ]
 }
