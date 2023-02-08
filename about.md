@@ -17,7 +17,7 @@ Welcome to my hypertext notebook. I've found hypertext as a medium to be incredi
 - Onboarding
   - [[The hard problem of onboarding horizontal products]]
   - [[Continuous onboarding]]
-  - [[Initial Plan for GuidedTrack Onboarding]] (case study)
+  - [[GuidedTrack]] (case study)
 - End-user Programming
   - [[Domain-specific languages as end-user software]]
   - [[End-user scripting enables creative workarounds]]
