@@ -5,10 +5,26 @@ layout: post
 permalink: /about
 ---
 
-Hi, I'm Rob Haisfield. I am now a product manager (Growth and [[User Involvement]]) at [Tana](https://twitter.com/RobertHaisfield/status/1556773260246667264). Previously, I performed research on [Scaling Synthesis](https://scalingsynthesis.com/) (viewable in [video format here](https://www.youtube.com/watch?v=enRYIUDRwWg) ).
+Welcome to my hypertext notebook. I've found hypertext as a medium to be incredibly liberating, and come with unique affordances. See [[Writing in hypertext]] for a primer on how to best consume this website. The majority of this website was written while I was working as a behavioral product strategy and gamification consultant, and has seen minimal updates since then. It discusses topics such as:
 
-Before that, I was an independent [[Behavioral Product Strategy]] and [[Gamification]] consultant. Much of this website was written at that point in time, so should be viewed in that context. [[Every app is designed for behavior change, intentionally or unintentionally]], and problems can generally be boiled down to "people are behaving differently than we hoped." **I empower you and your team to be intentional about how you shape your product to influence user behaviors.**
-
-**All you need to do is click on what is interesting.** This is a special trait of this website - by [[Writing in hypertext]], it is structured for both you and I to explore my thoughts. In a linear piece of writing, all ideas would be sequenced into one narrative. In my hypertext writing, the narrative is emergent and the ideas are associative.
-
-This website is an open notebook. The purpose of this is to share the ideas that I'm exploring and to think in public. This means that, unlike a traditional blog, I'm showcasing many ideas that are in development rather than complete. If you'd like to see more detail or have related thoughts, feel free to leave a comment or tweet at me [@RobertHaisfield](https://twitter.com/RobertHaisfield). For Tana related inquiries, please reach out at [rob@tana.inc](mailto:rob@tana.inc).  For other conversation, [hello@robhaisfield.com](mailto:hello@robhaisfield.com).
+- [[Behavioral Product Strategy]]
+  - [[User Involvement]]
+  - [[Designing for user involvement has positive effects on adoption, retention, and virality]]
+- Gamification
+  - [[Intentionally design for failure states]]
+  - [[Difficulty Matching]]
+  - [[Most gamification sucks]]
+- Onboarding
+  - [[The hard problem of onboarding horizontal products]]
+  - [[Continuous onboarding]]
+  - [[Initial Plan for GuidedTrack Onboarding]] (case study)
+- End-user Programming
+  - [[Domain-specific languages as end-user software]]
+  - [[End-user scripting enables creative workarounds]]
+- How I tend to work with clients
+  - [[How we can work together]]
+  - [[Use a badging system as a method of actionable user research]]
+- My personal journey
+  - [[Why I chose to consult rather than pursue a PhD]]
+  - [[Hyper learning]]
+  - [[About Me]]

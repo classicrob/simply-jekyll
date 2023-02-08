@@ -12,4 +12,4 @@ Another thing that I love about writing in hypertext is that I can express my th
 
 With hypertext writing, I'm designing this for curiosity.
 
-Yes, I understand the irony that this page is not densely linked elsewhere. Hypertext is a tool for me to express my thoughts moreso than something I try to spend too much time thinking about.
+Yes, I understand the irony that this page is not densely linked elsewhere. For more on tools for thought and their design, you might enjoy my other hypertext notebook, [Scaling Synthesis](https://scalingsynthesis.com/I-A-DSL-for-a-discourse-graph-with-information-entry-visualization-and-retrieval/).
