@@ -1,4 +1,7 @@
-Fabriq is a personal relationship management tool that enables users to be intentional about how they prioritize, track, and invest in the people close to users. You can add contacts to your inner, middle, or outer circle, set connection frequencies, and note down important details.
+---
+title: Designing for failure states in Fabriq
+---
+[[Fabriq]] is a personal relationship management tool that enables users to be intentional about how they prioritize, track, and invest in the people close to users. You can add contacts to your inner, middle, or outer circle, set connection frequencies, and note down important details. While working with them, our focus was on increasing retention. In order for users to gain value out of Fabriq, they must use the app as a means of personally scheduling who to talk to. In my behavioral audit, I therefore included a section about how to [[Intentionally design for failure states]].
 
 When you should connect with a person next is communicated through their touch-base timer, a circle around the contact's picture that is green when it's full, yellow when it's half-full, and red when it's close to empty.
 
@@ -9,7 +12,7 @@ Just imagine the emotional experience of the user at this point. They have a doz
 
 Our first solution is to give the user a fresh start if it reaches the point where most of the user's contacts are in the red. Fabriq will refresh all of the user's timers, removing the failure state, and take the user through a series of prompts to reduce the amount of social connections they need to make per week. This is to unburden the user from past mistakes, prompt the user to reduce their challenge, and prompt the user to make their next attempt with a different approach.
 
-- [ ] The fresh start effect is well-supported in the behavioral science literature as a method to recover from failure by making the user, unburdened by past imperfections, feel more capable and willing to take on aspirational goals.
+The [fresh start effect](https://www.psychologytoday.com/us/blog/ritual-and-the-brain/201811/the-unexpected-science-fresh-starts-and-failures) is well-supported in the behavioral science literature as a method to recover from failure by making the user, unburdened by past imperfections, feel more capable and willing to take on aspirational goals.
 
 What if we want to reduce the likelihood that a user gets to the point where most of their contacts are in the red in the first place? Before, when it was time for a user to reach out to one of their contacts, they had two choices: they could reach out or they could ignore the touch-base timer. Reaching out requires significant effort and ignoring the timer means the user has experienced a small failure.
 
