@@ -2,8 +2,11 @@
 # routing internally.
 [[redirects]]
   from = "/*"
-  to = "/about"
+  to = "/index.html"
   status = 200
+[[redirects]]
+  from = "/$"
+  to = "/about"
 [[headers]]
   # Define which paths this specific [[headers]] block will cover.
   for = "/*"
