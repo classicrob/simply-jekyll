@@ -38,7 +38,7 @@ Hollow Knight's designers wanted players to try again after failing. In order to
 
 [Celeste](http://www.celestegame.com/) is an extremely hard game.  You’re going to die a lot, so failure is made non-punishing and the end is generally in sight so you don’t get frustrated.  It’s expected that each life is not gonna last very long.  Repeated failure is the game designers attempt to clearly communicate what went wrong to the player so they can adjust their behavior and become better at the game.
 
-In this screenshot, when the player lands on the rectangular platform, the platform will move quickly on the gears and if they jump they'll go flying into the spikes.  They learn pretty quickly that momentum is conserved and that they should wait until the platform stops moving.
+In this screenshot, when the player lands on the rectangular platform, the platform will move quickly on the gears and if they jump they'll go flying into the spikes.  Importantly, when they die, they will respawn where the character is currently. Each room is short, so they can try again immediately. They learn pretty quickly that momentum is conserved and that they should wait until the platform stops moving.
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRob-Haisfield-Thinking-in-Public%2FTzlKnbU2Dz?alt=media&token=349df1d2-5241-4f2f-839c-507a037a7180)
 

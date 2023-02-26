@@ -21,7 +21,7 @@ Welcome to my hypertext notebook. I've found hypertext as a medium to be incredi
 - End-user Programming
   - [[Domain-specific languages as end-user software]]
   - [[End-user scripting enables creative workarounds]]
-  - [A DSL for a discourse graph with information entry, visualization, and retrieval](https://scalingsynthesis.com/I-A-DSL-for-a-discourse-graph-with-information-entry-visualization-and-retrieval/)
+  - [A DSL for a discourse graph with information entry, visualization, and retrieval](https://scalingsynthesis.com/I-A-DSL-for-a-discourse-graph-with-information-entry-visualization-and-retrieval/) (on my other hypertext notebook, Scaling Synthesis)
 - How I tend to work with clients
   - [[How we can work together]]
   - [[Use a badging system as a method of actionable user research]]

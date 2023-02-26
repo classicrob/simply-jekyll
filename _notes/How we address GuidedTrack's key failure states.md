@@ -18,7 +18,7 @@ This is when the user's skill level has not yet caught up to their imagination. 
 
 The toolbar allows the user to visually scan through possible functions and fill out a form that writes the code for you. This reduces the amount of learning they need to do before doing. The toolbar also shows you documentation and examples.
 
-**TODO** *Insert image*
+https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRobAndHisNotes%2FiZol_2GNCq.png?alt=media&token=288c25b6-2be2-4879-a3fa-7ddf8d7090bb
 
 ### Create program from template
 
@@ -47,3 +47,5 @@ This is the failure state where the user is incorrectly predicting the outcomes 
 Usually, this is a problem where they incorrectly predicted the flow of the program. They don't know what will come out on one page or another, and they don't understand the logic of what they are producing.
 
 The [[GuidedTrack Live Preview]] is really great at addressing this problem. Since it highlights the part of the code that's actively producing the preview, it's really easy to diagnose problems. See [[Feedback loops are a more efficient method of communication]] for reference.
+
+![](/assets/blogpics/FeedbackLoopCodingInGuidedTrack.png)
