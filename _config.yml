@@ -9,7 +9,6 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://robhaisfield.com" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
-
 # Social Media Links
 twitter: https://www.twitter.com/RobertHaisfield
 emailid: rob@influenceinsights.io
@@ -20,17 +19,17 @@ github:
 
 # Disqus Comments
 disqus:
-    # Leave shortname blank to disable comments site-wide.
-    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname:
-    #robhaisfield  # Please correct this with your discus username
-
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  shortname:
+  #robhaisfield  # Please correct this with your discus username
 
 # Build settings
 theme: null
 plugins:
-  - jekyll-feed 
-  - jekyll-sitemap 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from
 
 markdown: kramdown
 
@@ -45,9 +44,9 @@ sass:
   style: compressed
 
 collections:
-    notes:
-      output: true
-      permalink: /notes/:title
+  notes:
+    output: true
+    permalink: /notes/:title
 
 feed:
   collections:
