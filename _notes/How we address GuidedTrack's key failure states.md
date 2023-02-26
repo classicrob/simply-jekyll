@@ -18,7 +18,7 @@ This is when the user's skill level has not yet caught up to their imagination. 
 
 The toolbar allows the user to visually scan through possible functions and fill out a form that writes the code for you. This reduces the amount of learning they need to do before doing. The toolbar also shows you documentation and examples.
 
-https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRobAndHisNotes%2FiZol_2GNCq.png?alt=media&token=288c25b6-2be2-4879-a3fa-7ddf8d7090bb
+<img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRobAndHisNotes%2FiZol_2GNCq.png?alt=media&token=288c25b6-2be2-4879-a3fa-7ddf8d7090bb" alt="GuidedTrack Toolbar">
 
 ### Create program from template
 
@@ -48,4 +48,4 @@ Usually, this is a problem where they incorrectly predicted the flow of the prog
 
 The [[GuidedTrack Live Preview]] is really great at addressing this problem. Since it highlights the part of the code that's actively producing the preview, it's really easy to diagnose problems. See [[Feedback loops are a more efficient method of communication]] for reference.
 
-![](/assets/blogpics/FeedbackLoopCodingInGuidedTrack.png)
+![](/assets/blogpics/debugger.gif)

@@ -21,7 +21,7 @@ Some notable areas where this doesn't help:
 
 This example shows the toolbar form for questions, but people can also generate buttons, images, variables, if-then statements, etc. with same toolbar.
 
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRobAndHisNotes%2FiZol_2GNCq.png?alt=media&token=288c25b6-2be2-4879-a3fa-7ddf8d7090bb)
+<img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRobAndHisNotes%2FiZol_2GNCq.png?alt=media&token=288c25b6-2be2-4879-a3fa-7ddf8d7090bb" alt="GuidedTrack Toolbar">
 
 ![](/assets/blogpics/guidedtrack-toolbar-question.png)
 
