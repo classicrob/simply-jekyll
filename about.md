@@ -30,5 +30,6 @@ Welcome to my hypertext notebook. I've found hypertext as a medium to be incredi
   - [[Why I chose to consult rather than pursue a PhD]]
   - [[Hyper learning]]
   - [[Bio]]
+- [[Publications]]
 
 If you are interested in my research on Tools for Thought, see [Scaling Synthesis](https://scalingsynthesis.com).

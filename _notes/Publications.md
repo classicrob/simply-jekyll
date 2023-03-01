@@ -1,3 +1,6 @@
+---
+title: Publications
+---
 ## Writing
 
 - [Scaling Synthesis](scalingsynthesis.com)
