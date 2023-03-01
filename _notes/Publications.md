@@ -5,6 +5,7 @@ title: Publications
 
 - [Scaling Synthesis](scalingsynthesis.com)
 - [Future of Text Volume II](https://futuretextpublishing.com/the-future-of-text/), "Programmable text interfaces are the future, not GUIs"
+- [Roamgames Onboarding Competition](https://www.figma.com/file/5shwLdUCHxSaPNEO7pazbe/Dhrumil%26Robert---RoamGames-Challenge-2?node-id=0%3A1&t=p0Sve6AeUoRGMO5t-1), Winning Submission
 
 ## Presentations
 
