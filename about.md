@@ -29,4 +29,4 @@ Welcome to my hypertext notebook. I've found hypertext as a medium to be incredi
 - My personal journey
   - [[Why I chose to consult rather than pursue a PhD]]
   - [[Hyper learning]]
-  - [[About Me]]
+  - [[Bio]]

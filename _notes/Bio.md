@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Bio
 ---
 
 I started out my career studying behavioral economics in college, graduated wanting to keep working in the space but figured that technology was the best place to apply behavioral science for high impact.
