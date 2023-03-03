@@ -17,7 +17,7 @@ First, I looked at the project through my lenses to see if anything immediately 
 
 [[People start using an app with different prior skill levels]]. GuidedTrack is a coding language! Some of our new users have a coding background with languages like HTML, Javascript, or R, and others only ever used drag and drop applications like Typeform. While everybody starts from a place of not knowing how to use GuidedTrack, some people would pick up on it much quicker than others. Eventually, I would realize that "prior skill" wasn't the right word for it so much as "pre-existing mental models," but more on that later.
 
-[[People start using an app with different prior mental models]]. GuidedTrack is a coding language! Some of our new users have a coding background with languages like HTML, Javascript, or R, and others only ever used click and drag applications like Typeform. People who have never coded probably haven't had to deal with many error codes before, and may not be equipped to deal with them. While everybody starts from a place of not knowing how to use GuidedTrack, some people would pick up on it much quicker than others because their mental models more cleanly align with how GuidedTrack works.
+[[People start using an app with different prior mental models]]. People who have never coded probably haven't had to deal with many error codes before, and may not be equipped to deal with them. While everybody starts from a place of not knowing how to use GuidedTrack, some people would pick up on it much quicker than others because their mental models more cleanly align with how GuidedTrack works.
 
 ### Code is intimidating to non-coders. Can you blame them?
 
