@@ -5,4 +5,6 @@ Since switching from [[Roam]] to [[Obsidian]], **I’ve really come to appreciat
 
 This also means that tools that work on interoperable data don't need to do everything. Honestly, isn't that just insane? I seriously can't believe that if I don't have Search and Replace across all of my notes in Obsidian... that doesn't matter. I can just do that in VSCode. No tool should have the burden of doing everything. I know this is basically reinventing the Unix philosophy, but it's a better world.
 
-The biggest critique I can think of for this is that interoperable file formats could inhibit innovation. Frankly, I don't know the answer to this, it may just be a fundamental tension. I also don't believe that markdown is the most expressive file format. However, it's just nice knowing that my data is mine and apps are competing on functionality rather than switching costs.
+The biggest critique I can think of for this is that interoperable file formats could inhibit innovation. Frankly, I don't know the answer to this, it may just be a fundamental tension. I also [don't believe that markdown is the most expressive file format](https://twitter.com/RobertHaisfield/status/1461508885408206850). However, it's just nice knowing that my data is mine and apps are competing on functionality rather than switching costs.
+
+For more discussion, see this [thread](https://twitter.com/RobertHaisfield/status/1385228672580218882).

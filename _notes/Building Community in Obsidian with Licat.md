@@ -1,7 +1,7 @@
 ---
 title: Building Community in Obsidian with Licat
 ---
-Below is a chat I had via Discord with Licat, one of the co-founders of Obsidian, an excellent application that I use for editing all of the markdown files on this website. I'm working on developing a community for [[GuidedTrack]], so this conversation was incredibly helpful.
+Below is a chat I had via Discord with Licat, one of the co-founders of [[Obsidian]], an excellent application that I use for editing all of the markdown files on this website. I'm working on developing a community for [[GuidedTrack]], so this conversation was incredibly helpful.
 
 I'm a behavioral product strategist. That means I like to think about design decisions with respect to how they influence user behavior.
 
