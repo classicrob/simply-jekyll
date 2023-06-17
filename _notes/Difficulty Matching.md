@@ -8,7 +8,7 @@ A **flow state** is often characterized as [optimal human experience](https://en
 
 ![](/assets/blogpics/FlowModelDifficultyMatching.png)
 
-The general emotional experience that is being described here is that when a task is too challenging for a user’s current level of ability, they’ll get frustrated and give up. Alternatively, when the task is far too easy, they are likely to experience boredom. Both of these are potential [[Intentionally design for failure states]] where the user may lose interest in the app. 
+The general emotional experience that is being described here is that when a task is too challenging for a user’s current level of ability, they’ll get frustrated and give up. Alternatively, when the task is far too easy, they are likely to experience boredom. Both of these are potential [[Failure state]]s where the user may lose interest in the app. 
 
 **As a rule of thumb, I find it best to match the difficulty of the task with the skill level of the user.**
 

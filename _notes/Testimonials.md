@@ -2,7 +2,7 @@
 title: Testimonials
 ---
 ### Adam Taylor
-*Cofounder and CEO of [Fabriq](https://www.ourfabriq.com)*
+*Cofounder and CEO of [[Fabriq]]*
 
 "These days, it's all too easy to think you’re implementing effective behavioral design principles after reading a few articles, or a one-off conversation with someone who’s “done it before”, but Rob provides the kind of expertise that product design teams are unlikely to possess in-house, even if they are well schooled in UI/UX/CX. Rob’s contribution to our “goal & reward” system redesign was not only a crucial correction to our process and the direction we took the work, but it was an educational opportunity for our team(s) that gave us additional lenses through which to view our work that will pay dividends down the line.” 
 
