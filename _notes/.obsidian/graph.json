@@ -1,1 +1,44 @@
-{"collapse-filter":true,"search":"","showTags":true,"showAttachments":false,"hideUnresolved":false,"showOrphans":false,"collapse-color-groups":true,"colorGroups":[{"query":"evergreen","color":{"a":1,"rgb":6422401}},{"query":"open-questions","color":{"a":1,"rgb":16711680}},{"query":"file:\"R-\"","color":{"a":1,"rgb":16379464}}],"collapse-display":true,"showArrow":true,"textFadeMultiplier":0.7,"nodeSizeMultiplier":1.27682584269663,"lineSizeMultiplier":0.414953216714128,"collapse-forces":true,"centerStrength":0,"repelStrength":20,"linkStrength":1,"linkDistance":194,"scale":0.025872821766018014,"close":true}
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "gamification",
+      "color": {
+        "a": 1,
+        "rgb": 6422401
+      }
+    },
+    {
+      "query": "behavior",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "goal",
+      "color": {
+        "a": 1,
+        "rgb": 7817465
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0.7,
+  "nodeSizeMultiplier": 1.27682584269663,
+  "lineSizeMultiplier": 1.09331868489583,
+  "collapse-forces": false,
+  "centerStrength": 0.41064453125,
+  "repelStrength": 17.333984375,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.2898903849119191,
+  "close": false
+}

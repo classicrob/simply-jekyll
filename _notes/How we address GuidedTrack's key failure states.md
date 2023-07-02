@@ -10,6 +10,11 @@ GuidedTrack has certain failure states for new users, and we need to [[Intention
 * Running syntactically incorrect code and seeing an error code (or worse, many errors!)
 * Running syntactically correct code and finding that the code doesn't produce the expected outcomes."
 
+If the user gives up after failure, then we lose them. Failure is inevitable in the learning process, so we have to help the user recover.
+
+![](/assets/blogpics/FeedbackLoopCodingInGuidedTrack.png)
+
+
 # Not knowing how to write the code the user is envisioning
 
 This is when the user's skill level has not yet caught up to their imagination. We have a few solutions for this:
