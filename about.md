@@ -21,7 +21,7 @@ The majority of this website was written while I was working as a behavioral pro
   - [[Designing for failure states in Fabriq]]
 - [[Behavioral Product Strategy]]
   - [[User Involvement]]
-    - A [demo for a simple LLM-powered Tool for Thought](https://www.youtube.com/watch?v=9edLOMad7Cc) that uses behavioral product strategy to facilitate goal accomplishment faster for less user involvement
+  - A [demo for a simple LLM-powered Tool for Thought](https://www.youtube.com/watch?v=9edLOMad7Cc) that uses behavioral product strategy to facilitate goal accomplishment faster for less user involvement
   - [[Designing for user involvement has positive effects on adoption, retention, and virality]]
   - [[Continuous onboarding]]
 - Onboarding
