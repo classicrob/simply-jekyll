@@ -6,7 +6,9 @@ permalink: /about
 redirect_from: /
 ---
 
-Welcome to my hypertext notebook. I've found hypertext as a medium to be incredibly liberating, and come with unique affordances. See [[Writing in hypertext]] for a primer on how to best consume this website. The majority of this website was written while I was working as a behavioral product strategy and gamification consultant, and has seen minimal updates since then. It discusses topics such as:
+Welcome to my hypertext notebook. I've found hypertext as a medium to be incredibly liberating, and come with unique affordances. See [[Writing in hypertext]] for a primer on how to best consume this website. Currently, I'm writing a book on Continuous Onboarding that attempts to linearize it. You can follow my progress by subscribing to my [newsletter](newsletter.robhaisfield.com).
+
+The majority of this website was written while I was working as a behavioral product strategy and gamification consultant, and has seen minimal updates since then. It discusses topics such as:
 
 - My personal journey
   - [[Why I chose to consult rather than pursue a PhD]]
