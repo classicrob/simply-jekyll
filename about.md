@@ -38,3 +38,5 @@ The majority of this website was written while I was working as a behavioral pro
   - [A DSL for a discourse graph with information entry, visualization, and retrieval](https://scalingsynthesis.com/I-A-DSL-for-a-discourse-graph-with-information-entry-visualization-and-retrieval/) (on my other hypertext notebook, Scaling Synthesis)
 
 If you are interested in my research on Tools for Thought, see [Scaling Synthesis](https://scalingsynthesis.com).
+
+<iframe src="https://newsletter.robhaisfield.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
