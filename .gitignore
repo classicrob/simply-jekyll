@@ -4,5 +4,6 @@ _site
 .jekyll-metadata
 .obsidian
 vendor
-
+_notes/.smart-connections
+.vscode
 _notes/.obsidian/workspace

@@ -12,10 +12,11 @@ I initially performed a behavioral audit of [Fabriq](ourfabriq.com), analyzing i
 
 **Please feel free to email me directly if you would like to work together: [rob@influenceinsights.io](mailto:rob@influenceinsights.io)**
 
-# We always start with exploration
-This helps us understand the ways that we can work together long term. This often comes in the form of a behavioral audit or a workshop (of varying degrees of formality).
+# We usually start with discovery
 
-### Engagement type: Behavioral Audit
+This helps us understand the ways that we can work together long term. Empowered with shared This often comes in the form of a behavioral audit or a workshop (of varying degrees of formality).
+
+### Engagement type: UX / Product Audit, with a focus on [[Continuous onboarding]] or [[mental model]]
 **In the behavioral audit,** I'll analyze your product and talk with you and members of your team about business and user objectives to gain an impression of your product. After a few weeks, you will receive a report of how your product is currently influencing user behavior and directions to explore for a more goal-driven [[Behavioral Product Strategy]].
 
 ### Engagement type: Workshop

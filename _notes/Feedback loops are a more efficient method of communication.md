@@ -21,6 +21,6 @@ When we decided to focus on more fundamental [[feedback loop]]s to make GuidedTr
 
 ![](/assets/blogpics/Side-by-side-preview-lesson.png)
 
-A side-by-side preview tightened the feedback loop between behavioral inputs (writing code) and viewing the output, allowing the user to gain a mental model for how GuidedTrack transforms their inputs into outputs. What's more? As long as you're using GuidedTrack, that feedback loop is unavoidable. More usage naturally leads to better understanding.
+A side-by-side preview tightened the feedback loop between behavioral inputs (writing code) and viewing the output, allowing the user to gain a [[mental model]] for how GuidedTrack transforms their inputs into outputs. What's more? As long as you're using GuidedTrack, that feedback loop is unavoidable. More usage naturally leads to better understanding.
 
 *For more information on the GuidedTrack onboarding plan, see [[Onboarding Plan as Presented to GuidedTrack on 10-20-20]]*

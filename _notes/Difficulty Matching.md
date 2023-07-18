@@ -108,7 +108,7 @@ With difficulty level selection, the user makes a choice about how much effort t
 
 Steamworld Heist lets you select your level of difficulty before you start playing. Harder difficulties reap greater rewards. People in general like to see greater effort lead to greater reward, regardless of what app they are using.
 
-The problem is of course that people don't have a mental model for what each difficulty level means before they start playing the game. Steamworld Heist addresses this problem by making the parameters of each difficulty level explicit for comparison. This doesn't remove the problem though, so difficulty isn't just a choice you make upfront - you can change it at any point!
+The problem is of course that people don't have a [[mental model]] for what each difficulty level means before they start playing the game. Steamworld Heist addresses this problem by making the parameters of each difficulty level explicit for comparison. This doesn't remove the problem though, so difficulty isn't just a choice you make upfront - you can change it at any point!
 
 ![difficulty level selection screen in Steamworld Heist](/assets/blogpics/SteamworldHeistDifficultySelection.png)
 

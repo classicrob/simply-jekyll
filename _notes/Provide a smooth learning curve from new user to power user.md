@@ -9,7 +9,7 @@ Below are just a few examples of us thinking about the stages of a user's progre
 
 ### Side-by-side preview
 
-When new users are learning how to read the code, we want them to use the [[GuidedTrack Live Preview]]. This will help them understand exactly what code produces the output that they see in the preview, helping them gain an early mental model of how GuidedTrack works before they even create anything.
+When new users are learning how to read the code, we want them to use the [[GuidedTrack Live Preview]]. This will help them understand exactly what code produces the output that they see in the preview, helping them gain an early [[mental model]] of how GuidedTrack works before they even create anything.
 
 ![](/assets/blogpics/debugger.gif)
 

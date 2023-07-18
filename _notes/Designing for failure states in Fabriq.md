@@ -6,7 +6,8 @@ title: Designing for failure states in Fabriq
 When you should connect with a person next is communicated through their touch-base timer, a circle around the contact's picture that is green when it's full, yellow when it's half-full, and red when it's close to empty. People in your inner circle have shorter loops, whereas people in your outer circle might take a month or more to go through a full cycle.
 
 Users generally like this and find it to be helpful. If the circle around a contact's profile is yellow or red, that means that reaching out can be treated like a todo list item to check off. However, each time the touch-base timer goes into the red, the user experiences a small feeling of failure. If the user lets too many connections slip, then their screen will start to look like this.
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRobAndHisNotes%2FByIvg6D2gA.png?alt=media&token=3d41b6b3-4bc8-4f76-be04-6aad49647d7e)
+
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRobAndHisNotes%2FByIvg6D2gA.png?alt=media&token=3d41b6b3-4bc8-4f76-be04-6aad49647d7e)
 
 Just imagine the emotional experience of the user at this point. They have a dozen or more connections-- real people in their lives that matter to them-- that they have ignored. It probably feels like a daunting and anxiety-inducing task to recover. From a [[Difficulty Matching]] perspective, we're essentially watching the user fail to meet the challenge of maintaining their intended connection frequency and then giving them the more challenging task of recovering their red contacts while simultaneously maintaining their yellow and green contacts. After seeing a few contacts go into the red, the user starts to feel they have passed the point of no return and give up on Fabriq.
 
