@@ -31,20 +31,6 @@ files.forEach((fileName) => {
     fs.writeFileSync(fileName, sourceFileContent, 'utf8');
 });
 
-files.forEach((fileName) => {
-    const sourceFileName = fileName.replace("../_notes-source", "../_notes");
-    const sourceFileContent = fs.readFileSync(sourceFileName, 'utf8');
-    
-    // Read the existing file content
-    const existingFileContent = fs.readFileSync(fileName, 'utf8');
-    
-    // Append the new content to the existing file content
-    const updatedFileContent = existingFileContent + sourceFileContent;
-    
-    // Write the updated content back to the file
-    fs.writeFileSync(fileName, updatedFileContent, 'utf8');
-});
-
 
 // map over all files and replace wikilink aliases with markdown aliases
 
