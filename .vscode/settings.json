@@ -1,4 +1,9 @@
 {
   "gotoSymbolStack.currentStackPosition": 0,
-  "gotoSymbolStack.filePositionInfo": []
+  "gotoSymbolStack.filePositionInfo": [],
+  "gotoSymbolStack.maxStackPosition": 0,
+  "workbench.colorCustomizations": {
+    "minimap.background": "#00000000",
+    "scrollbar.shadow": "#00000000"
+  }
 }

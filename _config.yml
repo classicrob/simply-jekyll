@@ -61,3 +61,42 @@ defaults:
       layout: post
       content-type: notes
       comments: true
+
+preferences:
+  search:
+    enabled: true
+    shortcut_hint: 
+        enabled: true
+  wiki_style_link: # This property handles wiki style links '[['
+    enabled: true
+  sidenotes: 
+    enabled: true
+  transclusion:
+    enabled: true
+  image:
+    enabled: true
+  pagepreview:
+    enabled: true
+  highlighting:
+    enabled: true
+    color: DAEDFF # Takes hexadecimal and basic names like white, red, etc. 
+                  # Do not add '#'(the pound symbol) before the hexadecimal number.
+                  # In yml, it is considered as a comment
+  backlinks:
+    enabled: true
+  related:
+    enabled: true # This enables the posts that are related to each other by tags
+  wrapping:
+    enabled: true
+  contextmenu:
+    enabled: true
+    copylink: 
+      enabled: true
+    newtab: 
+      enabled: true
+    backlinks: 
+      enabled: true
+    related: 
+      enabled: true
+  flashcards:
+    enabled: true

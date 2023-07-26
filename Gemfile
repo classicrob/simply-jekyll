@@ -29,3 +29,4 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 gem 'jekyll-feed'
 gem 'jekyll-sitemap'
 gem 'jekyll-redirect-from'
+gem 'webrick'

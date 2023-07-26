@@ -24,13 +24,13 @@ From the video:
 
 Don't get me wrong, upfront onboarding can be a perilous time. Without the right kind of supportive design, you lose users. Many apps are both hard to learn and use, and I would bet they have high churn. But we don't need to be afraid - we just need a better framework for understanding the user's overall learning journey. This is what I'm trying to communicate through [[Continuous onboarding]].
 
-![[/assets/blogpics/suck-badass-curve.png]]
+![](/assets/blogpics/suck-badass-curve.png)
 
 *In this graph from Kathy Sierra’s “[Badass: Making Users Awesome](https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019),” she describes a “Suck Threshold.” Below this point, the user has not yet figured out how to gain value. This is where an upfront onboarding is important.*
 
 We don't need to teach the user everything at the beginning. We can spread learning out as long as users recognize that their own involvement is bringing them closer to goal accomplishment. That is what motivates them to keep at it. As designers, we need to think of [[User Involvement]] as a resource we get to tactically spend, while recognizing our tools to increase user involvement through motivational techniques.
 
-I'm a big believer in "low floor, high ceiling." It shouldn't take much effort or time to gain value out of the system. [[The hard problem of onboarding horizontal products||As the user's skill grows, user goals will get more sophisticated and varied]]. If we want to retain users, [[Apps with continued user involvement respond to changing user goals over time|we need to cater to their six month goals just as well as their first week goals]].
+I'm a big believer in "low floor, high ceiling." It shouldn't take much effort or time to gain value out of the system. [As the user's skill grows, user goals will get more sophisticated and varied](/notes/The-hard-problem-of-onboarding-horizontal-products). If we want to retain users, [we need to cater to their six month goals just as well as their first week goals](/notes/Apps-with-continued-user-involvement-respond-to-changing-user-goals-over-time).
 
 > “North star for Roam Research is Excel. Easy enough for 750M people to use, powerful enough that you can spend your whole career working 40+hr a week in it and still find new ways to use it. Low floor, High Ceiling - to quote [Gordon Brander](https://gordonbrander.com/pattern/low-floor-wide-walls-high-ceiling/)”
 > 
@@ -38,7 +38,7 @@ I'm a big believer in "low floor, high ceiling." It shouldn't take much effort o
 
 “Intuitive design" should be less about designing an app with immediately obvious interactions and **more about [design that builds intuition through feedback loops.](https://twitter.com/RobertHaisfield/status/1344776645752733697?s=20)** This distinction is especially important if you're building an innovative product, where users lack prior intuition.
 
-I wish app developers and designers would think seriously about [[Provide a smooth learning curve from new user to power user|creating a smooth learning curve from novice to expert]]. What are the stages of development, and how do we facilitate the ramp up? [[Intentionally design for failure states|How are users likely to fail along the way, and how might we help them recover?]] Continuous onboarding! I don't get why everyone expects all onboarding to be upfront. We should instead focus on [the behavioral science of building expert intuition](https://twitter.com/RobertHaisfield/status/1331810768866557954?s=20) and [[Products are fundamentally voluntary|facilitating goal accomplishment]] for inspiration.
+I wish app developers and designers would think seriously about [creating a smooth learning curve from novice to expert](/notes/Provide-a-smooth-learning-curve-from-new-user-to-power-user). What are the stages of development, and how do we facilitate the ramp up? [How are users likely to fail along the way, and how might we help them recover?](/notes/Intentionally-design-for-failure-states) Continuous onboarding! I don't get why everyone expects all onboarding to be upfront. We should instead focus on [the behavioral science of building expert intuition](https://twitter.com/RobertHaisfield/status/1331810768866557954?s=20) and [facilitating goal accomplishment](/notes/Products-are-fundamentally-voluntary) for inspiration.
 
 **The question we need to ask is: how might we make it rewarding to progress along the path to power user?**
 
