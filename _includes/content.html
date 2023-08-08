@@ -12,11 +12,20 @@
     {%- endif -%}
 </ul>
 {%- endif -%}
+
 <div class="content">
     {%- assign content_array = content | split:'[[' -%}
     {%- assign external_link_delimiter = '::' -%}
-
+    {% assign relative_urls = content | extract_relative_urls %}
+    {% assign relative_url_array = relative_urls | split: '$@' %}
+    {% assign anchor_text_array = content | extract_anchor_texts | split: '$@' %}
     {%- assign link_joiner_delimiter = '$@' -%}
+    {%- for url in relative_urls -%}
+        {%- assign title = url | remove: '/notes/' | replace: '-', ' ' -%}
+        {%- assign alias_titles = alias_titles | append: link_joiner_delimiter | append: title -%}
+    {%- endfor -%}
+    {%- assign alias_title_array = alias_titles | split: link_joiner_delimiter -%}
+    {%- assign alias_title_array = alias_title_array | shift %}
     {%- for item in content_array -%}
         {%- if forloop.index > 1 -%}
             {%- assign itemparts = item | split:']]' -%}
@@ -39,57 +48,55 @@
     
     {%- assign internal_url_array = internal_urls | split:link_joiner_delimiter -%}
     {%- assign internal_link_array = internal_links | split:link_joiner_delimiter -%}
-    <!-- INTLINKARRAY {{internal_link_array}} -->
-    <!-- INTURLARRAY {{internal_url_array}} -->
+    <!-- logging different arrays -->
+    <!-- intLinkArray {{internal_link_array}} -->
+    <!-- AliasTitleArray {{alias_title_array}} -->
+    <!-- AliasTitlesArrayLength {{alias_title_array | size }} -->
+    <!-- intURLArray {{internal_url_array}}  -->
+    <!-- relURLArray: {{relative_url_array}} -->
+    <!-- relURLArrayLength: {{relative_url_array | size}} -->
+    <!-- anchorTextArray: {{anchor_text_array}} -->
+    <!-- anchorTextArrayLength: {{anchor_text_array | size}} -->
+    
+
     {%- assign external_url_array = external_urls | split:link_joiner_delimiter -%}
     {%- assign external_link_array = external_links | split:link_joiner_delimiter -%}
 
-    
-    <!-- {%- assign replaced_content = content -%}
-    {%- for title in internal_link_array -%}
-        {%- assign url = internal_url_array[forloop.index0] -%}
-        {%- if url == nil -%}
-            {%- assign link_text = '<a class="stale-link" href="' | append: 'javascript:void(0)' | append: '">' | append: title | append: '</a>' -%}
-        {%- elsif url == empty -%}
-            {%- assign link_text = '<a class="stale-link" href="' | append: 'javascript:void(0)' | append: '">' | append: title | append: '</a>' -%}
-        {%- else -%}
-            {%- assign link_text = '<a href="' | append: url | append: '">' | append: title | append: '</a>' -%}
-        {%- endif -%}
-        {%- assign bracket_link = '[[' | append: title | append: ']]' -%}
-        {%- assign replaced_content = replaced_content | replace: bracket_link,link_text -%}
-    {%- endfor -%} -->
-
     {%- assign replaced_content = content -%}
-    {%- for title in internal_link_array -%}
-        {%- assign url = internal_url_array[forloop.index0] -%}
+    {%- for anchor in anchor_text_array -%}
+        {%- assign url = relative_url_array[forloop.index0] -%}
+        {%- assign title = alias_title_array[forloop.index0] -%}
+        <!-- LoggingAliasLoop: anchor:{{anchor}} url:{{url}} title:{{title}} -->
+        <!-- logHrefLink: {{href_link}} -->
         {%- if url == nil -%}
-            {%- assign link_text = '<a class="stale-link" href="' | append: 'javascript:void(0)' | append: '">' | append: title | append: '</a>' -%}
+            {%- assign link_text = '<a class="stale-link" href="' | append: 'javascript:void(0)' | append: '">' | append: anchor | append: '</a>' -%}
         {%- elsif url == empty -%}
-            {%- assign link_text = '<a class="stale-link" href="' | append: 'javascript:void(0)' | append: '">' | append: title | append: '</a>' -%}
+            {%- assign link_text = '<a class="stale-link" href="' | append: 'javascript:void(0)' | append: '">' | append: anchor | append: '</a>' -%}
         {%- else -%}
                 {%- assign post = site.notes | where: 'title',title -%}
                 {%- assign content_without_brackets = post[0].content | replace: '[[', '' | replace: ']]', '' -%}
                 {%- assign excerpt = content_without_brackets | markdownify | strip_html | truncate: 500 | newline_to_br -%}
                 {%- if site.preferences.pagepreview.enabled -%}
-                    {%- assign link_text = '<span class="tooltip"><a href="' | append: url | append: '">' | append: title | append: '</a><span class="right bottom"><span class="tooltip-title">' | append: title | append: '</span><br/><span class="tooltip-excerpt">' | append: excerpt | append: '</span><i></i></span></span>' -%}
+                    {%- assign link_text = '<span class="tooltip"><a href="' | append: url | append: '">' | append: anchor | append: '</a><span class="right bottom"><span class="tooltip-title">' | append: anchor | append: '</span><br/><span class="tooltip-excerpt">' | append: excerpt | append: '</span><i></i></span></span>' -%}
                 {%- else -%}
-                    {%- assign link_text = '<span><a href="' | append: url | append: '">' | append: title | append: '</a></span>' -%}
+                    {%- assign link_text = '<span><a href="' | append: url | append: '">' | append: anchor | append: '</a></span>' -%}
                 {%- endif -%}
         {%- endif -%}
-        {%- assign bracket_link = '[[' | append: title | append: ']]' -%}
-        {%- assign replaced_content = replaced_content | replace: bracket_link,link_text -%}
+        {%- assign href_link = '<a href="' | append: url | append: '">' | append: anchor | append: "</a>" -%}
+        {%- assign replaced_content = replaced_content | replace: href_link,link_text -%}
     {%- endfor -%}
 
 
     {%- for title in internal_link_array -%}
         {%- assign url = internal_url_array[forloop.index0] -%}
+        <!-- LoggingStandardLoop: title: {{title}} url: {{url}} -->
         {%- if url == nil -%}
             {%- assign link_text = '<a class="stale-link" href="' | append: 'javascript:void(0)' | append: '">' | append: title | append: '</a>' -%}
         {%- elsif url == empty -%}
             {%- assign link_text = '<a class="stale-link" href="' | append: 'javascript:void(0)' | append: '">' | append: title | append: '</a>' -%}
         {%- else -%}
                 {%- assign note = site.notes | where: 'title',title -%}
-                {%- assign excerpt = note[0].content | markdownify | strip_html | truncate: 200 | newline_to_br -%}
+                {%- assign excerpt = note[0].content | markdownify | strip_html | truncate: 500 | newline_to_br -%}
                 {%- if site.preferences.pagepreview.enabled -%}
                     {%- assign link_text = '<span class="tooltip"><a href="' | append: url | append: '">' | append: title | append: '</a><span class="right bottom"><span class="tooltip-title">' | append: title | append: '</span><br/><span class="tooltip-excerpt">' | append: excerpt | append: '</span><i></i></span></span>' -%}
                 {%- else -%}

@@ -1,0 +1,21 @@
+module Jekyll
+  module TooltipLinkReplacerFilter
+    def replace_links_with_tooltips(input)
+      # Extract relative URLs and anchor texts
+      relative_urls = input.scan(/\/notes\/[\w-]+/)
+      anchor_texts = input.scan(/<a href="\/notes\/[\w-]+">(.+?)<\/a>/).flatten
+
+      # Replace each link with a tooltip
+      relative_urls.each_with_index do |url, index|
+        title = url.sub('/notes/', '').tr('-', ' ')
+        anchor_text = anchor_texts[index]
+        tooltip_link = "<span class='tooltip'><a href='#{url}'>#{anchor_text}</a><span class='right bottom'><span class='tooltip-title'>#{anchor_text}</span><br/><span class='tooltip-excerpt'>#{title}</span><i></i></span></span>"
+        input.gsub!(/<a href="#{url}">#{anchor_text}<\/a>/, tooltip_link)
+      end
+
+      input
+    end
+  end
+end
+
+Liquid::Template.register_filter(Jekyll::TooltipLinkReplacerFilter)

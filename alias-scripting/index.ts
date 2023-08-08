@@ -15,7 +15,7 @@ function replaceWikilinkAliasWithMarkdownAlias (fileName: string) {
     const newFileContent = fileContent.replace(/\[\[([^|\]]*?)\|(.*?)\]\]/g, (match, title, label) => {
         // replace spaces with dashes in title
         const internalLink = title.replace(/\s/g, '-');
-        return `[${label}](/notes/${internalLink})`;
+        return `((${label}::/notes/${internalLink}))`;
     });
     
     // write file
@@ -25,11 +25,11 @@ function replaceWikilinkAliasWithMarkdownAlias (fileName: string) {
 // replace all of the text in the _notes-source directory with the text in the _notes directory
 
 // replace all of the text in the _notes-source directory with the text in the _notes directory
-files.forEach((fileName) => {
-    const sourceFileName = fileName.replace("../_notes-source", "../_notes");
-    const sourceFileContent = fs.readFileSync(sourceFileName, 'utf8');
-    fs.writeFileSync(fileName, sourceFileContent, 'utf8');
-});
+// files.forEach((fileName) => {
+//     const sourceFileName = fileName.replace("../_notes-source", "../_notes");
+//     const sourceFileContent = fs.readFileSync(sourceFileName, 'utf8');
+//     fs.writeFileSync(fileName, sourceFileContent, 'utf8');
+// });
 
 
 // map over all files and replace wikilink aliases with markdown aliases
