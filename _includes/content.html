@@ -86,7 +86,7 @@
                 {%- assign content_without_brackets = post[0].content | replace: '[[', '' | replace: ']]', '' -%}
                 {%- assign excerpt = content_without_brackets | markdownify | strip_html | truncate: 500 | newline_to_br -%}
                 {%- if site.preferences.pagepreview.enabled -%}
-                    {%- assign link_text = '<span class="tooltip"><a href="' | append: url | append: '">' | append: anchor | append: '</a><span class="right bottom"><span class="tooltip-title">' | append: anchor | append: '</span><br/><span class="tooltip-excerpt">' | append: excerpt | append: '</span><i></i></span></span>' -%}
+                    {%- assign link_text = '<span class="tooltip"><a href="' | append: url | append: '">' | append: anchor | append: '</a><span class="right bottom"><span class="tooltip-title">' | append: title | append: '</span><br/><span class="tooltip-excerpt">' | append: excerpt | append: '</span><i></i></span></span>' -%}
                 {%- else -%}
                     {%- assign link_text = '<span><a href="' | append: url | append: '">' | append: anchor | append: '</a></span>' -%}
                 {%- endif -%}
