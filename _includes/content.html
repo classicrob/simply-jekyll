@@ -13,17 +13,25 @@
 </ul>
 {%- endif -%}
 
+
+
 <div class="content">
+    <!-- notesArray: {{site.notes[0].url}} -->
     {%- assign content_array = content | split:'[[' -%}
     {%- assign external_link_delimiter = '::' -%}
-    {% assign relative_urls = content | extract_relative_urls %}
-    {% assign relative_url_array = relative_urls | split: '$@' %}
+    {% assign relative_urls_string = content | extract_relative_urls %}
+    {% assign relative_url_array = relative_urls_string | split: '$@' %}
     {% assign anchor_text_array = content | extract_anchor_texts | split: '$@' %}
     {%- assign link_joiner_delimiter = '$@' -%}
-    {%- for url in relative_urls -%}
-        {%- assign title = url | remove: '/notes/' | replace: '-', ' ' -%}
-        {%- assign alias_titles = alias_titles | append: link_joiner_delimiter | append: title -%}
+    {%- for url in relative_url_array -%}
+        {% assign note_matches = site.notes | where: 'url', url %}
+        
+        <!-- note: {{note[0].title}} url: {{url}} -->
+        {%- assign alias_titles = alias_titles | append: link_joiner_delimiter | append: note_matches[0].title -%}
     {%- endfor -%}
+
+    {%- assign testTitle = site.notes | where: 'url', '/notes/Horizontal-product' -%}
+    <!-- testTitle: {{testTitle[0].title}} -->
     {%- assign alias_title_array = alias_titles | split: link_joiner_delimiter -%}
     {%- assign alias_title_array = alias_title_array | shift %}
     {%- for item in content_array -%}
@@ -51,6 +59,7 @@
     <!-- logging different arrays -->
     <!-- intLinkArray {{internal_link_array}} -->
     <!-- AliasTitleArray {{alias_title_array}} -->
+    <!-- AliasTitles {{alias_titles}} -->
     <!-- AliasTitlesArrayLength {{alias_title_array | size }} -->
     <!-- intURLArray {{internal_url_array}}  -->
     <!-- relURLArray: {{relative_url_array}} -->
