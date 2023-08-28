@@ -105,7 +105,9 @@
             {%- assign link_text = '<a class="stale-link" href="' | append: 'javascript:void(0)' | append: '">' | append: title | append: '</a>' -%}
         {%- else -%}
                 {%- assign note = site.notes | where: 'title',title -%}
-                {%- assign excerpt = note[0].content | markdownify | strip_html | truncate: 500 | newline_to_br -%}
+                <!-- did the content_without_brackets stuff to make sure we didn't get weird multi-hover-preview -->
+                {%- assign content_without_brackets = note[0].content | replace: '[[', '' | replace: ']]', '' -%}
+                {%- assign excerpt = content_without_brackets | markdownify | strip_html | truncate: 500 | newline_to_br -%}
                 {%- if site.preferences.pagepreview.enabled -%}
                     {%- assign link_text = '<span class="tooltip"><a href="' | append: url | append: '">' | append: title | append: '</a><span class="right bottom"><span class="tooltip-title">' | append: title | append: '</span><br/><span class="tooltip-excerpt">' | append: excerpt | append: '</span><i></i></span></span>' -%}
                 {%- else -%}
