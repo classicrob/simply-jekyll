@@ -12,6 +12,7 @@ title: Publications
 
 - [Dodging the Crap - The Behavioral Science of Great Gamification](https://www.youtube.com/watch?v=bV-MONEphRs)
 - [Scaling Synthesis, Multiplayer TFT](https://www.youtube.com/watch?v=enRYIUDRwWg&t=341s)
+- Also see my dozen interviews with knowledge management software users on my [Youtube channel](https://www.youtube.com/watch?v=A6PIrVZoZAk&list=PLAguQH5EvMCqz_-r48Bmcg7EkOi8Iwz_x&index=1)
 
 ## Podcast Appearances
 
@@ -39,3 +40,6 @@ title: Publications
 	- We talk about important findings, as well as various existing tools for thought, what makes them special, and how using them changes outcomes for a Google Docs or Office user.
 - Tools for Thinking Podcast by Betaworks, [Episode 14](https://open.spotify.com/episode/79dhwLMsb1ulee5FLQjViR?si=_fNEli1GR_6sCcNtW3CXNg)
 	- Jerry Michalski and Maggie Appleton and I discuss how digital gardens (also known as hypertext notebooks or personal wikis), as well as how AI (at the time, GPT-3) in software might support better thinking.
+
+## Interviews
+
