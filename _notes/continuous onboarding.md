@@ -18,6 +18,3 @@ It should be noted that some apps have a more expansive range of potential use c
 
 "Explainer content" (documentation, app tours, videos, etc.) is valuable, but isn’t scalable. Most people ignore explainer content. Learnable design, on the other hand, means that, as the user attempts to do something, the app [communicates how it works through feedback loops](/notes/Feedback-loops-are-a-more-efficient-method-of-communication). Make the impact of the user's actions more clear and immediate, while signaling how it brings the user closer to or further from their goals. Pay attention to the user's choices, and based on those, connect users to the functionality that matches their intention.  
   
-_In many ways, this post is a rough outline for the whole book. If you click around the links, you’ll find long trails to follow. My task now is to figure out how to package it all to make sense and flow well in a linear order. As always, please comment any thoughts or questions!_
-
-<iframe src="https://newsletter.robhaisfield.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

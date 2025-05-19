@@ -42,4 +42,3 @@ I wish app developers and designers would think seriously about [creating a smo
 
 **The question we need to ask is: how might we make it rewarding to progress along the path to power user?**
 
-<iframe src="https://newsletter.robhaisfield.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

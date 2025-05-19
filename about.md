@@ -6,7 +6,7 @@ permalink: /about
 redirect_from: /
 ---
 
-Welcome to my hypertext notebook. I've found hypertext as a medium to be incredibly liberating, and come with unique affordances. See [[Writing in hypertext]] for a primer on how to best consume this website. Currently, I'm building [WebSim](https://websim.ai), a platform for creating and sharing web apps, games, and other interactive experiences. You can follow my progress by subscribing to my [newsletter](newsletter.robhaisfield.com).
+Welcome to my hypertext notebook. I've found hypertext as a medium to be incredibly liberating, and come with unique affordances. See [[Writing in hypertext]] for a primer on how to best consume this website. Currently, I'm building [WebSim](https://websim.ai), a platform for creating and sharing web apps, games, and other interactive experiences.
 
 The majority of this website was written while I was working as a behavioral product strategy and gamification consultant, and has seen minimal updates since then. It discusses topics such as:
 
@@ -39,4 +39,3 @@ The majority of this website was written while I was working as a behavioral pro
 
 If you are interested in my research on Tools for Thought, see [Scaling Synthesis](https://scalingsynthesis.com).
 
-<iframe src="https://newsletter.robhaisfield.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
